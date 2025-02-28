@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Making Windows XP Faster	</title>
+	<atom:link href="/old-blog/384/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/384</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Wed, 04 Oct 2006 10:57:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/384/comment-page-1#comment-766</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Wed, 04 Oct 2006 10:57:42 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=384#comment-766</guid>
+
+					<description><![CDATA[I recall I once watched a Channel 9 ( http://channel9.msdn.com/ ) video where the creators of the registry were interviewed. They said that the registry was &quot;misunderstood&quot; and took the blame on themselves saying they didn&#039;t educate people as to what proper use of the registry is.
+
+Here&#039;s an example of improper use:
+http://blogs.msdn.com/oldnewthing/archive/2006/02/22/536920.aspx]]></description>
+			<content:encoded><![CDATA[<p>I recall I once watched a Channel 9 ( <a href="http://channel9.msdn.com/" rel="nofollow ugc">http://channel9.msdn.com/</a> ) video where the creators of the registry were interviewed. They said that the registry was &#8220;misunderstood&#8221; and took the blame on themselves saying they didn&#8217;t educate people as to what proper use of the registry is.</p>
+<p>Here&#8217;s an example of improper use:<br />
+<a href="http://blogs.msdn.com/oldnewthing/archive/2006/02/22/536920.aspx" rel="nofollow ugc">http://blogs.msdn.com/oldnewthing/archive/2006/02/22/536920.aspx</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: sveta the great		</title>
+		<link>/old-blog/384/comment-page-1#comment-765</link>
+
+		<dc:creator><![CDATA[sveta the great]]></dc:creator>
+		<pubDate>Wed, 04 Oct 2006 09:57:24 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=384#comment-765</guid>
+
+					<description><![CDATA[Hey! Lets add a central database to windows and call it Registry.  This is far more better than each app store all its information in a file.]]></description>
+			<content:encoded><![CDATA[<p>Hey! Lets add a central database to windows and call it Registry.  This is far more better than each app store all its information in a file.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Google App Engine Shortcomings	</title>
+	<atom:link href="/old-blog/2675/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/2675</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Wed, 19 Sep 2012 15:28:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2675/comment-page-1#comment-181865</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 06 Feb 2012 13:10:39 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2675#comment-181865</guid>
+
+					<description><![CDATA[Thanks a lot!
+
+It&#039;s great to know that https for custom domains is on the way. I wish Google would say about their upcoming products _when_ they will be available. For example, that post you sent me to is nearly 4 months old. When they wrote it, did you expect it to take 4 months to become available (considering that they started testing it at the time?)
+
+I already have the feature request about DKIM starred :) But now that I have a solid implementation with Amazon SES and task queues, it&#039;s low on my priority list.
+
+Thanks again]]></description>
+			<content:encoded><![CDATA[<p>Thanks a lot!</p>
+<p>It&#8217;s great to know that https for custom domains is on the way. I wish Google would say about their upcoming products _when_ they will be available. For example, that post you sent me to is nearly 4 months old. When they wrote it, did you expect it to take 4 months to become available (considering that they started testing it at the time?)</p>
+<p>I already have the feature request about DKIM starred :) But now that I have a solid implementation with Amazon SES and task queues, it&#8217;s low on my priority list.</p>
+<p>Thanks again</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: proppy		</title>
+		<link>/old-blog/2675/comment-page-1#comment-181863</link>
+
+		<dc:creator><![CDATA[proppy]]></dc:creator>
+		<pubDate>Mon, 06 Feb 2012 12:31:38 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2675#comment-181863</guid>
+
+					<description><![CDATA[Re: 2. No https for custom domains
+
+It is currently being tested, see the following announcement:
+http://googleappengine.blogspot.com/2011/10/app-engine-ssl-for-custom-domains-in.html
+
+Re: 3 .Outgoing emails cannot be signed
+
+Consider starring the following feature request:
+http://code.google.com/p/googleappengine/issues/detail?id=3161]]></description>
+			<content:encoded><![CDATA[<p>Re: 2. No https for custom domains</p>
+<p>It is currently being tested, see the following announcement:<br />
+<a href="http://googleappengine.blogspot.com/2011/10/app-engine-ssl-for-custom-domains-in.html" rel="nofollow ugc">http://googleappengine.blogspot.com/2011/10/app-engine-ssl-for-custom-domains-in.html</a></p>
+<p>Re: 3 .Outgoing emails cannot be signed</p>
+<p>Consider starring the following feature request:<br />
+<a href="http://code.google.com/p/googleappengine/issues/detail?id=3161" rel="nofollow ugc">http://code.google.com/p/googleappengine/issues/detail?id=3161</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

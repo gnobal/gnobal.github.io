@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: My Current Two Principles Of Software Development	</title>
+	<atom:link href="/old-blog/640/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/640</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sun, 10 Feb 2008 23:03:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/640/comment-page-1#comment-107912</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sun, 10 Feb 2008 23:03:56 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=640#comment-107912</guid>
+
+					<description><![CDATA[Off the top of my mind: function sizes (keep them small), global variables (don&#039;t have many), access to members (do not allow). 
+
+There are so many, but most of them do not apply for all programming styles/fields (for example, in embedded programming global variables are more common). In this sense, DRY is unique - it applies for every programming style I know.]]></description>
+			<content:encoded><![CDATA[<p>Off the top of my mind: function sizes (keep them small), global variables (don&#8217;t have many), access to members (do not allow). </p>
+<p>There are so many, but most of them do not apply for all programming styles/fields (for example, in embedded programming global variables are more common). In this sense, DRY is unique &#8211; it applies for every programming style I know.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rom		</title>
+		<link>/old-blog/640/comment-page-1#comment-107869</link>
+
+		<dc:creator><![CDATA[rom]]></dc:creator>
+		<pubDate>Sun, 10 Feb 2008 15:50:13 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=640#comment-107869</guid>
+
+					<description><![CDATA[What are the other principles, besides DRY?]]></description>
+			<content:encoded><![CDATA[<p>What are the other principles, besides DRY?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

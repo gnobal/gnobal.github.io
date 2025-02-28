@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Will eBooks replace books?	</title>
+	<atom:link href="/old-blog/378/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/378</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Wed, 18 Oct 2006 17:41:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/378/comment-page-1#comment-798</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2006 17:41:23 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=378#comment-798</guid>
+
+					<description><![CDATA[It is somewhat like the &quot;paperless office&quot;. However, I believe this has more potential, as it only replaces the object a reader is reading from but doesn&#039;t change the actual actions done by the reader. 
+Unlike the paperless office, which also imposes on the person to change the way he interacts with his office.]]></description>
+			<content:encoded><![CDATA[<p>It is somewhat like the &#8220;paperless office&#8221;. However, I believe this has more potential, as it only replaces the object a reader is reading from but doesn&#8217;t change the actual actions done by the reader.<br />
+Unlike the paperless office, which also imposes on the person to change the way he interacts with his office.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: 725176		</title>
+		<link>/old-blog/378/comment-page-1#comment-790</link>
+
+		<dc:creator><![CDATA[725176]]></dc:creator>
+		<pubDate>Tue, 17 Oct 2006 05:12:47 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=378#comment-790</guid>
+
+					<description><![CDATA[It reminds me times in which people were sure we are working towards a paperless office... It happened 20-25 years ago, and since than - Office  Depo - sold a lot of papers...]]></description>
+			<content:encoded><![CDATA[<p>It reminds me times in which people were sure we are working towards a paperless office&#8230; It happened 20-25 years ago, and since than &#8211; Office  Depo &#8211; sold a lot of papers&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

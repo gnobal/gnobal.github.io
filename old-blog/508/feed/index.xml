@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Yahoo! Pipes &#8211; What A Great Idea	</title>
+	<atom:link href="/old-blog/508/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/508</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sat, 17 Feb 2007 07:23:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/508/comment-page-1#comment-2088</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sat, 17 Feb 2007 07:23:19 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=508#comment-2088</guid>
+
+					<description><![CDATA[I remember. It was a good idea, and I believe with all the personal homepages out there it&#039;s becoming a reality. Pipes is also great because you can share the customized content with others.]]></description>
+			<content:encoded><![CDATA[<p>I remember. It was a good idea, and I believe with all the personal homepages out there it&#8217;s becoming a reality. Pipes is also great because you can share the customized content with others.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/508/comment-page-1#comment-2087</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Fri, 16 Feb 2007 22:29:03 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=508#comment-2087</guid>
+
+					<description><![CDATA[Several years ago I came to with the idea that we should create a template that every user would fill out once and all the web pages he logs into will adjust accordingly. Remember? Seems somewhat similar...]]></description>
+			<content:encoded><![CDATA[<p>Several years ago I came to with the idea that we should create a template that every user would fill out once and all the web pages he logs into will adjust accordingly. Remember? Seems somewhat similar&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

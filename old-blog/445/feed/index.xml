@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: On Anger	</title>
+	<atom:link href="/old-blog/445/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/445</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 18 Mar 2019 14:09:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/445/comment-page-1#comment-971</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2006 15:33:30 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=445#comment-971</guid>
+
+					<description><![CDATA[That&#039;s a good question. Thanks.]]></description>
+			<content:encoded><![CDATA[<p>That&#8217;s a good question. Thanks.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: 725176		</title>
+		<link>/old-blog/445/comment-page-1#comment-968</link>
+
+		<dc:creator><![CDATA[725176]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2006 07:19:24 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=445#comment-968</guid>
+
+					<description><![CDATA[A moment of pshychology: If you are hurt - the natural genetic and normal outcome is to feel anger. If not possible to express  it  (because it is against your boss for example) - leads to anger at self which becomes depression. So, the question is how to let yourself be angry without hurting yourself or others.]]></description>
+			<content:encoded><![CDATA[<p>A moment of pshychology: If you are hurt &#8211; the natural genetic and normal outcome is to feel anger. If not possible to express  it  (because it is against your boss for example) &#8211; leads to anger at self which becomes depression. So, the question is how to let yourself be angry without hurting yourself or others.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

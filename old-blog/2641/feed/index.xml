@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Happy Birthday To Me. I&#8217;m 35	</title>
+	<atom:link href="/old-blog/2641/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/2641</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 09:28:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2641/comment-page-1#comment-181674</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 30 Jan 2012 08:12:21 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2641#comment-181674</guid>
+
+					<description><![CDATA[תודה רבה]]></description>
+			<content:encoded><![CDATA[<p>תודה רבה</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: DoronH		</title>
+		<link>/old-blog/2641/comment-page-1#comment-181673</link>
+
+		<dc:creator><![CDATA[DoronH]]></dc:creator>
+		<pubDate>Mon, 30 Jan 2012 08:09:11 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2641#comment-181673</guid>
+
+					<description><![CDATA[מזל טוב]]></description>
+			<content:encoded><![CDATA[<p>מזל טוב</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

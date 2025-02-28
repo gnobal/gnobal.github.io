@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Sonic Bomb Alarm Clock	</title>
+	<atom:link href="/old-blog/502/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/502</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sun, 11 Feb 2007 19:25:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/502/comment-page-1#comment-2012</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sun, 11 Feb 2007 19:25:49 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=502#comment-2012</guid>
+
+					<description><![CDATA[Yeah, I know. Luckily, I get up easily. But for some reason I like alarm clocks - it fascinates me to see how hard it is for other people to wake up.]]></description>
+			<content:encoded><![CDATA[<p>Yeah, I know. Luckily, I get up easily. But for some reason I like alarm clocks &#8211; it fascinates me to see how hard it is for other people to wake up.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rom		</title>
+		<link>/old-blog/502/comment-page-1#comment-2010</link>
+
+		<dc:creator><![CDATA[rom]]></dc:creator>
+		<pubDate>Sun, 11 Feb 2007 11:17:21 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=502#comment-2010</guid>
+
+					<description><![CDATA[Terrible invention - woken up like this i&#039;ll probably go and murder someone :)]]></description>
+			<content:encoded><![CDATA[<p>Terrible invention &#8211; woken up like this i&#8217;ll probably go and murder someone :)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

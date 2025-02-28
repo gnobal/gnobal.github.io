@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: I don&#8217;t know why anyone would want to do this&#8230;	</title>
+	<atom:link href="/old-blog/406/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/406</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 18 Mar 2019 14:09:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/406/comment-page-1#comment-827</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Thu, 26 Oct 2006 05:52:55 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=406#comment-827</guid>
+
+					<description><![CDATA[From the comments I&#039;m not sure it really works, but it sounds good]]></description>
+			<content:encoded><![CDATA[<p>From the comments I&#8217;m not sure it really works, but it sounds good</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: sveta the great		</title>
+		<link>/old-blog/406/comment-page-1#comment-823</link>
+
+		<dc:creator><![CDATA[sveta the great]]></dc:creator>
+		<pubDate>Wed, 25 Oct 2006 09:58:03 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=406#comment-823</guid>
+
+					<description><![CDATA[http://www.haklabs.com/?p=17]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.haklabs.com/?p=17" rel="nofollow ugc">http://www.haklabs.com/?p=17</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

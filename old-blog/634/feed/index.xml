@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: I Bought A New Computer And I&#8217;m Switching To Linux	</title>
+	<atom:link href="/old-blog/634/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/634</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sat, 12 Jan 2008 16:40:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/634/comment-page-1#comment-102141</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sat, 12 Jan 2008 16:40:09 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=634#comment-102141</guid>
+
+					<description><![CDATA[I just installed Ubuntu. The installation itself is very easy.  Setting up the Internet connection with a cable modem in Israel was a bitch, though. It wasn&#039;t trivial, but luckily I got help from some forums (I&#039;ll probably tell about it in a different post).
+
+Ubuntu seems to have a &quot;Hibernate&quot; option. I didn&#039;t try it yet, though. It also seems to have support for wireless connections, but I can&#039;t test that. I&#039;m surprised about the partition thing. However, my installation is Linux only (not dual-boot).]]></description>
+			<content:encoded><![CDATA[<p>I just installed Ubuntu. The installation itself is very easy.  Setting up the Internet connection with a cable modem in Israel was a bitch, though. It wasn&#8217;t trivial, but luckily I got help from some forums (I&#8217;ll probably tell about it in a different post).</p>
+<p>Ubuntu seems to have a &#8220;Hibernate&#8221; option. I didn&#8217;t try it yet, though. It also seems to have support for wireless connections, but I can&#8217;t test that. I&#8217;m surprised about the partition thing. However, my installation is Linux only (not dual-boot).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/634/comment-page-1#comment-101700</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Thu, 10 Jan 2008 21:53:55 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=634#comment-101700</guid>
+
+					<description><![CDATA[I heard lot&#039;s of good things about Ubuntu. I&#039;m currently pissed off with the Linux that I have (it is red hat though):
+1. No wireless
+2. No hibernate
+3. It does not recognize a fat partition that I left especially for it to share files with Windows.
+4. More sensitive for the processor temp (than windows) - my laptop actually crashed twice today for that reason. 
+
+I guess all could be fixed but I have no time for this shit. Maybe I&#039;ll switch to Ubuntu as well -- after all you&#039;ll be familiar with the installation... :)]]></description>
+			<content:encoded><![CDATA[<p>I heard lot&#8217;s of good things about Ubuntu. I&#8217;m currently pissed off with the Linux that I have (it is red hat though):<br />
+1. No wireless<br />
+2. No hibernate<br />
+3. It does not recognize a fat partition that I left especially for it to share files with Windows.<br />
+4. More sensitive for the processor temp (than windows) &#8211; my laptop actually crashed twice today for that reason. </p>
+<p>I guess all could be fixed but I have no time for this shit. Maybe I&#8217;ll switch to Ubuntu as well &#8212; after all you&#8217;ll be familiar with the installation&#8230; :)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

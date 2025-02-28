@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Visual C++ Express Edition 2005 &#8211; First Impression	</title>
+	<atom:link href="/old-blog/495/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/495</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Thu, 01 Feb 2007 11:13:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/495/comment-page-1#comment-1862</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Thu, 01 Feb 2007 11:13:41 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=495#comment-1862</guid>
+
+					<description><![CDATA[That should work fine (and a good idea which I haven&#039;t thought of :)
+I map my work drive and add files from there.]]></description>
+			<content:encoded><![CDATA[<p>That should work fine (and a good idea which I haven&#8217;t thought of :)<br />
+I map my work drive and add files from there.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rom		</title>
+		<link>/old-blog/495/comment-page-1#comment-1857</link>
+
+		<dc:creator><![CDATA[rom]]></dc:creator>
+		<pubDate>Thu, 01 Feb 2007 09:00:24 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=495#comment-1857</guid>
+
+					<description><![CDATA[Maybe i did not understand you. What if you download the whole project (tar.gz ;) and then open it from the local disk - is it fast?]]></description>
+			<content:encoded><![CDATA[<p>Maybe i did not understand you. What if you download the whole project (tar.gz ;) and then open it from the local disk &#8211; is it fast?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/495/comment-page-1#comment-1854</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Thu, 01 Feb 2007 06:12:09 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=495#comment-1854</guid>
+
+					<description><![CDATA[I find it hard to believe that they would do a slowdown on purpose :)
+And about Unix CR - I&#039;ll check and get back to you. You may be surprised.]]></description>
+			<content:encoded><![CDATA[<p>I find it hard to believe that they would do a slowdown on purpose :)<br />
+And about Unix CR &#8211; I&#8217;ll check and get back to you. You may be surprised.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rom		</title>
+		<link>/old-blog/495/comment-page-1#comment-1838</link>
+
+		<dc:creator><![CDATA[rom]]></dc:creator>
+		<pubDate>Wed, 31 Jan 2007 16:03:17 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=495#comment-1838</guid>
+
+					<description><![CDATA[:) i don&#039;t mind the download, it&#039;s minor. 
+MS probably made it slower artificially - that&#039;s the problem. And i suppose they&#039;ll never add unix CR.]]></description>
+			<content:encoded><![CDATA[<p>:) i don&#8217;t mind the download, it&#8217;s minor.<br />
+MS probably made it slower artificially &#8211; that&#8217;s the problem. And i suppose they&#8217;ll never add unix CR.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/495/comment-page-1#comment-1771</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 29 Jan 2007 16:11:06 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=495#comment-1771</guid>
+
+					<description><![CDATA[Oh no... don&#039;t even try... It takes forever to load the files over the VPN. I only take a few dozen files, and until all of them are loaded I can make breakfast.
+
+Also - I still need to make sure that it inserts &quot;backslash N&quot; appropriately (without &quot;backslash R&quot;).]]></description>
+			<content:encoded><![CDATA[<p>Oh no&#8230; don&#8217;t even try&#8230; It takes forever to load the files over the VPN. I only take a few dozen files, and until all of them are loaded I can make breakfast.</p>
+<p>Also &#8211; I still need to make sure that it inserts &#8220;backslash N&#8221; appropriately (without &#8220;backslash R&#8221;).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rom		</title>
+		<link>/old-blog/495/comment-page-1#comment-1758</link>
+
+		<dc:creator><![CDATA[rom]]></dc:creator>
+		<pubDate>Mon, 29 Jan 2007 07:11:52 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=495#comment-1758</guid>
+
+					<description><![CDATA[So, is it strong enough to handle all the our project? Is it fast?]]></description>
+			<content:encoded><![CDATA[<p>So, is it strong enough to handle all the our project? Is it fast?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

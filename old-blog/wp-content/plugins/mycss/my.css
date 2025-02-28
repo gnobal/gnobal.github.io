@@ -1,0 +1,10 @@
+.hebrew {
+
+  text-align:right;
+  font-size: 110%;
+  direction:rtl;
+  unicode-bidi: embed;  
+  font-family: 'Libre Franklin', 'Helvetica Neue', Helvetica, 'Arial Hebrew', Arial, Sans-Serif; /* 'Arial Hebrew', Arial, Sans-Serif; */
+/* -HebrewWP:-  font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif; */
+
+}

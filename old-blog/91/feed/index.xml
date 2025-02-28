@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Introduction To Tagging	</title>
+	<atom:link href="/old-blog/91/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/91</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Fri, 04 Nov 2005 17:57:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: arielcohen		</title>
+		<link>/old-blog/91/comment-page-1#comment-58</link>
+
+		<dc:creator><![CDATA[arielcohen]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2005 17:57:43 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=91#comment-58</guid>
+
+					<description><![CDATA[Did you know that tagging eforces termination of security protocols?
+
+http://www.di.ens.fr/~blanchet/publications/BlanchetPodelskiFOSSACS03.html
+
+However sometime tagging is not polite.]]></description>
+			<content:encoded><![CDATA[<p>Did you know that tagging eforces termination of security protocols?</p>
+<p><a href="http://www.di.ens.fr/~blanchet/publications/BlanchetPodelskiFOSSACS03.html" rel="nofollow ugc">http://www.di.ens.fr/~blanchet/publications/BlanchetPodelskiFOSSACS03.html</a></p>
+<p>However sometime tagging is not polite.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

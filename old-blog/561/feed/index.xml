@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Using Google Earth To Find Animal Photos Video	</title>
+	<atom:link href="/old-blog/561/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/561</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 14 May 2007 10:58:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Doron Hirsch		</title>
+		<link>/old-blog/561/comment-page-1#comment-10303</link>
+
+		<dc:creator><![CDATA[Doron Hirsch]]></dc:creator>
+		<pubDate>Mon, 14 May 2007 10:58:39 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=561#comment-10303</guid>
+
+					<description><![CDATA[אני משתמש בו כדי למצוא מקומות מעניינים]]></description>
+			<content:encoded><![CDATA[<p>אני משתמש בו כדי למצוא מקומות מעניינים</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

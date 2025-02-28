@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Trying Anonymous Comments	</title>
+	<atom:link href="/old-blog/1524/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/1524</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sun, 07 Jun 2009 10:30:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: rom		</title>
+		<link>/old-blog/1524/comment-page-1#comment-153704</link>
+
+		<dc:creator><![CDATA[rom]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2009 10:30:29 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1524#comment-153704</guid>
+
+					<description><![CDATA[Nofollow is there :).]]></description>
+			<content:encoded><![CDATA[<p>Nofollow is there :).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/1524/comment-page-1#comment-153703</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2009 07:25:58 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1524#comment-153703</guid>
+
+					<description><![CDATA[You can login to the blog first and then comment. You login from the blog&#039;s main page.
+
+I don&#039;t know about the &#039;nofollow&#039;. That&#039;s a good question. I guess we&#039;ll see when the first comments are made (I can test it, but I&#039;m lazy :)]]></description>
+			<content:encoded><![CDATA[<p>You can login to the blog first and then comment. You login from the blog&#8217;s main page.</p>
+<p>I don&#8217;t know about the &#8216;nofollow&#8217;. That&#8217;s a good question. I guess we&#8217;ll see when the first comments are made (I can test it, but I&#8217;m lazy :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rom		</title>
+		<link>/old-blog/1524/comment-page-1#comment-153702</link>
+
+		<dc:creator><![CDATA[rom]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2009 07:21:02 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1524#comment-153702</guid>
+
+					<description><![CDATA[What about named comments? How do i do that? BTW, is there &#039;nofollow&#039; attribute?]]></description>
+			<content:encoded><![CDATA[<p>What about named comments? How do i do that? BTW, is there &#8216;nofollow&#8217; attribute?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Free Domain Names From Microsoft	</title>
+	<atom:link href="/old-blog/457/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/457</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 18 Mar 2019 14:09:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/457/comment-page-1#comment-1027</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Wed, 13 Dec 2006 06:45:44 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=457#comment-1027</guid>
+
+					<description><![CDATA[It&#039;s not the way I understood it, but who cares. Like you said, domain names are very cheap.]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s not the way I understood it, but who cares. Like you said, domain names are very cheap.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/457/comment-page-1#comment-1020</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Tue, 12 Dec 2006 00:23:57 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=457#comment-1020</guid>
+
+					<description><![CDATA[They ask for your credit card in case you would also like to use the domain after the beta trial is over.
+
+Fuck Microsoft! A .com domain costs $5 for 2 years.]]></description>
+			<content:encoded><![CDATA[<p>They ask for your credit card in case you would also like to use the domain after the beta trial is over.</p>
+<p>Fuck Microsoft! A .com domain costs $5 for 2 years.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

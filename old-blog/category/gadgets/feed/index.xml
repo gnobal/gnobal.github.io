@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gadgets &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/category/gadgets/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 18 Mar 2019 14:03:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>My New Arduino Reminded Me I&#8217;m A &#8220;High Level&#8221; Type</title>
+		<link>/old-blog/2178</link>
+					<comments>/old-blog/2178#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sun, 29 Aug 2010 16:31:11 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Personal]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2178</guid>
+
+					<description><![CDATA[I got myself an Arduino and immediately went on to try the (simplest) &#8220;Blink&#8221; example. It was very cool to make the LED on the board blink, I admit. But then I went on to find out how to build stuff like a 4x4x4 LED cube or a (relatively) simple universal remote and I realized &#8230; <p class="link-more"><a href="/old-blog/2178" class="more-link">Continue reading<span class="screen-reader-text"> "My New Arduino Reminded Me I&#8217;m A &#8220;High Level&#8221; Type"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I got myself an <a href="http://www.arduino.cc/">Arduino</a> and immediately went on to try the (simplest) &#8220;Blink&#8221; example. It was very cool to make the LED on the board blink, I admit. But then I went on to find out how to build stuff like a <a href="http://www.youtube.com/watch?v=yst4eL0-Eco">4x4x4 LED cube</a> or a (relatively) simple universal remote and I realized two things:</p>
+<ol>
+<li>Most of the stuff has already been created by others.</li>
+<li>They already did it much better than I ever would.</li>
+</ol>
+<p>I realized that I&#8217;m not really into soldering and connecting wires. I&#8217;m more of a &#8220;high level&#8221; kind of guy &#8211; I like taking ready-made parts and creating new things with them, not mess with the low level stuff. It&#8217;s also true with software &#8211; while I enjoy seeing the possibilities of building useful libraries with a language just like the next guy, I still prefer using them over trying to write them.</p>
+<p>So I&#8217;m still looking for nice (and hopefully new) things to do with the Arduino that will either be fun or useful for me. I might even try some wiring :)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2178/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Deleting Words From The User Dictionary &#8211; HTC Hero / Eris</title>
+		<link>/old-blog/1808</link>
+					<comments>/old-blog/1808#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2009 05:38:50 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<guid isPermaLink="false">/old-blog/?p=1808</guid>
+
+					<description><![CDATA[On an Android based phone it happens sometimes that you unintentionally add a word to the dictionary (also called the &#8220;user dictionary&#8221;) that you didn&#8217;t mean to add. On the HTC Hero (or Eris, depends on where you bought it) there isn&#8217;t apparently a way to edit this dictionary &#8211; only delete it. I&#8217;ll repeat &#8230; <p class="link-more"><a href="/old-blog/1808" class="more-link">Continue reading<span class="screen-reader-text"> "Deleting Words From The User Dictionary &#8211; HTC Hero / Eris"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>On an Android based phone it happens sometimes that you unintentionally add a word to the dictionary (also called the &#8220;user dictionary&#8221;) that you didn&#8217;t mean to add. On the HTC Hero (or Eris, depends on where you bought it) there isn&#8217;t apparently a way to edit this dictionary &#8211; only delete it.</p>
+<p>I&#8217;ll repeat the advice I found <a href="http://www.htcwiki.com/thread/3373777/Deleting+words+from+the+dictionary">here</a>, presumably based on an HTC support request:</p>
+<blockquote><p>Thank you for your questions about how to delete an entry in the dictionary. We are more than happy to help you with this situation. In order to clear out a misspelled word you accidentally saved you must clear out the entire dictionary. <strong>To clear the dictionary you press Menu then go to Settings &gt; Applications &gt; Manage Applications and find the “Touch Input” program. Tap on the Clear data button.</strong></p></blockquote>
+<p>Shameless plug: If you&#8217;re an Android user, check out my app, <a href="/old-blog/dindy">Dindy</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/1808/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Innovative Designs And Devices</title>
+		<link>/old-blog/632</link>
+					<comments>/old-blog/632#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 08 Jan 2008 04:30:26 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=632</guid>
+
+					<description><![CDATA[Smashing Magazine posted a very appealing collection called &#8220;Innovative Designs And Devices&#8221;. Most are very beautiful gadgets/hi-tech toys that do not exist yet, others are interpretations of existing products. (via Digg)]]></description>
+										<content:encoded><![CDATA[<p>Smashing Magazine posted a very appealing collection called <a href="http://www.smashingmagazine.com/2008/01/07/monday-inspiration-innovative-designs-and-devices/">&#8220;Innovative Designs And Devices&#8221;</a>. Most are very beautiful gadgets/hi-tech toys that do not exist yet, others are interpretations of existing products. (via <a href="http://digg.com/">Digg</a>)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/632/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>More Alarm Clocks? No Way!</title>
+		<link>/old-blog/629</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 12 Dec 2007 06:02:47 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=629</guid>
+
+					<description><![CDATA[Another list of alarm clocks is out now to satisfy my endless fascination with the way people choose to wake themselves up. Number 9 (&#8220;You Snooze You Lose&#8221;) is by far the funniest one. Its description is as follows: The SnūzNLūz alarm clock connects to your bank account via Wi-Fi and automatically transfers your money &#8230; <p class="link-more"><a href="/old-blog/629" class="more-link">Continue reading<span class="screen-reader-text"> "More Alarm Clocks? No Way!"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.plazarugs.com/rug-alarm/">Another list of alarm clocks</a> is out now to satisfy my endless fascination with the way people choose to wake themselves up. Number 9 (&#8220;You Snooze You Lose&#8221;) is by far the funniest one. Its description is as follows:</p>
+<blockquote><p>The SnūzNLūz alarm clock connects to your bank account via Wi-Fi and automatically transfers your money to a predetermined charity you hate.</p></blockquote>
+<p>(via <a href="http://digg.com/">Digg</a>)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cool (As In Temperature) Gadgets</title>
+		<link>/old-blog/608</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 04 Sep 2007 05:43:42 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=608</guid>
+
+					<description><![CDATA[This summer it&#8217;s very hot here in Israel. I took a look at this list of unusual cooling gadgets and at first thought they were pretty funny. But it&#8217;s so hot these days I actually wonder now how effective some of them are. I especially liked the USB Necktie Cooler. I&#8217;m so glad I don&#8217;t &#8230; <p class="link-more"><a href="/old-blog/608" class="more-link">Continue reading<span class="screen-reader-text"> "Cool (As In Temperature) Gadgets"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>This summer it&#8217;s very hot here in Israel. I took a look at <a href="http://www.cool-off.com/articles/cool-gadgets.html">this list of unusual cooling gadgets</a> and at first thought they were pretty funny. But it&#8217;s so hot these days I actually wonder now how effective some of them are. I especially liked the USB Necktie Cooler. I&#8217;m so glad I don&#8217;t wear ties. (via <a href="http://digg.com/">Digg</a>)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>When I See Toilet Seats Twice A Day, I Must Report It</title>
+		<link>/old-blog/588</link>
+					<comments>/old-blog/588#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 31 Jul 2007 11:01:43 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<guid isPermaLink="false">/old-blog/?p=588</guid>
+
+					<description><![CDATA[The old toilet seat &#8220;fight between the sexes&#8221; will probably always be a mystery to me. While I always return the seat to its previous position when I&#8217;m in someone else&#8217;s place, I wouldn&#8217;t mind lifting it and lowering it back as much as needed in my own home. Having said that, it turns out &#8230; <p class="link-more"><a href="/old-blog/588" class="more-link">Continue reading<span class="screen-reader-text"> "When I See Toilet Seats Twice A Day, I Must Report It"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>The old toilet seat &#8220;fight between the sexes&#8221; will probably always be a mystery to me. While I always return the seat to its previous position when I&#8217;m in someone else&#8217;s place, I wouldn&#8217;t mind lifting it and lowering it back as much as needed in my own home.</p>
+<p>Having said that, it turns out that the issue is subject to <a href="http://www.scq.ubc.ca/the-social-norm-of-leaving-the-toilet-seat-down-a-game-theoretic-analysis/">actual research</a>. Not much research, but who would have thought? And for those of you who really have a hard time doing the seat up-seat down thing, here&#8217;s the <a href="http://gizmodo.com/gadgets/%7cfoot/peacemaker-toilet-seat-lifter-for-loose-cannons-265754.php">PeaceMaker Toilet Seat Lifter</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/588/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The iPhone Reviews Are Out</title>
+		<link>/old-blog/585</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 27 Jun 2007 06:42:17 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<guid isPermaLink="false">/old-blog/?p=585</guid>
+
+					<description><![CDATA[The iPhone reviews are out. Since the initial iPhone presentation (which I liked) almost half a year has passed. Some thought that this time will cool down the initial hype, but after watching David Pogue&#8217;s video review of the iPhone I must say that it still looks like a great device, with features thought out &#8230; <p class="link-more"><a href="/old-blog/585" class="more-link">Continue reading<span class="screen-reader-text"> "The iPhone Reviews Are Out"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>The iPhone reviews are out. Since the initial iPhone presentation (<a href="/old-blog/481">which I liked</a>) almost half a year has passed. Some thought that this time will cool down the initial hype, but after watching <a href="http://gizmodo.com/gadgets/nytimes-pulpbite/pogues-iphone-video-review-272554.php">David Pogue&#8217;s video review of the iPhone</a> I must say that it still looks like a great device, with features thought out to the last bit. You can also check out the <a href="http://crunchgear.com/2007/06/26/roundup-apple-iphone-reviews/">iPhone review roundup</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Multi-touch Seems To Be The Next User Interface</title>
+		<link>/old-blog/571</link>
+					<comments>/old-blog/571#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 30 May 2007 06:05:58 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/old-blog/?p=571</guid>
+
+					<description><![CDATA[I wrote about advances in user interfaces a few times (here and here). Then I wrote about Apple&#8217;s iPhone (here), which is coming out in less than a month in the US. All those posts have one thing in common &#8211; the user interfaces in them are multi-touch and gesture-based. The new player in this &#8230; <p class="link-more"><a href="/old-blog/571" class="more-link">Continue reading<span class="screen-reader-text"> "Multi-touch Seems To Be The Next User Interface"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I wrote about advances in user interfaces a few times (<a href="/old-blog/333">here</a> and <a href="/old-blog/232">here</a>). Then I wrote about Apple&#8217;s iPhone (<a href="/old-blog/481">here</a>), which is coming out in less than a month in the US. All those posts have one thing in common &#8211; the user interfaces in them are multi-touch and gesture-based.</p>
+<p>The new player in this field is Microsoft, which just introduced <a href="http://www.microsoft.com/surface/">Surface</a>, a new multi-touch, interactive tabletop display. It interacts with available media sources and allows users to interact with it using their hands. The demo videos are, of course, amazing. One thing I thought was funny in the videos was when the handsome young man and woman sit in front of each other in a pub and then, naturally, start playing with the computer on both sides of the table.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/571/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Waterfryer &#8211; Has Water (and a Fish) Under Your Frying Oil</title>
+		<link>/old-blog/536</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 06:29:57 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=536</guid>
+
+					<description><![CDATA[Finally, another stupid &#8220;gadget&#8221; that&#8217;s worth mentioning here. It&#8217;s actually an interesting idea, but the demonstration is horrible. So what is the Waterfryer? It&#8217;s a deep fryer that has water under the oil. The result of having the water there is that, since water and oil don&#8217;t mix, the oil stays clean because all the &#8230; <p class="link-more"><a href="/old-blog/536" class="more-link">Continue reading<span class="screen-reader-text"> "The Waterfryer &#8211; Has Water (and a Fish) Under Your Frying Oil"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Finally, another stupid &#8220;gadget&#8221; that&#8217;s worth mentioning here. It&#8217;s actually an interesting idea, but the demonstration is horrible. So what is the Waterfryer? It&#8217;s a deep fryer that has water under the oil. The result of having the water there is that, since water and oil don&#8217;t mix, the oil stays clean because all the food crumbs fall into the water. The water stays clean, and to demonstrate this there&#8217;s a fish living there right under the very hot oil. I guess you have to see it to understand. Check out <a href="http://www.ohgizmo.com/2007/03/29/japanese-deep-fryer-has-aquarium-within/">this video</a>. (via <a href="http://digg.com/">Digg</a>)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apparently, it&#8217;s useless inventions and patents day</title>
+		<link>/old-blog/554</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 25 Apr 2007 08:23:46 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=554</guid>
+
+					<description><![CDATA[Today my &#8220;fetish&#8221; for stupid and useless thing has been satisfied. Here&#8217;s why: 301 useless facts &#8211; they&#8217;re definitely useless, but some are interesting. Patented bad ideas &#8211; like airbag undies&#8230; you know&#8230; the kind you always wanted. The portable grill suitcase &#8211; it&#8217;s a shame I didn&#8217;t see this before independence day. (via Digg)]]></description>
+										<content:encoded><![CDATA[<p>Today my &#8220;fetish&#8221; for stupid and useless thing has been satisfied. Here&#8217;s why:</p>
+<ul>
+<li><a href="http://www.singlegrain.com/blog/301-useless-facts/">301 useless facts</a> &#8211; they&#8217;re definitely useless, but some are interesting.</li>
+<li><a href="http://www.wired.com/wired/archive/15.05/st_badideas.html">Patented bad ideas</a> &#8211; like airbag undies&#8230; you know&#8230; the kind you always wanted.</li>
+<li><a href="http://blog.scifi.com/tech/archives/2007/04/24/portable_grill.html">The portable grill suitcase</a> &#8211; it&#8217;s a shame I didn&#8217;t see this before independence day.</li>
+</ul>
+<p>(via <a href="http://digg.com/">Digg</a>)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

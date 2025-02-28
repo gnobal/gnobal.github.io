@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Playrock Is No More	</title>
+	<atom:link href="/old-blog/3015/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/3015</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Fri, 31 May 2013 11:19:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit Schreiber		</title>
+		<link>/old-blog/3015/comment-page-1#comment-193146</link>
+
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Fri, 31 May 2013 11:19:23 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3015#comment-193146</guid>
+
+					<description><![CDATA[Thanks a lot :)]]></description>
+			<content:encoded><![CDATA[<p>Thanks a lot :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: eti		</title>
+		<link>/old-blog/3015/comment-page-1#comment-193114</link>
+
+		<dc:creator><![CDATA[eti]]></dc:creator>
+		<pubDate>Thu, 30 May 2013 17:46:45 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3015#comment-193114</guid>
+
+					<description><![CDATA[I am sure that the experience you got - will always be there for you. Your talents will lead you also in your new job.
+
+Good Luck!]]></description>
+			<content:encoded><![CDATA[<p>I am sure that the experience you got &#8211; will always be there for you. Your talents will lead you also in your new job.</p>
+<p>Good Luck!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit Schreiber		</title>
+		<link>/old-blog/3015/comment-page-1#comment-191914</link>
+
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Mon, 06 May 2013 07:22:28 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3015#comment-191914</guid>
+
+					<description><![CDATA[That&#039;s a good question. Definitely build something simpler and show it to people earlier. Maybe look for an integration opportunity with other services (e.g. go to someone like WhatsApp and see if they want a gaming infrastructure).
+
+For example, Playrock could have been a simple &quot;play with people around you&quot; type of service in the beginning. No groups, no sign in, nothing else.
+
+From a technical point of view, I could have built a simpler server-side. Writing it in a more forgiving language (Java or C#) would have probably made life easier and allowed for faster development. And later it could still be replaced with a C++ alternative later, if needed (the protocol was protobuf).]]></description>
+			<content:encoded><![CDATA[<p>That&#8217;s a good question. Definitely build something simpler and show it to people earlier. Maybe look for an integration opportunity with other services (e.g. go to someone like WhatsApp and see if they want a gaming infrastructure).</p>
+<p>For example, Playrock could have been a simple &#8220;play with people around you&#8221; type of service in the beginning. No groups, no sign in, nothing else.</p>
+<p>From a technical point of view, I could have built a simpler server-side. Writing it in a more forgiving language (Java or C#) would have probably made life easier and allowed for faster development. And later it could still be replaced with a C++ alternative later, if needed (the protocol was protobuf).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Rom		</title>
+		<link>/old-blog/3015/comment-page-1#comment-191910</link>
+
+		<dc:creator><![CDATA[Rom]]></dc:creator>
+		<pubDate>Mon, 06 May 2013 06:30:21 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3015#comment-191910</guid>
+
+					<description><![CDATA[Sad :(. What would you do differently next time?]]></description>
+			<content:encoded><![CDATA[<p>Sad :(. What would you do differently next time?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

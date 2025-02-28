@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Trying To Eat Slow	</title>
+	<atom:link href="/old-blog/3284/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/3284</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 09:13:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit Schreiber		</title>
+		<link>/old-blog/3284/comment-page-1#comment-2013658</link>
+
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2015 07:58:54 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3284#comment-2013658</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/old-blog/3284/comment-page-1#comment-2013653&quot;&gt;RG&lt;/a&gt;.
+
+Haha... thanks. We&#039;ll see about that :D]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/old-blog/3284/comment-page-1#comment-2013653">RG</a>.</p>
+<p>Haha&#8230; thanks. We&#8217;ll see about that :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RG		</title>
+		<link>/old-blog/3284/comment-page-1#comment-2013653</link>
+
+		<dc:creator><![CDATA[RG]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2015 06:31:14 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3284#comment-2013653</guid>
+
+					<description><![CDATA[You are my hero!]]></description>
+			<content:encoded><![CDATA[<p>You are my hero!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Dindy Statistics And Marketing Plans	</title>
+	<atom:link href="/old-blog/1816/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/1816</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 09:34:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/1816/comment-page-1#comment-154205</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2009 07:35:00 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1816#comment-154205</guid>
+
+					<description><![CDATA[Wow... thanks (yet again) for the detailed response.
+
+Since Dindy costs money I get more accurate statistics with regards to uninstalls (people want their money back so they have to be online when they uninstall it.)
+
+It&#039;s true that Dindy is intended a niche product and I guess you&#039;re right that it won&#039;t get word of mouth publicity.
+
+I think Dindy is pretty flexible when it comes to different modes of &quot;away-ness&quot;. The biggest missing feature is doing the same work for SMS messages, but this is Google&#039;s fault - there is no official API for being notified about incoming text messages (as there is for calls.) Other than that, Dindy is pretty much feature-complete. Other features I tried to think of are small and I believe insignificant.
+
+I think I should try to explore the world of auto away responders and see what else is out there and whether I should incorporate more stuff into Dindy.
+
+The App Market is still a little problematic. Developers get only 325 letters to describe their applications, and I found it hard to describe Dindy in such small space _and_ include all the search keywords I would have liked.
+
+And finally - I do have Google alerts set up and I try to push Dindy in forums, but I&#039;m also careful as I don&#039;t want to become one of those people that fill forums with advertising Graffiti. My online reputation also matters to me.]]></description>
+			<content:encoded><![CDATA[<p>Wow&#8230; thanks (yet again) for the detailed response.</p>
+<p>Since Dindy costs money I get more accurate statistics with regards to uninstalls (people want their money back so they have to be online when they uninstall it.)</p>
+<p>It&#8217;s true that Dindy is intended a niche product and I guess you&#8217;re right that it won&#8217;t get word of mouth publicity.</p>
+<p>I think Dindy is pretty flexible when it comes to different modes of &#8220;away-ness&#8221;. The biggest missing feature is doing the same work for SMS messages, but this is Google&#8217;s fault &#8211; there is no official API for being notified about incoming text messages (as there is for calls.) Other than that, Dindy is pretty much feature-complete. Other features I tried to think of are small and I believe insignificant.</p>
+<p>I think I should try to explore the world of auto away responders and see what else is out there and whether I should incorporate more stuff into Dindy.</p>
+<p>The App Market is still a little problematic. Developers get only 325 letters to describe their applications, and I found it hard to describe Dindy in such small space _and_ include all the search keywords I would have liked.</p>
+<p>And finally &#8211; I do have Google alerts set up and I try to push Dindy in forums, but I&#8217;m also careful as I don&#8217;t want to become one of those people that fill forums with advertising Graffiti. My online reputation also matters to me.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Itai		</title>
+		<link>/old-blog/1816/comment-page-1#comment-154202</link>
+
+		<dc:creator><![CDATA[Itai]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2009 19:13:02 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1816#comment-154202</guid>
+
+					<description><![CDATA[First, I don&#039;t know much about the general statistics of the Android App-Market, but I would guess your figures are not bad at all for a new app from a completely unknown developer. And it can still pickup considerably, so don&#039;t discourage.
+
+To the point: I think you should remember that Dindy is pretty much a niche product which is oriented towards a nich market, namely: those who like the idea of a &quot;DND&quot; mode. (An obvious fact when stated this way - but nonetheless an important one.) It follows from this that promoting Dindy by word of mouth or through another app is not going to be very effective, because the correlation between one person&#039;s preference of DND and her friends&#039; preference of it is probably low, and the correlation between one person&#039;s liking of another unrelated app and that of DND is probably even lower. (If you want to develop another app - that&#039;s great, and may promote your developer rating in the App-Market (if there is such a rating) - but don&#039;t do it just for the sake of promoting Dindy).
+
+I think what you should do is this:
+
+a. Make sure that those who do like the concept of a DND mode also like Dindy itself. In other words: that it actually solves the problem for them in a way they like. For example: Does your app support all the plausible ways of implementing DND mode or just one? If just one - you are probably losing customers who would like it differently. There is no need to do everything - just enough to satisfy, say, 80% of the target audience.
+
+b. Make sure your app is accessible to as many people who do want DND mode. This one is tougher, but I guess the way to do it is: 1. Make sure Dindy is indexed in the App-Market search engine correctly (if there is such a serach-engine - I don&#039;t know much about the App-Market), 2. The same for general search engines (this may require creating a web home page for Dindy and doing some basic SEO), and 3. Actively search for any forum-thread or blog-post that asks about DND solutions for Android (there must be a few) and get Dindy mentioned. This should optimally be an on-going effort. Google-Alerts may help.]]></description>
+			<content:encoded><![CDATA[<p>First, I don&#8217;t know much about the general statistics of the Android App-Market, but I would guess your figures are not bad at all for a new app from a completely unknown developer. And it can still pickup considerably, so don&#8217;t discourage.</p>
+<p>To the point: I think you should remember that Dindy is pretty much a niche product which is oriented towards a nich market, namely: those who like the idea of a &#8220;DND&#8221; mode. (An obvious fact when stated this way &#8211; but nonetheless an important one.) It follows from this that promoting Dindy by word of mouth or through another app is not going to be very effective, because the correlation between one person&#8217;s preference of DND and her friends&#8217; preference of it is probably low, and the correlation between one person&#8217;s liking of another unrelated app and that of DND is probably even lower. (If you want to develop another app &#8211; that&#8217;s great, and may promote your developer rating in the App-Market (if there is such a rating) &#8211; but don&#8217;t do it just for the sake of promoting Dindy).</p>
+<p>I think what you should do is this:</p>
+<p>a. Make sure that those who do like the concept of a DND mode also like Dindy itself. In other words: that it actually solves the problem for them in a way they like. For example: Does your app support all the plausible ways of implementing DND mode or just one? If just one &#8211; you are probably losing customers who would like it differently. There is no need to do everything &#8211; just enough to satisfy, say, 80% of the target audience.</p>
+<p>b. Make sure your app is accessible to as many people who do want DND mode. This one is tougher, but I guess the way to do it is: 1. Make sure Dindy is indexed in the App-Market search engine correctly (if there is such a serach-engine &#8211; I don&#8217;t know much about the App-Market), 2. The same for general search engines (this may require creating a web home page for Dindy and doing some basic SEO), and 3. Actively search for any forum-thread or blog-post that asks about DND solutions for Android (there must be a few) and get Dindy mentioned. This should optimally be an on-going effort. Google-Alerts may help.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

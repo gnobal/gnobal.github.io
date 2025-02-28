@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Creating A Transparent Activity In Android	</title>
+	<atom:link href="/old-blog/2053/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/2053</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 09:33:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit Schreiber		</title>
+		<link>/old-blog/2053/comment-page-1#comment-189602</link>
+
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Fri, 08 Mar 2013 03:52:30 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2053#comment-189602</guid>
+
+					<description><![CDATA[Suleyman, you should post your question on Stack Overflow ( http://stackoverflow.com/ ). I have no idea how to do what you&#039;re asking.]]></description>
+			<content:encoded><![CDATA[<p>Suleyman, you should post your question on Stack Overflow ( <a href="http://stackoverflow.com/" rel="nofollow ugc">http://stackoverflow.com/</a> ). I have no idea how to do what you&#8217;re asking.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Suleyman		</title>
+		<link>/old-blog/2053/comment-page-1#comment-189591</link>
+
+		<dc:creator><![CDATA[Suleyman]]></dc:creator>
+		<pubDate>Fri, 08 Mar 2013 00:07:23 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2053#comment-189591</guid>
+
+					<description><![CDATA[Hello every one,
+
+Thank you so much for helping, I have trid to change the background to be transpant and it is working, but could any one help me how can I take x and y velocity on this backgroun when finger touch movement, or as we are using samsung in showing pointer location on the screen.
+
+Thank you.]]></description>
+			<content:encoded><![CDATA[<p>Hello every one,</p>
+<p>Thank you so much for helping, I have trid to change the background to be transpant and it is working, but could any one help me how can I take x and y velocity on this backgroun when finger touch movement, or as we are using samsung in showing pointer location on the screen.</p>
+<p>Thank you.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2053/comment-page-1#comment-156024</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Thu, 22 Apr 2010 19:31:33 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2053#comment-156024</guid>
+
+					<description><![CDATA[My pleasure :)]]></description>
+			<content:encoded><![CDATA[<p>My pleasure :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: puppy chow		</title>
+		<link>/old-blog/2053/comment-page-1#comment-156019</link>
+
+		<dc:creator><![CDATA[puppy chow]]></dc:creator>
+		<pubDate>Thu, 22 Apr 2010 12:14:45 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2053#comment-156019</guid>
+
+					<description><![CDATA[Thanks a zillion!!!!!!]]></description>
+			<content:encoded><![CDATA[<p>Thanks a zillion!!!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alik		</title>
+		<link>/old-blog/2053/comment-page-1#comment-155144</link>
+
+		<dc:creator><![CDATA[Alik]]></dc:creator>
+		<pubDate>Sun, 14 Mar 2010 13:35:34 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2053#comment-155144</guid>
+
+					<description><![CDATA[Sababa. 10x.]]></description>
+			<content:encoded><![CDATA[<p>Sababa. 10x.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2053/comment-page-1#comment-155143</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sun, 14 Mar 2010 10:41:32 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2053#comment-155143</guid>
+
+					<description><![CDATA[Android shortcuts can only start an activity, not a service. So if you want a shortcut that starts a service (like the upcoming Dindy shortcuts) you need to have a transparent activity that the user will not see when he/she starts the shortcut.
+
+I put it here because it was hard to find the correct way to do it. If you look for &quot;transparent activity android&quot; in Google you find many ways that work on the emulator but not on some phones or vice versa.]]></description>
+			<content:encoded><![CDATA[<p>Android shortcuts can only start an activity, not a service. So if you want a shortcut that starts a service (like the upcoming Dindy shortcuts) you need to have a transparent activity that the user will not see when he/she starts the shortcut.</p>
+<p>I put it here because it was hard to find the correct way to do it. If you look for &#8220;transparent activity android&#8221; in Google you find many ways that work on the emulator but not on some phones or vice versa.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alik		</title>
+		<link>/old-blog/2053/comment-page-1#comment-155140</link>
+
+		<dc:creator><![CDATA[Alik]]></dc:creator>
+		<pubDate>Sun, 14 Mar 2010 07:17:26 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2053#comment-155140</guid>
+
+					<description><![CDATA[Where did you use it? In the widget?
+
+Funny - the shameless plug :)]]></description>
+			<content:encoded><![CDATA[<p>Where did you use it? In the widget?</p>
+<p>Funny &#8211; the shameless plug :)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

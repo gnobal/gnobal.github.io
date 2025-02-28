@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Banana Guard &#8211; I Always Wanted To Protect My Banana. No&#8230; Seriously	</title>
+	<atom:link href="/old-blog/413/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/413</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Thu, 02 Nov 2006 21:23:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/413/comment-page-1#comment-849</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2006 21:23:45 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=413#comment-849</guid>
+
+					<description><![CDATA[I don&#039;t know... it just seems stupid to me. I mean - you can just put the banana in a small box or something.
+
+Good find with the header. I still don&#039;t understand how it got to BananaGuard. But then again... I don&#039;t understand BananaGuard.]]></description>
+			<content:encoded><![CDATA[<p>I don&#8217;t know&#8230; it just seems stupid to me. I mean &#8211; you can just put the banana in a small box or something.</p>
+<p>Good find with the header. I still don&#8217;t understand how it got to BananaGuard. But then again&#8230; I don&#8217;t understand BananaGuard.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/413/comment-page-1#comment-848</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2006 16:05:30 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=413#comment-848</guid>
+
+					<description><![CDATA[Why is it stupid?
+
+As for your question:
+Maybe they took their html header from here...
+http://www.clearspeed.com/acceleration/why/problem/ 
+
+I mean maybe same programmer did both Web sites
+(and added a &#039;-&#039;, hell knows why)]]></description>
+			<content:encoded><![CDATA[<p>Why is it stupid?</p>
+<p>As for your question:<br />
+Maybe they took their html header from here&#8230;<br />
+<a href="http://www.clearspeed.com/acceleration/why/problem/" rel="nofollow ugc">http://www.clearspeed.com/acceleration/why/problem/</a> </p>
+<p>I mean maybe same programmer did both Web sites<br />
+(and added a &#8216;-&#8216;, hell knows why)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

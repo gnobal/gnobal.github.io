@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Internet Explorer 7 Beta 2 Preview is out!	</title>
+	<atom:link href="/old-blog/215/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/215</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 07 Feb 2006 06:36:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/215/comment-page-1#comment-133</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Tue, 07 Feb 2006 06:36:30 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=215#comment-133</guid>
+
+					<description><![CDATA[:)
+
+I&#039;m not getting into this.]]></description>
+			<content:encoded><![CDATA[<p>:)</p>
+<p>I&#8217;m not getting into this.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: arielcohen		</title>
+		<link>/old-blog/215/comment-page-1#comment-132</link>
+
+		<dc:creator><![CDATA[arielcohen]]></dc:creator>
+		<pubDate>Mon, 06 Feb 2006 15:28:14 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=215#comment-132</guid>
+
+					<description><![CDATA[When you say stupid, do you mean Explorer or Firefox?]]></description>
+			<content:encoded><![CDATA[<p>When you say stupid, do you mean Explorer or Firefox?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

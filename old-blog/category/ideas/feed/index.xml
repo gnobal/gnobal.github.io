@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ideas &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/category/ideas/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 10:37:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Idea: Using Cheap VR To Fight Phobias</title>
+		<link>/old-blog/3184</link>
+					<comments>/old-blog/3184#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2015 12:04:27 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3184</guid>
+
+					<description><![CDATA[This isn&#8217;t a new idea. Virtual Reality has been and is being used to treat phobias (for example here), placing patients in virtual environments that mimic the real life situations they fear the most. Now that we have Google Cardboard, which uses a smartphone along with a cheap cardboard contraption, providing such a solution is &#8230; <p class="link-more"><a href="/old-blog/3184" class="more-link">Continue reading<span class="screen-reader-text"> "Idea: Using Cheap VR To Fight Phobias"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>This isn&#8217;t a new idea. Virtual Reality has been and is being used to treat phobias (for example <a href="http://www.vrphobia.com/" title="VR Medical Center">here</a>), placing patients in virtual environments that mimic the real life situations they fear the most.</p>
+<p>Now that we have <a href="https://www.google.com/get/cardboard/" title="Google Cardboard">Google Cardboard</a>, which uses a smartphone along with a cheap cardboard contraption, providing such a solution is as simple as taking a <a href="https://www.google.com/maps/about/contribute/photosphere/" title="Photo Sphere">photo sphere</a> image and loading it in Cardboard.</p>
+<p>I thought about doing something in that direction, like an open source app, but it seems like most of the work is professional photography along with psychiatric consulting (to get the scenes right) so I gave this one up.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/3184/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Idea: Green Tail Lights For Accelerating Cars</title>
+		<link>/old-blog/2723</link>
+					<comments>/old-blog/2723#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 26 May 2012 10:04:01 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2723</guid>
+
+					<description><![CDATA[This is an old idea of mine, but I&#8217;m writing about it now before self-driving cars take over and it won&#8217;t make any sense. The idea is simple: add green lights to the array of tail lights in cars. When the car accelerates, the green lights will light up the same way red lights work &#8230; <p class="link-more"><a href="/old-blog/2723" class="more-link">Continue reading<span class="screen-reader-text"> "Idea: Green Tail Lights For Accelerating Cars"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>This is an old idea of mine, but I&#8217;m writing about it now before self-driving cars take over and it won&#8217;t make any sense.</p>
+<p>The idea is simple: add green lights to the array of tail lights in cars. When the car accelerates, the green lights will light up the same way red lights work when it decelerates.</p>
+<p>&#8220;You must be crazy!&#8221; I hear you say. &#8220;This will just make everyone drive faster! Don&#8217;t we have enough accidents already?! &#8221; But consider this: while the green lights signal to the driver behind you that you are accelerating, the lack of them signals that you are decelerating. And the advantages of having this information, I think, may outweigh the disadvantages of having the green lights on.</p>
+<p>This is something we can experiment with, the same way they experimented in different countries with countdown timers for traffic lights. And <a href="http://utk.academia.edu/LeeHan/Papers/1202187/Effects_of_Countdown_Timers_on_Driver_Behavior_After_the_Yellow_Onset_at_Chinese_Intersections" title=" Effects of Countdown Timers on Driver Behavior After the Yellow Onset at Chinese Intersections">this one</a> is just about the Chinese traffic light experiment. In other countries the effect was different, so there really isn&#8217;t one answer whether this kind of an idea is good or bad &#8211; it depends on the driving culture per-country.</p>
+<p><strong>UPDATE</strong>: According to <a href="https://en.wikipedia.org/wiki/Automotive_lighting#Multicolour_auxiliary_signals" title="Multicolour auxiliary signals">Wikipedia</a> &#8220;Some jurisdictions, such as the US states of Washington, Oregon and Idaho, permit vehicles to be equipped with auxiliary rear signal systems displaying green light when the accelerator is depressed, yellow light when the vehicle is coasting, and red light when the brake is depressed. Such systems have in the past been sold as aftermarket accessories, but are today seldom seen in traffic.&#8221;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2723/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Idea: Online Identity Score</title>
+		<link>/old-blog/2606</link>
+					<comments>/old-blog/2606#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sun, 09 Oct 2011 07:10:24 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2606</guid>
+
+					<description><![CDATA[A friend of mine wanted to start using eBay, both as a buyer and as a seller. After just a few days her account was permanently suspended, with no option to ever return to eBay. The reason appears to be some mix-up with PayPal. I&#8217;m saying &#8220;appears to be&#8221; because eBay doesn&#8217;t tell you why &#8230; <p class="link-more"><a href="/old-blog/2606" class="more-link">Continue reading<span class="screen-reader-text"> "Idea: Online Identity Score"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>A friend of mine wanted to start using eBay, both as a buyer and as a seller. After just a few days <strong>her account was permanently suspended, with no option to ever return to eBay</strong>. The reason appears to be some mix-up with PayPal. I&#8217;m saying &#8220;appears to be&#8221; because eBay doesn&#8217;t tell you why your account is permanently suspended. Calls to the live person support don&#8217;t help &#8211; the support people just recite a pre-written message and do not say anything else. Apparently the PayPal mix-up made someone in eBay think my friend was a criminal and that&#8217;s why she got this harsh treatment.</p>
+<p>(On a side note: I witnessed one of these calls. It makes you feel really uncomfortable. If you want to see how criminals are treated, get your eBay  account suspended and then call them to ask why. Just know that you will never be able to be an eBay user again)</p>
+<p>My idea revolves around verifying that the person is real and &#8220;innocent.&#8221; Much like the American system of financial credit score, using a person&#8217;s email address, one service will be able to trigger an &#8220;online identity score&#8221; check with other services that user is registered to.</p>
+<p>For example, let&#8217;s say I&#8217;m registering to eBay. During the registration process I give my Gmail address, which I also use for Facebook. With my consent, eBay will be able to query Google and Facebook and ask them about how genuine my account is, so as to verify both that I&#8217;m a real person and that my account hasn&#8217;t been hacked (both Gmail and Facebook already have fake account and anti-hacking protections.)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2606/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Idea: &#8220;Messages For Me&#8221;</title>
+		<link>/old-blog/2430</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sun, 19 Dec 2010 09:36:06 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2430</guid>
+
+					<description><![CDATA[This is an old school web 1.0 idea I had over the weekend. It&#8217;s very simple: let&#8217;s say you want to leave a message for someone, anonymously or not. You go into the website, put in the person&#8217;s email address and the message. The person doesn&#8217;t receive any notification about this, and can only see &#8230; <p class="link-more"><a href="/old-blog/2430" class="more-link">Continue reading<span class="screen-reader-text"> "Idea: &#8220;Messages For Me&#8221;"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>This is an old school web 1.0 idea I had over the weekend. It&#8217;s very simple: let&#8217;s say you want to leave a message for someone, anonymously or not. You go into the website, put in the person&#8217;s email address and the message. The person doesn&#8217;t receive any notification about this, and can only see his/her messages if they go to the website and enter their email address. That&#8217;s it.</p>
+<p>What is it good for? With all the connectivity among people and now that every website has &#8220;social&#8221; features, there&#8217;s no way for a simple &#8220;message in a bottle&#8221; kind of a gesture in today&#8217;s Internet.</p>
+<p>Like I said&#8230; old school.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Education Is The Antidote To War</title>
+		<link>/old-blog/2425</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Fri, 17 Dec 2010 11:29:53 +0000</pubDate>
+				<category><![CDATA[Blogs I Read]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2425</guid>
+
+					<description><![CDATA[Just sharing an idea from one of my favorite authors. Move along. Nothing to see :)]]></description>
+										<content:encoded><![CDATA[<p>Just <a href="http://dilbert.com/blog/entry/powerful_ideas/">sharing an idea</a> from one of my favorite authors. Move along. Nothing to see :)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>My Online Will Idea &#8211; Not So Far Fetched</title>
+		<link>/old-blog/1606</link>
+					<comments>/old-blog/1606#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2009 04:52:57 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<guid isPermaLink="false">/old-blog/?p=1606</guid>
+
+					<description><![CDATA[The Guardian came out with a story named When I&#8217;m dead, how will my loved ones break my password?. Basically, it handles the same problem as my own Online Will idea the same way snail mail and email handle the same problem. Here&#8217;s a quote of the proposed solution from the article. The 8 readers &#8230; <p class="link-more"><a href="/old-blog/1606" class="more-link">Continue reading<span class="screen-reader-text"> "My Online Will Idea &#8211; Not So Far Fetched"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>The Guardian came out with a story named <a href="http://www.guardian.co.uk/technology/2009/jun/30/data-protection-internet">When I&#8217;m dead, how will my loved ones break my password?</a>. Basically, it handles the same problem as <a href="/old-blog/1379">my own Online Will idea</a> the same way snail mail and email handle the same problem.</p>
+<p>Here&#8217;s a quote of the proposed solution from the article. The 8 readers of this blog may find it familiar :)</p>
+<blockquote><p>Finally, I hit on a simple solution: I&#8217;d split the passphrase in two, and give half of it to my wife, and the other half to my parents&#8217; lawyer in Toronto. The lawyer is out of reach of a British court order, and my wife&#8217;s half of the passphrase is useless without the lawyer&#8217;s half (and she&#8217;s out of reach of a Canadian court order). If a situation arises that demands that my lawyer get his half to my wife, he can dictate it over the phone, or encrypt it with her public key and email it to her, or just fly to London and give it to her.</p>
+<p>As simple as this solution is, it leaves a few loose ends: first, what does my wife do to safeguard her half of the key should she perish with me? The answer is to entrust it to a second attorney in the UK (I can return the favour by sending her key to my lawyer in Toronto). Next, how do I transmit the key to the lawyer? I&#8217;ve opted for a written sheet of instructions, including the key, that I will print on my next visit to Canada and physically deliver to the lawyer.</p></blockquote>
+<p>P.S.<br />
+Thanks to blog reader rom for pointing the story out to me.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/1606/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Idea: Online Will</title>
+		<link>/old-blog/1379</link>
+					<comments>/old-blog/1379#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 05 May 2009 05:17:31 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<guid isPermaLink="false">/old-blog/?p=1379</guid>
+
+					<description><![CDATA[When you die, what&#8217;s going to happen to all your online accounts? If you don&#8217;t have a &#8220;rich&#8221; online presence, you probably don&#8217;t care. But I do. So when I die, I want someone to patch things up with everyone &#8211; my blog should be properly shut down, my Facebook status would be &#8220;Amit Schreiber &#8230; <p class="link-more"><a href="/old-blog/1379" class="more-link">Continue reading<span class="screen-reader-text"> "Idea: Online Will"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>When you die, what&#8217;s going to happen to all your online accounts? If you don&#8217;t have a &#8220;rich&#8221; online presence, you probably don&#8217;t care. But I do.</p>
+<p>So when I die, I want someone to patch things up with everyone &#8211; my blog should be properly shut down, my Facebook status would be &#8220;Amit Schreiber is dead&#8221; and an auto-reply email will be sent to everyone who tries to mail me (also &#8211; take me off mailing lists so that my mailbox won&#8217;t be filled up with them.) Not to mention handling my bank accounts and stuff like that.</p>
+<p>All these require a person, who I trust, to handle. But I don&#8217;t want this person to have access to all my accounts right now. Only when I die. Which brings us to the basic usage scenario of my new website idea:</p>
+<ol>
+<li>Give an encrypted file to the website containing all the information you want someone to have when you die. Also, provide details of the person you trust (email address, basically.)</li>
+<li>Give the trusted person the instructions on how to open the file when he/she gets it.</li>
+<li>Die (how&#8217;s that for a sales pitch?)</li>
+<li>The person will request the file from the website. A notification email will be sent out to you to allow you to block the transfer in case you&#8217;re not really dead and the so-called trusted person is trying to get the file.</li>
+<li>Once a predefined period of time passed and you haven&#8217;t blocked the transfer, the website assumes you&#8217;re dead and sends the encrypted file to the trusted person.</li>
+</ol>
+<p>This system keeps everyone honest: the website can&#8217;t do anything with an encrypted file and the trusted person can&#8217;t steel the file because you get notified about it (so you can block the transfer.)  All that so you can die happily knowing your online presence is in good hands.</p>
+<p>At first I told about it to just a few friends, most don&#8217;t think it&#8217;s useful because not too many people plan in advance for their deaths. That&#8217;s why I call the users of the website a niche market. I don&#8217;t exactly expect them to return either, if you know what I mean :) But then came <a href="http://tech.slashdot.org/article.pl?sid=09/04/27/1612231&#038;from=rss">this Slashdot article</a> that states &#8220;A wave of new companies are springing up to offer such things as virtual cemeteries, alerts to remind loved ones about the anniversary of your death, and even email services that send an alert to your sinful relatives in danger of being left behind when the Rapture carries you away.&#8221; So now I want to implement it.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/1379/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Idea: Human Anti Spam</title>
+		<link>/old-blog/670</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Fri, 10 Oct 2008 00:20:43 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=670</guid>
+
+					<description><![CDATA[I doubt I&#8217;m the first to think of that, but this idea might help cleaning the Internet of some spam. The idea is that people will install a small program on their computer that will send them from time to time (according to their preferences) some text that was publicly posted somewhere on the Internet. &#8230; <p class="link-more"><a href="/old-blog/670" class="more-link">Continue reading<span class="screen-reader-text"> "Idea: Human Anti Spam"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I doubt I&#8217;m the first to think of that, but this idea might help cleaning the Internet of some spam. The idea is that people will install a small program on their computer that will send them from time to time (according to their preferences) some text that was publicly posted somewhere on the Internet. It could be anything: a blog post, a wiki edit, a forum post, a YouTube comment, whatever. The person will then click to say if this is spam or not. </p>
+<p>The same content will be sent to multiple users, so that the system will not be easily gamed by people that are paid to create spam. If there&#8217;s a user that keeps marking almost everything as &#8220;not spam&#8221; he/she will be kicked out of the system (or even given data that is surely spam to test if we maybe have an &#8220;evil&#8221; bot.)</p>
+<p>Hopefully we&#8217;re only talking about the &#8220;maybe spam&#8221; that was returned from an automatic spam filter, like Akismet. This will reduce the number of messages to check greatly. Regardless, this kind of system can only work if the number of &#8220;good&#8221; users exceeds by far the number of &#8220;evil&#8221; users, but since everyone hates spam and it&#8217;s a minimal effort I believe enough people will join in. Search engines can use this system to test if a fresh new blog is just a spam blog or a real one.</p>
+<p>Unfortunately this will not work for any type of private communication, like email, simply because email is private and you can&#8217;t let other people see it.</p>
+<p>So, do you think it&#8217;s a good idea, or did I miss an obvious way to game this Human Anti Spam system? If it&#8217;s good, maybe I&#8217;ll send it to <a href="http://www.project10tothe100.com/">Google&#8217;s Project 10 to the 100th</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Random Thoughts About Caching</title>
+		<link>/old-blog/657</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2008 08:36:48 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=657</guid>
+
+					<description><![CDATA[Imagine for a moment that there is a place where the results of all non-trivial computations are kept. Kind of a universal cache with unlimited capacity. To access this cache and get the results of a desired computation you need to specify the computation type and the problem set. For example, a computation type may &#8230; <p class="link-more"><a href="/old-blog/657" class="more-link">Continue reading<span class="screen-reader-text"> "Random Thoughts About Caching"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Imagine for a moment that there is a place where the results of all non-trivial computations are kept. Kind of a universal cache with unlimited capacity. To access this cache and get the results of a desired computation you need to specify the computation type and the problem set. For example, a computation type may be sorting and the problem set is the collection of numbers you wish to sort.</p>
+<p>Let&#8217;s further assume that this cache isn&#8217;t local on the computer requiring the result. If that&#8217;s the case, accessing the cache to even find out if the result of your problem exists costs you quite a lot and you have to consider whether it&#8217;ll be worth your while to try and access the cache, get a cache miss and compute the result yourself. Considering the amount of storage required to store everything and the time it would take to send the problem set, access the data and send the results back, most problems aren&#8217;t good candidates for such a universal cache. Today.</p>
+<p>However, storage space is becoming cheaper and network speed is constantly rising, so more and more problems will benefit from a universal cache service like that. Creating such a service isn&#8217;t too hard. It can be implemented, as an example, using Amazon&#8217;s <a href="http://aws.amazon.com/s3">Simple Storage Service (S3)</a> for results storage. The universal cache can be self learning &#8211; for example, if there is a high percentage of cache misses, enlarge cache storage space automatically. In addition, you can use Amazon&#8217;s <a href="http://aws.amazon.com/ec2">Elastic Computing (EC2)</a> for computing the cache misses instead of performing the calculations yourself. So in the case of high percentage of cache misses, you may choose to add more computers to the grid.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Idea: RSS Similar Item Group View</title>
+		<link>/old-blog/641</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 12 Feb 2008 04:59:00 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=641</guid>
+
+					<description><![CDATA[One thing about reading technology news from multiple sources is the massive repeat of items in different feeds. What I would like my RSS reader (currently Google Reader) to do is group the similar items under the same category. For example, in my Google Reader account I have a gadgets folder that contains both feeds &#8230; <p class="link-more"><a href="/old-blog/641" class="more-link">Continue reading<span class="screen-reader-text"> "Idea: RSS Similar Item Group View"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>One thing about reading technology news from multiple sources is the massive repeat of items in different feeds. What I would like my RSS reader (currently <a href="http://reader.google.com/">Google Reader</a>) to do is group the similar items under the same category.</p>
+<p>For example, in my Google Reader account I have a gadgets folder that contains both feeds from <a href="http://gizmodo.com/">Gizmodo</a> and <a href="http://engadget.com/">Engadget</a>. I never manage to follow even one of those feeds, but sometimes I check them out to see what&#8217;s new in the gadget world. Each of these competing blogs has its own merits that make me keep it in my RSS reading list. However, I would like to see similar news items grouped into one, much like what <a href="http://news.google.com/">Google News</a> does with news items.</p>
+<p>I went to offer this feature to Google and naturally I&#8217;m not <a href="http://groups.google.com/group/google-reader-feedback/browse_thread/thread/87694134924b4184/98c84000e894c885?lnk=gst&#038;q=group+similar#98c84000e894c885">the first person to do that</a>. The funny thing is that the guy who suggested the feature even used the Gizmodo/Engadget example himself.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

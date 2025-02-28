@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Unvelope &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/category/unvelope/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 09:25:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Happy Birthday To Me. I&#8217;m 37</title>
+		<link>/old-blog/3086</link>
+					<comments>/old-blog/3086#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2014 05:31:09 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Unvelope]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3086</guid>
+
+					<description><![CDATA[This birthday comes when I&#8217;m relatively happy, but it follows a few not-so-great months. The past year had its ups and downs. We closed Playrock. Following that I started looking for a job outside of Israel, but instead opted to take a job at an Isareli startup. That may have been my biggest mistake of &#8230; <p class="link-more"><a href="/old-blog/3086" class="more-link">Continue reading<span class="screen-reader-text"> "Happy Birthday To Me. I&#8217;m 37"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>This birthday comes when I&#8217;m relatively happy, but it follows a few not-so-great months. The past year had its ups and downs.</p>
+<p>We <a title="Playrock Is No More" href="/old-blog/3015">closed Playrock</a>. Following that I started looking for a job outside of Israel, but instead opted to take a job at an Isareli startup. That may have been my biggest mistake of the year. My experience in that company wasn&#8217;t good and I switched jobs again. I&#8217;m sorry that I didn&#8217;t follow through with moving abroad, mainly because it would have saved me a lot of grief, both professional and personal. I take comfort in the fact that I&#8217;m enjoying my current place of work (<a title="Stratoscale" href="http://www.stratoscale.com/">Stratoscale</a>) a lot.</p>
+<p>Other than that, I became involved in a side project, <a title="אנ-וולופ - משתלם בשמחות" href="/old-blog/3061">Unvelope</a> (Hebrew link), which I hope will do well.</p>
+<p>I also had a short relationship that didn&#8217;t turn out well at all.</p>
+<p>I saw The Prodigy twice &#8211; in <a title="My 14th Prodigy Show - Kiev, Ukraine" href="/old-blog/3032">June</a> and very recently <a title="My 15th Prodigy Show - New Year's Eve, O2 Arena, London" href="/old-blog/3078">on New Year&#8217;s eve</a>. That&#8217;s always a good thing :)</p>
+<p>I&#8217;m still running (outside) twice a week. I feel healthy and in that sense things are fine.</p>
+<p>To sum up, quite a lot happened this year. I hope I&#8217;ll be mostly happy this year and maybe to accomplish something meaningful.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/3086/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>אנ-וולופ &#8211; משתלם בשמחות</title>
+		<link>/old-blog/3061</link>
+					<comments>/old-blog/3061#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 05 Nov 2013 18:07:09 +0000</pubDate>
+				<category><![CDATA[Hebrew]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Unvelope]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3061</guid>
+
+					<description><![CDATA[אנ-וולופ (Unvelope) הוא שירות שאני מעורב באופן חלקי בפיתוח שלו. בבסיסו השירות מאפשר לאורחים בשמחות לתת את המתנה באמצעות כרטיס אשראי, אפילו בתשלומים! כדי להשלים את החבילה, אנ-וולופ גם נותן שירותים של אישורי הגעה, ניווט לאירוע, תזכורות ובקרוב גם סידורי ישיבה. היום אנ-וולופ הופיע פעם ראשונה בתקשורת. הנה הוידאו: לפרטים נוספים בקרו באתר הבית.]]></description>
+										<content:encoded><![CDATA[<p class="hebrew"><a href="/old-blog/wp-content/uploads/logo.png"><img decoding="async" class="size-medium wp-image-3066 alignright" src="/old-blog/wp-content/uploads/logo-300x105.png" alt="logo" width="300" height="105" srcset="/old-blog/wp-content/uploads/logo-300x105.png 300w, /old-blog/wp-content/uploads/logo.png 340w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p class="hebrew"><a title="אנ-וולופ - עמוד הבית" href="https://www.unvelope.co.il/">אנ-וולופ</a> (Unvelope) הוא שירות שאני מעורב באופן חלקי בפיתוח שלו. בבסיסו השירות מאפשר לאורחים בשמחות לתת את המתנה באמצעות כרטיס אשראי, אפילו בתשלומים! כדי להשלים את החבילה, אנ-וולופ גם נותן שירותים של אישורי הגעה, ניווט לאירוע, תזכורות ובקרוב גם סידורי ישיבה.</p>
+<p class="hebrew">היום אנ-וולופ הופיע פעם ראשונה בתקשורת. הנה הוידאו:</p>
+<p><a href="https://www.youtube.com/watch?v=MNbXpguAwWE">https://www.youtube.com/watch?v=MNbXpguAwWE</a></p>
+<p class="hebrew">לפרטים נוספים בקרו ב<a title="אנ-וולופ - אתר הבית" href="https://www.unvelope.co.il/">אתר הבית</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/3061/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

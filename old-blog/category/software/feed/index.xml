@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Software &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/category/software/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 09:26:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Syncwerk Erased Some Of My Files, Now Lost Forever</title>
+		<link>/old-blog/3480</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2017 05:13:34 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[criticism]]></category>
+		<category><![CDATA[review]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3480</guid>
+
+					<description><![CDATA[A while ago I switched from Dropbox to Syncwerk (at the time it was called Seafile Cloud after the open-source project it was using) as the file backup and sync solution I used. I had good reasons (specified in that post.) But it turned out bad. To put it simply, Syncwerk didn&#8217;t do well the &#8230; <p class="link-more"><a href="/old-blog/3480" class="more-link">Continue reading<span class="screen-reader-text"> "Syncwerk Erased Some Of My Files, Now Lost Forever"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>A while ago I <a href="/old-blog/3367">switched from Dropbox to Syncwerk</a> (at the time it was called Seafile Cloud after the open-source project it was using) as the file backup and sync solution I used. I had good reasons (specified in that post.)</p>
+<p>But it turned out bad. To put it simply, Syncwerk didn&#8217;t do well the most important job it has &#8211; not only did it not backup my files properly, but it also erased some files and they are now <strong>lost forever</strong>. Apparently they know about this and they have a conflict resolution script to restore some of them. But quite a lot of my files have a zero size now in my backup folders and I will never be able to restore them.</p>
+<p>Obviously I&#8217;ve canceled my Syncwerk account.</p>
+<p>I take responsibility for not following the <a href="https://www.backblaze.com/blog/the-3-2-1-backup-strategy/">3-2-1 backup strategy</a>, but even following that might have not helped unless I monitored changes in files, which would have been tedious.</p>
+<p>Anyway, this is a warning to not use this service, unless you&#8217;re OK with losing some of your files.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Samsung Creates Dindy Like App For Driving</title>
+		<link>/old-blog/3444</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Thu, 04 May 2017 06:15:15 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3444</guid>
+
+					<description><![CDATA[If you were previously interested in Dindy, my (now defunct) Android app, for the purpose of auto-reply while driving &#8211; you&#8217;re in luck. Samsung created their own app (which will be available sometime this month on the Play Store) called &#8220;In-Traffic Reply&#8221;. The app is smart in that it auto-detects when you&#8217;re driving or cycling &#8230; <p class="link-more"><a href="/old-blog/3444" class="more-link">Continue reading<span class="screen-reader-text"> "Samsung Creates Dindy Like App For Driving"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>If you were previously interested in Dindy, my (<a href="/old-blog/3230">now defunct</a>) Android app, for the purpose of auto-reply while driving &#8211; you&#8217;re in luck. <a href="https://www.theverge.com/2017/4/26/15436676/samsung-in-traffic-reply-app-anti-distracted-driving">Samsung created their own app</a> (which will be available sometime this month on the Play Store) called &#8220;In-Traffic Reply&#8221;.</p>
+<p>The app is smart in that it auto-detects when you&#8217;re driving or cycling (using the GPS).</p>
+<p>I hope Samsung will manage to spread it widely.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Switching from Dropbox to Seafile Cloud</title>
+		<link>/old-blog/3367</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 10 Aug 2016 10:29:02 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3367</guid>
+
+					<description><![CDATA[UPDATE: Since I originally wrote this, the company changed its name to Syncwerk. I strongly recommend NOT to buy into their storage offerings. I will explain more in a new post as soon as I&#8217;ve taken my files off their servers. I&#8217;ve been using Dropbox for a long time (more than 7 years, apparently) and &#8230; <p class="link-more"><a href="/old-blog/3367" class="more-link">Continue reading<span class="screen-reader-text"> "Switching from Dropbox to Seafile Cloud"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><strong>UPDATE</strong>: Since I originally wrote this, the company changed its name to Syncwerk. I strongly recommend <strong>NOT</strong> to buy into their storage offerings. I will explain more in a new post as soon as I&#8217;ve taken my files off their servers.</p>
+<p>I&#8217;ve been using Dropbox for a long time (more than 7 years, <a href="/old-blog/1149">apparently</a>) and it has been very useful. I use it mainly for file syncing across devices and backup, and apart from sharing I almost never used any other features (undelete was useful a couple of times.)</p>
+<p>But Dropbox has a package that is too expensive for me &#8211; paying 10$ a month while not using even half of the provided 1TB of storage seems very wasteful. So I&#8217;ve been looking for an alternative and decided to go with Seafile Cloud (<a href="https://shop.seafile.de/en/product/seafile-cloud-account-subscription/?noredirect=en_US">shop link</a>). Since my main requirement was a native Linux client, this didn&#8217;t leave a lot of services to consider.</p>
+<p>I like Seafile Cloud for a few reasons:</p>
+<ul>
+<li>There&#8217;s a native Linux package.</li>
+<li>It&#8217;s based on an <a href="https://github.com/haiwen/seafile">open source project</a> (you can create your own Seafile server and not pay anyone.)</li>
+<li>It has a package better suited for me, for less than what Dropbox costs (500GB for 5 € a month.)</li>
+<li>Files are stored on servers in Germany, a country that is better at keeping people&#8217;s privacy than the US is.</li>
+</ul>
+<p>Registering to Seafile and using it isn&#8217;t as smooth as Dropbox, but once you get it going it works great (as far as I can tell.) I hope it&#8217;ll stay that way.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>I Removed Dindy From The Play Store</title>
+		<link>/old-blog/3230</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 03 Jun 2015 04:41:54 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3230</guid>
+
+					<description><![CDATA[Dindy was very useful to me and (probably) to a few hundreds of people around the world. I enjoyed mainly reading the good reviews it got and getting supportive emails from users. But the reality is that since Android 5 Google has been making its own steps into the Do Not Disturb game, and even &#8230; <p class="link-more"><a href="/old-blog/3230" class="more-link">Continue reading<span class="screen-reader-text"> "I Removed Dindy From The Play Store"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Dindy was very useful to me and (probably) to a few hundreds of people around the world. I enjoyed mainly reading the good reviews it got and getting supportive emails from users. But the reality is that since Android 5 Google has been making its own steps into the Do Not Disturb game, and even more so in the next version, Android M.</p>
+<p>The changes in Android 5 already made Dindy less useful, by not allowing developers to put the phone in real silent mode. If you weren&#8217;t careful about who you select as a favorite contact, that would clash with Dindy&#8217;s settings. Android 5.0 specifically has bugs that prevent Dindy from working properly at all, and I had to apologize for that to a couple of users. These bugs were fixed in 5.1.</p>
+<p>In Android M, Google basically implemented Dindy, with the exception of automatic SMS replies and some extra customizations that I doubt anyone was using. That doesn&#8217;t seem to be enough to justify an investment for users in an app to manage Do Not Disturb modes, or for me to keep adapting the app to Google&#8217;s changes in every Android release.</p>
+<p>The first version of Dindy worked on Android 1.5 and I&#8217;ve changed it continuously to work with newer versions of Android over the years. Recently, in its peak usage, Dindy had around 1200 installations globally. That&#8217;s a very low number. My guess is that only a few hundreds of those were actually using it.</p>
+<p>Unfortunately, Google still doesn&#8217;t get phone volume controls right. One thing that is very unclear is that if you want to switch the phone to vibrate, you should <strong>not</strong> lower the volume until it reaches vibrate mode. The result of doing that is lowering the phones ring volume to the minimum and then telling the phone that it should be on vibrate. If you have anyone important that you&#8217;d like to get past vibrate and ring, now your phone will ring in a very low volume. The correct way to switch to vibrate mode in stock Android 5+ is to click the volume button to see the volume controls and then tap the bell icon to switch to vibrate.</p>
+<p>Apple got that right in the iPhone, by the way. Maybe Google will get it right in Android N.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>אנ-וולופ &#8211; משתלם בשמחות</title>
+		<link>/old-blog/3061</link>
+					<comments>/old-blog/3061#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 05 Nov 2013 18:07:09 +0000</pubDate>
+				<category><![CDATA[Hebrew]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Unvelope]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3061</guid>
+
+					<description><![CDATA[אנ-וולופ (Unvelope) הוא שירות שאני מעורב באופן חלקי בפיתוח שלו. בבסיסו השירות מאפשר לאורחים בשמחות לתת את המתנה באמצעות כרטיס אשראי, אפילו בתשלומים! כדי להשלים את החבילה, אנ-וולופ גם נותן שירותים של אישורי הגעה, ניווט לאירוע, תזכורות ובקרוב גם סידורי ישיבה. היום אנ-וולופ הופיע פעם ראשונה בתקשורת. הנה הוידאו: לפרטים נוספים בקרו באתר הבית.]]></description>
+										<content:encoded><![CDATA[<p class="hebrew"><a href="/old-blog/wp-content/uploads/logo.png"><img decoding="async" class="size-medium wp-image-3066 alignright" src="/old-blog/wp-content/uploads/logo-300x105.png" alt="logo" width="300" height="105" srcset="/old-blog/wp-content/uploads/logo-300x105.png 300w, /old-blog/wp-content/uploads/logo.png 340w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p class="hebrew"><a title="אנ-וולופ - עמוד הבית" href="https://www.unvelope.co.il/">אנ-וולופ</a> (Unvelope) הוא שירות שאני מעורב באופן חלקי בפיתוח שלו. בבסיסו השירות מאפשר לאורחים בשמחות לתת את המתנה באמצעות כרטיס אשראי, אפילו בתשלומים! כדי להשלים את החבילה, אנ-וולופ גם נותן שירותים של אישורי הגעה, ניווט לאירוע, תזכורות ובקרוב גם סידורי ישיבה.</p>
+<p class="hebrew">היום אנ-וולופ הופיע פעם ראשונה בתקשורת. הנה הוידאו:</p>
+<p><a href="https://www.youtube.com/watch?v=MNbXpguAwWE">https://www.youtube.com/watch?v=MNbXpguAwWE</a></p>
+<p class="hebrew">לפרטים נוספים בקרו ב<a title="אנ-וולופ - אתר הבית" href="https://www.unvelope.co.il/">אתר הבית</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/3061/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Playrock Is No More</title>
+		<link>/old-blog/3015</link>
+					<comments>/old-blog/3015#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 04 May 2013 17:20:48 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3015</guid>
+
+					<description><![CDATA[My two partners and I decided to close down Blenure, the company we set up to create Playrock, our mobile, social and local gaming network and infrastructure. Our failure to execute taught me a lot, so while it&#8217;s a shame it didn&#8217;t work out for us, I&#8217;m happy that we gave it a shot, and &#8230; <p class="link-more"><a href="/old-blog/3015" class="more-link">Continue reading<span class="screen-reader-text"> "Playrock Is No More"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>My two partners and I decided to close down Blenure, the company we set up to create Playrock, our mobile, social and local gaming network and infrastructure. Our failure to execute taught me a lot, so while it&#8217;s a shame it didn&#8217;t work out for us, I&#8217;m happy that we gave it a shot, and I enjoyed working with quite a lot of people like contractors and developers that saw the potential in our idea and invested time in integrating Playrock&#8217;s SDK into their games.</p>
+<p>We all still think it&#8217;s a good idea. Seems like some other people think so too, as <a href="Our failure to execute taught me a lot, so while it's a shame it didn't work, I'm happy that we gave it a shot." title="Google Games, Anyone? Play Services Is Getting Real-Time And Turn-Based Multiplayer, Invitations, In-Game Chat, Lobbies, Leaderboards, And Achievements!">Google is rumored to start its own Playrock clone</a> :)</p>
+<p>In the meantime I found a new job here in Israel, for a promising startup that I can&#8217;t say much about. The people there are great and the work is challenging and therefore a lot of fun.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/3015/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Happy Birthday To Me. I&#8217;m 36</title>
+		<link>/old-blog/2995</link>
+					<comments>/old-blog/2995#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2013 07:01:52 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Fitness]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2995</guid>
+
+					<description><![CDATA[When I look at last year&#8217;s birthday post I realize how quickly time has passed. It&#8217;s like I wrote it yesterday. Compared to last year, 36 doesn&#8217;t come with thoughts about choices, but with a look to the future. It&#8217;s been two years now working on Playrock. We released as beta without advertising and are &#8230; <p class="link-more"><a href="/old-blog/2995" class="more-link">Continue reading<span class="screen-reader-text"> "Happy Birthday To Me. I&#8217;m 36"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>When I look at <a title="Happy Birthday To Me. I'm 35" href="/old-blog/2641">last year&#8217;s birthday post</a> I realize how quickly time has passed. It&#8217;s like I wrote it yesterday. Compared to last year, 36 doesn&#8217;t come with thoughts about choices, but with a look to the future.</p>
+<p>It&#8217;s been two years now working on <a title="Playrock" href="/old-blog/category/playrock">Playrock</a>. We released as beta without advertising and are improving it all the time to make it better and more appealing to our users. I think Playrock is a great idea and we get very good responses from people that hear about it.</p>
+<p>However, if Playrock doesn&#8217;t do well enough, I will be forced to look for a job. It&#8217;s not optimal, but not bad either &#8211; it will be a good time for me to explore overseas job opportunities, as I previously wanted to but never had the chance.</p>
+<p>I traveled to see <a title="My 13th Prodigy Show - Warriors Dance Festival, Belgrade, Serbia" href="/old-blog/2885">The Prodigy for the 13th time in September</a> and had an amazing time thanks to some new friends in Belgrade, Serbia.</p>
+<p>As for side projects: I haven&#8217;t had much time to work on those. My ideas list is growing and I might start working on one of them soon. As always, it will probably be a niche project that won&#8217;t appeal to many people, but it&#8217;ll be fun to code. I didn&#8217;t manage to find a designer for the website I built for my <a title="Idea: Online Will" href="/old-blog/1379">online will idea</a> that I already implemented, which is a shame because I was hoping to progress with that.</p>
+<p>My workouts are <a title="8 Years Of Working Out" href="/old-blog/2924">still the same</a> and I&#8217;m relatively happy with my fitness and health.</p>
+<p>So for the upcoming year I hope that either Playrock will be successful or for a different kind of adventure outside of Israel. Other than that&#8230; life is pretty good as is :)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2995/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Playrock Movie</title>
+		<link>/old-blog/2981</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 11 Dec 2012 16:00:15 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2981</guid>
+
+					<description><![CDATA[We created another movie for Playrock. This one is aimed more at investors and developers, not users, to better understand what we do.]]></description>
+										<content:encoded><![CDATA[<p>We created another movie for Playrock. This one is aimed more at investors and developers, not users, to better understand what we do.</p>
+<p><iframe title="Playrock Movie" width="525" height="295" src="https://www.youtube.com/embed/vZxtwHV-sgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sometimes Select Is Broken</title>
+		<link>/old-blog/2974</link>
+					<comments>/old-blog/2974#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 01 Dec 2012 07:27:41 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2974</guid>
+
+					<description><![CDATA[Coding Horror&#8217;s first rule of programming is &#8220;It&#8217;s Always Your Fault&#8221;. I&#8217;m a big believer in this rule. That&#8217;s why I was so surprised to find a bug in GCC 4.7.2 that turned out to be real and not just a fragment of my imagination. I&#8217;m also surprised no one else reported it earlier. I &#8230; <p class="link-more"><a href="/old-blog/2974" class="more-link">Continue reading<span class="screen-reader-text"> "Sometimes Select Is Broken"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Coding Horror&#8217;s first rule of programming is <a href="http://www.codinghorror.com/blog/2008/03/the-first-rule-of-programming-its-always-your-fault.html" title="The First Rule of Programming: It's Always Your Fault">&#8220;It&#8217;s Always Your Fault&#8221;</a>. I&#8217;m a big believer in this rule.</p>
+<p>That&#8217;s why I was so surprised to find <a href="http://gcc.gnu.org/bugzilla/show_bug.cgi?id=55513" title="Bug 55513 - [4.7/4.8 Regression] Incorrect snprintf folding when building with -std=c++0x">a bug in GCC 4.7.2</a> that turned out to be real and not just a fragment of my imagination. I&#8217;m also surprised no one else reported it earlier. I guess it shows that there aren&#8217;t too many people (or companies) out there building C++11 code, yet.</p>
+<p>So after more than 10 years of programming in C/C++, this is the one time I get to be affected by a compiler bug. From now on it&#8217;s going to be really my fault 100% of the time.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2974/feed</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>We Released Playrock</title>
+		<link>/old-blog/2901</link>
+					<comments>/old-blog/2901#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Mon, 01 Oct 2012 10:57:08 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2901</guid>
+
+					<description><![CDATA[To those of you who have been wondering what I&#8217;ve been doing over the past 18 months, I finally have something to show for all this time. We released Playrock, which is &#8220;a social gaming network where you can play with people who are next to you. Players can instantly create their own virtual spaces, &#8230; <p class="link-more"><a href="/old-blog/2901" class="more-link">Continue reading<span class="screen-reader-text"> "We Released Playrock"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignleft  wp-image-2902" title="Playrock" src="https://www.dropbox.com/s/j6k3bwc20znbj8h/app_icon_512.png?raw=1" alt="Playrock icon" width="180" height="180" srcset="/old-blog/wp-content/uploads/app_icon_512.png 512w, /old-blog/wp-content/uploads/app_icon_512-150x150.png 150w, /old-blog/wp-content/uploads/app_icon_512-300x300.png 300w" sizes="(max-width: 180px) 100vw, 180px" /> To those of you who have been wondering what I&#8217;ve been doing over the past 18 months, I finally have something to show for all this time. We released <a title="Playrock" href="http://playrock.me/">Playrock</a>, which is &#8220;a social gaming network where you can play with people who are next to you. Players can instantly create their own virtual spaces, select games that they like to their spaces, and start playing and sharing with other people.&#8221;</p>
+<p>If you have an Android phone and consider yourself a friend of mine :), please take the time to download Playrock from the Google Play Store by clicking this image below:</p>
+<div>
+<p style="text-align: center;"><a href="http://play.google.com/store/apps/details?id=com.blenture.playrock"><img decoding="async" src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" alt="Android app on Google Play" /><br />
+</a></p>
+</div>
+<p>Since this is a social app, contact me by email and I&#8217;ll add you to one of my &#8220;virtual spaces&#8221; so I can show you what it does. There is a small learning curve needed to use the app, but I believe it will be worth it. Also, any feedback would be appreciated. Write me to <a title="Email me" href="mailto:amit@blenture.com">amit@blenture.com</a> (or any address you have of mine) with your thoughts.</p>
+<p><iframe loading="lazy" title="Playrock" width="525" height="295" src="https://www.youtube.com/embed/AHaIT0VXM6E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2901/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Google Calendar &#8211; I Use It For Birthday Reminders	</title>
+	<atom:link href="/old-blog/560/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/560</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sat, 12 May 2007 16:50:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/560/comment-page-1#comment-9959</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Sat, 12 May 2007 16:50:21 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=560#comment-9959</guid>
+
+					<description><![CDATA[That&#039;s great! I always wanted something like this that would send me an email.]]></description>
+			<content:encoded><![CDATA[<p>That&#8217;s great! I always wanted something like this that would send me an email.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

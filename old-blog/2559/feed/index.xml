@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Google+ Following Violates Privacy (In Its Current State)	</title>
+	<atom:link href="/old-blog/2559/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/2559</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Wed, 06 Jul 2011 11:48:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Albert		</title>
+		<link>/old-blog/2559/comment-page-1#comment-176253</link>
+
+		<dc:creator><![CDATA[Albert]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2011 11:48:31 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2559#comment-176253</guid>
+
+					<description><![CDATA[You&#039;re right. Following someone doesn&#039;t mean he is in your &#039;circle&#039;.]]></description>
+			<content:encoded><![CDATA[<p>You&#8217;re right. Following someone doesn&#8217;t mean he is in your &#8216;circle&#8217;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2559/comment-page-1#comment-176235</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2011 03:55:48 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2559#comment-176235</guid>
+
+					<description><![CDATA[udim: Google+ app? Sounds like a good idea. But do you think it will solve the following? Let&#039;s say you have two groups of circles - those you share your stuff with and those you don&#039;t. If you add a circle in the future - to which group will it belong? Because I might want the people in the new circle to see my previous posts. Will an app be able to dynamically share (or not share) historical posts with new circles?
+
+Albert: But what if I want to follow someone without him being able to see my previous posts (aimed at &quot;My Circles&quot;) that were not meant for him? I can&#039;t, because he can now go into my profile and see everything. Also, now for every post I have to pick specific circles and I can never use the special groups &quot;Your Circles&quot; or &quot;Your Extended Circles&quot;]]></description>
+			<content:encoded><![CDATA[<p>udim: Google+ app? Sounds like a good idea. But do you think it will solve the following? Let&#8217;s say you have two groups of circles &#8211; those you share your stuff with and those you don&#8217;t. If you add a circle in the future &#8211; to which group will it belong? Because I might want the people in the new circle to see my previous posts. Will an app be able to dynamically share (or not share) historical posts with new circles?</p>
+<p>Albert: But what if I want to follow someone without him being able to see my previous posts (aimed at &#8220;My Circles&#8221;) that were not meant for him? I can&#8217;t, because he can now go into my profile and see everything. Also, now for every post I have to pick specific circles and I can never use the special groups &#8220;Your Circles&#8221; or &#8220;Your Extended Circles&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Albert		</title>
+		<link>/old-blog/2559/comment-page-1#comment-176219</link>
+
+		<dc:creator><![CDATA[Albert]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2011 20:48:20 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2559#comment-176219</guid>
+
+					<description><![CDATA[If some is in your &#039;following&#039; circle, but you&#039;re not in his, he will not see your post on his stream. He will see it in the incoming. The incoming is a different ball game.
+I like it.]]></description>
+			<content:encoded><![CDATA[<p>If some is in your &#8216;following&#8217; circle, but you&#8217;re not in his, he will not see your post on his stream. He will see it in the incoming. The incoming is a different ball game.<br />
+I like it.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: udim		</title>
+		<link>/old-blog/2559/comment-page-1#comment-176215</link>
+
+		<dc:creator><![CDATA[udim]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2011 19:54:48 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2559#comment-176215</guid>
+
+					<description><![CDATA[(Second try)
+You have two options: 
+1. Wait for Google to implement the feature you want.
+2. Write your own Google+ app that generates circles using rules, such as: &quot;all my circles minus the assholes.&quot; :)]]></description>
+			<content:encoded><![CDATA[<p>(Second try)<br />
+You have two options:<br />
+1. Wait for Google to implement the feature you want.<br />
+2. Write your own Google+ app that generates circles using rules, such as: &#8220;all my circles minus the assholes.&#8221; :)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

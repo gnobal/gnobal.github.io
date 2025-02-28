@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Train Your Brain	</title>
+	<atom:link href="/old-blog/496/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/496</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 30 Jan 2007 11:13:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/496/comment-page-1#comment-1804</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2007 11:13:54 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=496#comment-1804</guid>
+
+					<description><![CDATA[Right... exercise the... brain :)]]></description>
+			<content:encoded><![CDATA[<p>Right&#8230; exercise the&#8230; brain :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: xtreeq		</title>
+		<link>/old-blog/496/comment-page-1#comment-1803</link>
+
+		<dc:creator><![CDATA[xtreeq]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2007 10:17:30 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=496#comment-1803</guid>
+
+					<description><![CDATA[I guess now that you&#039;re old you realy should start exercising your brain.]]></description>
+			<content:encoded><![CDATA[<p>I guess now that you&#8217;re old you realy should start exercising your brain.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: How to do nothing	</title>
+	<atom:link href="/old-blog/38/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/38</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sat, 01 Oct 2005 07:15:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/38/comment-page-1#comment-24</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2005 07:15:25 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=38#comment-24</guid>
+
+					<description><![CDATA[Ariel, your comment is a comment about nothing.]]></description>
+			<content:encoded><![CDATA[<p>Ariel, your comment is a comment about nothing.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: arielcohen		</title>
+		<link>/old-blog/38/comment-page-1#comment-23</link>
+
+		<dc:creator><![CDATA[arielcohen]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2005 05:13:03 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=38#comment-23</guid>
+
+					<description><![CDATA[I don&#039;t get it. To me it seems like those are instructions of how to get ready for meditation, which is not nothing. 
+By Wikipedia, nothing is the lack or absence of anything - which is still something...
+
+Actually I like your side note, since it doesn&#039;t express nothing as something.]]></description>
+			<content:encoded><![CDATA[<p>I don&#8217;t get it. To me it seems like those are instructions of how to get ready for meditation, which is not nothing.<br />
+By Wikipedia, nothing is the lack or absence of anything &#8211; which is still something&#8230;</p>
+<p>Actually I like your side note, since it doesn&#8217;t express nothing as something.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

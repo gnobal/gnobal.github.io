@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>review &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/tag/review/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Thu, 14 Dec 2017 07:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Syncwerk Erased Some Of My Files, Now Lost Forever</title>
+		<link>/old-blog/3480</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2017 05:13:34 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[criticism]]></category>
+		<category><![CDATA[review]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3480</guid>
+
+					<description><![CDATA[A while ago I switched from Dropbox to Syncwerk (at the time it was called Seafile Cloud after the open-source project it was using) as the file backup and sync solution I used. I had good reasons (specified in that post.) But it turned out bad. To put it simply, Syncwerk didn&#8217;t do well the &#8230; <p class="link-more"><a href="/old-blog/3480" class="more-link">Continue reading<span class="screen-reader-text"> "Syncwerk Erased Some Of My Files, Now Lost Forever"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>A while ago I <a href="/old-blog/3367">switched from Dropbox to Syncwerk</a> (at the time it was called Seafile Cloud after the open-source project it was using) as the file backup and sync solution I used. I had good reasons (specified in that post.)</p>
+<p>But it turned out bad. To put it simply, Syncwerk didn&#8217;t do well the most important job it has &#8211; not only did it not backup my files properly, but it also erased some files and they are now <strong>lost forever</strong>. Apparently they know about this and they have a conflict resolution script to restore some of them. But quite a lot of my files have a zero size now in my backup folders and I will never be able to restore them.</p>
+<p>Obviously I&#8217;ve canceled my Syncwerk account.</p>
+<p>I take responsibility for not following the <a href="https://www.backblaze.com/blog/the-3-2-1-backup-strategy/">3-2-1 backup strategy</a>, but even following that might have not helped unless I monitored changes in files, which would have been tedious.</p>
+<p>Anyway, this is a warning to not use this service, unless you&#8217;re OK with losing some of your files.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

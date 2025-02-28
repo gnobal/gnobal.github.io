@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Guruza &#8211; yet another UQAN implementation	</title>
+	<atom:link href="/old-blog/315/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/315</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 18 Mar 2019 14:12:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: richcollins		</title>
+		<link>/old-blog/315/comment-page-1#comment-631</link>
+
+		<dc:creator><![CDATA[richcollins]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2006 22:30:59 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=315#comment-631</guid>
+
+					<description><![CDATA[Hi Amit.
+
+I am one of the founders of Guruza.  We would certainly be interested in getting your input given your previous interest in Q&#038;A sites.  We just put out a question asking for feedback:
+http://guruza.com/question/233/reward-25.00
+
+Please let us know what you think about the site.]]></description>
+			<content:encoded><![CDATA[<p>Hi Amit.</p>
+<p>I am one of the founders of Guruza.  We would certainly be interested in getting your input given your previous interest in Q&amp;A sites.  We just put out a question asking for feedback:<br />
+<a href="http://guruza.com/question/233/reward-25.00" rel="nofollow ugc">http://guruza.com/question/233/reward-25.00</a></p>
+<p>Please let us know what you think about the site.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

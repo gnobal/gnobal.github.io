@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Dindy, My First Ever Mobile App, Is Out!	</title>
+	<atom:link href="/old-blog/1770/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/1770</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 09:38:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/1770/comment-page-1#comment-154218</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2009 07:37:09 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1770#comment-154218</guid>
+
+					<description><![CDATA[The user indeed needs to start and stop each profile on his/her own. The general idea that instead of setting your phone to silent or vibrate-only you use Dindy as a &quot;smarter&quot; silent mode.
+
+Your ideas to use location-awareness for settings are very good and actually implemented in the highly-rated and free application Locale. It would be nice to integrate with Locale, since it does its job already very well. I&#039;ll put it on my TODO list to check whether this is possible or if the developers of Locale would expose such an interface to other applications.
+
+As for car settings, that&#039;s also a good idea which I&#039;ve looked into. In fact, Android 2.0 contains the ability to detect that the phone is connected to a car adapter and I wanted to use that without breaking compatibility with Android 1.5 and 1.6.
+
+I don&#039;t know if and when I&#039;ll get to implementing these features but these are very good suggestions so thanks a lot!]]></description>
+			<content:encoded><![CDATA[<p>The user indeed needs to start and stop each profile on his/her own. The general idea that instead of setting your phone to silent or vibrate-only you use Dindy as a &#8220;smarter&#8221; silent mode.</p>
+<p>Your ideas to use location-awareness for settings are very good and actually implemented in the highly-rated and free application Locale. It would be nice to integrate with Locale, since it does its job already very well. I&#8217;ll put it on my TODO list to check whether this is possible or if the developers of Locale would expose such an interface to other applications.</p>
+<p>As for car settings, that&#8217;s also a good idea which I&#8217;ve looked into. In fact, Android 2.0 contains the ability to detect that the phone is connected to a car adapter and I wanted to use that without breaking compatibility with Android 1.5 and 1.6.</p>
+<p>I don&#8217;t know if and when I&#8217;ll get to implementing these features but these are very good suggestions so thanks a lot!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: David Bar		</title>
+		<link>/old-blog/1770/comment-page-1#comment-154217</link>
+
+		<dc:creator><![CDATA[David Bar]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2009 06:58:42 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1770#comment-154217</guid>
+
+					<description><![CDATA[Amit,
+
+How do you detect that the person is in a meeting/car? Does the user need to change the state?
+What about integration with GPS? You could move to a meeting state if the GPS coordinates is inside the meeting rooms.
+You could also detect Car mode if the phone is moving more than a few KPH.
+What do you think?]]></description>
+			<content:encoded><![CDATA[<p>Amit,</p>
+<p>How do you detect that the person is in a meeting/car? Does the user need to change the state?<br />
+What about integration with GPS? You could move to a meeting state if the GPS coordinates is inside the meeting rooms.<br />
+You could also detect Car mode if the phone is moving more than a few KPH.<br />
+What do you think?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/1770/comment-page-1#comment-154075</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2009 07:44:13 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1770#comment-154075</guid>
+
+					<description><![CDATA[The reason I had to specify a price in British Pounds is that I am listed as a British merchant with a friend&#039;s address. There is no way to be an Israeli merchant yet, for some reason.]]></description>
+			<content:encoded><![CDATA[<p>The reason I had to specify a price in British Pounds is that I am listed as a British merchant with a friend&#8217;s address. There is no way to be an Israeli merchant yet, for some reason.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Kila		</title>
+		<link>/old-blog/1770/comment-page-1#comment-154068</link>
+
+		<dc:creator><![CDATA[Kila]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 21:06:50 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1770#comment-154068</guid>
+
+					<description><![CDATA[There are products that are priced in dollars, like:
+http://uk.androlib.com/android.application.com-agilestorm-fakecall-pro-qnmz.aspx]]></description>
+			<content:encoded><![CDATA[<p>There are products that are priced in dollars, like:<br />
+<a href="http://uk.androlib.com/android.application.com-agilestorm-fakecall-pro-qnmz.aspx" rel="nofollow ugc">http://uk.androlib.com/android.application.com-agilestorm-fakecall-pro-qnmz.aspx</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alik		</title>
+		<link>/old-blog/1770/comment-page-1#comment-154066</link>
+
+		<dc:creator><![CDATA[Alik]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 09:59:24 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1770#comment-154066</guid>
+
+					<description><![CDATA[Good answers]]></description>
+			<content:encoded><![CDATA[<p>Good answers</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/1770/comment-page-1#comment-154065</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 09:40:06 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1770#comment-154065</guid>
+
+					<description><![CDATA[Shaul... I might consult with you about the Twitter option. I&#039;m trying not to get into marketing in the early stages of this app for now, though (originally I just wrote this for fun. Marketing seems a bit too serious for me)
+
+I thought about letting Android application review site review the app, for example.
+
+We&#039;ll see.]]></description>
+			<content:encoded><![CDATA[<p>Shaul&#8230; I might consult with you about the Twitter option. I&#8217;m trying not to get into marketing in the early stages of this app for now, though (originally I just wrote this for fun. Marketing seems a bit too serious for me)</p>
+<p>I thought about letting Android application review site review the app, for example.</p>
+<p>We&#8217;ll see.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/1770/comment-page-1#comment-154064</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 09:33:30 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1770#comment-154064</guid>
+
+					<description><![CDATA[Alik, thanks a lot for the input. And here are my answers:
+1. The Google market is about to get closer to the iPhone app store in the next version:
+http://gizmodo.com/5352346/android-market-16-update-finally-brings-app-screenshots
+
+2. Actually, Nokia&#039;s solution is a simplistic one. In reality there are free SMS responders that let you do automatic SMS responds even for Android. Dindy&#039;s strength is in letting the caller decide whether something is urgent or not, and this is also its defining feature (by the way, you can still use Dindy as a &quot;simple&quot; auto-responder as well... see example in answer #4.) Automatic SMS responders can&#039;t help you when you&#039;re sleeping, for example.
+
+3. The issue of whitelists/blacklists has been brought up before. In general, I didn&#039;t see a way of adding them without making the interface much more complicated. But I also don&#039;t think they&#039;re really needed.
+As for whitelists I think they completely miss the point of Dindy. The only overhead introduced to callers is having to call twice. Having a caller defined as &quot;always urgent&quot; seems very &quot;Israeli&quot; in nature to me. Only here do we &quot;plan for disasters&quot; by being available 100% of the time on our mobile phones.
+And blacklists... don&#039;t get me started on those. If you have someone that will always call twice because he/she thinks it&#039;s urgent, I&#039;m sorry to disappoint you but you have a different problem that isn&#039;t related to mobile applications. As a friend of mine put it: &quot;Dindy will not help the user solve personal relations issues&quot; :)
+
+4. People like Itai can always set Dindy to vibrate on both first and second call, essentially making Dindy a &quot;simple&quot; auto responder (as I mentioned before)
+
+5. Releasing a free version is a good idea if sales are really slow, as they probably would be. There are quite a few ways to cripple Dindy, even though it&#039;s a very simple app.]]></description>
+			<content:encoded><![CDATA[<p>Alik, thanks a lot for the input. And here are my answers:<br />
+1. The Google market is about to get closer to the iPhone app store in the next version:<br />
+<a href="http://gizmodo.com/5352346/android-market-16-update-finally-brings-app-screenshots" rel="nofollow ugc">http://gizmodo.com/5352346/android-market-16-update-finally-brings-app-screenshots</a></p>
+<p>2. Actually, Nokia&#8217;s solution is a simplistic one. In reality there are free SMS responders that let you do automatic SMS responds even for Android. Dindy&#8217;s strength is in letting the caller decide whether something is urgent or not, and this is also its defining feature (by the way, you can still use Dindy as a &#8220;simple&#8221; auto-responder as well&#8230; see example in answer #4.) Automatic SMS responders can&#8217;t help you when you&#8217;re sleeping, for example.</p>
+<p>3. The issue of whitelists/blacklists has been brought up before. In general, I didn&#8217;t see a way of adding them without making the interface much more complicated. But I also don&#8217;t think they&#8217;re really needed.<br />
+As for whitelists I think they completely miss the point of Dindy. The only overhead introduced to callers is having to call twice. Having a caller defined as &#8220;always urgent&#8221; seems very &#8220;Israeli&#8221; in nature to me. Only here do we &#8220;plan for disasters&#8221; by being available 100% of the time on our mobile phones.<br />
+And blacklists&#8230; don&#8217;t get me started on those. If you have someone that will always call twice because he/she thinks it&#8217;s urgent, I&#8217;m sorry to disappoint you but you have a different problem that isn&#8217;t related to mobile applications. As a friend of mine put it: &#8220;Dindy will not help the user solve personal relations issues&#8221; :)</p>
+<p>4. People like Itai can always set Dindy to vibrate on both first and second call, essentially making Dindy a &#8220;simple&#8221; auto responder (as I mentioned before)</p>
+<p>5. Releasing a free version is a good idea if sales are really slow, as they probably would be. There are quite a few ways to cripple Dindy, even though it&#8217;s a very simple app.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Shaul		</title>
+		<link>/old-blog/1770/comment-page-1#comment-154063</link>
+
+		<dc:creator><![CDATA[Shaul]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 09:18:31 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1770#comment-154063</guid>
+
+					<description><![CDATA[I think you should open a twitter account, follow some Android fanatics and push your app through twitter, it&#039;s the best way to virally promote this app.]]></description>
+			<content:encoded><![CDATA[<p>I think you should open a twitter account, follow some Android fanatics and push your app through twitter, it&#8217;s the best way to virally promote this app.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alik		</title>
+		<link>/old-blog/1770/comment-page-1#comment-154062</link>
+
+		<dc:creator><![CDATA[Alik]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 08:49:46 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1770#comment-154062</guid>
+
+					<description><![CDATA[Regarding the too few paid locations.
+What about releasing part of the app as a free one and sell the complete one - just like one of the open source pricing models.
+
+This will help you get to all the available countries. The begining is the tough one and you need a crowd.
+Also, it will perhaps give you a good reputation for good products and the next one will be much easier to sell (I know - better sell the first one, so it&#039;s just an idea).
+
+Example:
+Only paid customers will be able to configure the returned SMS message.]]></description>
+			<content:encoded><![CDATA[<p>Regarding the too few paid locations.<br />
+What about releasing part of the app as a free one and sell the complete one &#8211; just like one of the open source pricing models.</p>
+<p>This will help you get to all the available countries. The begining is the tough one and you need a crowd.<br />
+Also, it will perhaps give you a good reputation for good products and the next one will be much easier to sell (I know &#8211; better sell the first one, so it&#8217;s just an idea).</p>
+<p>Example:<br />
+Only paid customers will be able to configure the returned SMS message.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alik		</title>
+		<link>/old-blog/1770/comment-page-1#comment-154061</link>
+
+		<dc:creator><![CDATA[Alik]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 08:37:34 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1770#comment-154061</guid>
+
+					<description><![CDATA[Balmer is such a caricature. How did he became a CEO?
+
+Anyway, I talked to a friend and he said that the Android market place is more degenerated than the iphone app store.
+He says that it is very hard to push a product through Android&#039;s market place.
+iphone app store has a sophisticated pushing mechanism based on rating and response.
+
+Another friend said that the idea is a bit problematic.
+He said that Nokia already has a feature that upon an incoming call, if you decide not to answer, nokia creates a template SMS for to be sent to the calling number.
+The process is manual where as Dindy&#039;s is automatic, but they address the same prblem.
+
+What about specific numbers that you never want to miss, like the wife (driving on a highway and wants directions:) or Mom?
+If you need to configure specific numbers to bypass Dindy&#039;s mechanism, than the solution becomes much more complicated, where as users love simplicity.
+
+This takes me to personal characteristics.
+Dindy is great for me. If i&#039;m in a meeting and the phone vibrates, my ears automatically gets shut from the meeting and I sometimes miss little though important pieces from the meeting. I don&#039;t won&#039;t any interruptions - unless urgent.
+Itai, on the other hand, can do tons of things simultaneously, so perhaps he prefers to always see the incoming calls, silence them, write a response to the wife and still not miss a single word from the meeting.
+
+How many people are there out there that are more like me?
+
+Perhaps I&#039;m missing something...
+
+Amit, hope that doesn&#039;t take the wind out of your sales - I sure could use Dindy.]]></description>
+			<content:encoded><![CDATA[<p>Balmer is such a caricature. How did he became a CEO?</p>
+<p>Anyway, I talked to a friend and he said that the Android market place is more degenerated than the iphone app store.<br />
+He says that it is very hard to push a product through Android&#8217;s market place.<br />
+iphone app store has a sophisticated pushing mechanism based on rating and response.</p>
+<p>Another friend said that the idea is a bit problematic.<br />
+He said that Nokia already has a feature that upon an incoming call, if you decide not to answer, nokia creates a template SMS for to be sent to the calling number.<br />
+The process is manual where as Dindy&#8217;s is automatic, but they address the same prblem.</p>
+<p>What about specific numbers that you never want to miss, like the wife (driving on a highway and wants directions:) or Mom?<br />
+If you need to configure specific numbers to bypass Dindy&#8217;s mechanism, than the solution becomes much more complicated, where as users love simplicity.</p>
+<p>This takes me to personal characteristics.<br />
+Dindy is great for me. If i&#8217;m in a meeting and the phone vibrates, my ears automatically gets shut from the meeting and I sometimes miss little though important pieces from the meeting. I don&#8217;t won&#8217;t any interruptions &#8211; unless urgent.<br />
+Itai, on the other hand, can do tons of things simultaneously, so perhaps he prefers to always see the incoming calls, silence them, write a response to the wife and still not miss a single word from the meeting.</p>
+<p>How many people are there out there that are more like me?</p>
+<p>Perhaps I&#8217;m missing something&#8230;</p>
+<p>Amit, hope that doesn&#8217;t take the wind out of your sales &#8211; I sure could use Dindy.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

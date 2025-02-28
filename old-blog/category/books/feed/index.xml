@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Books &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/category/books/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sat, 19 Aug 2006 15:07:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Book Recommendation: Freakonomics</title>
+		<link>/old-blog/334</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 19 Aug 2006 15:07:35 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<guid isPermaLink="false">/old-blog/?p=334</guid>
+
+					<description><![CDATA[I&#8217;m nearing the end of a book I got not too long ago, called Freakonomics. The book&#8217;s writers present data related to real-life issues and examine it objectively in a way that puts the reader&#8217;s intuition to the test (proving common beliefs and exprets&#8217; opinions wrong). The book is an extremely interesting and a fascinating &#8230; <p class="link-more"><a href="/old-blog/334" class="more-link">Continue reading<span class="screen-reader-text"> "Book Recommendation: Freakonomics"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m nearing the end of a book I got not too long ago, called <a href="http://www.freakonomics.com/">Freakonomics</a>. The book&#8217;s writers present data related to real-life issues and examine it objectively in a way that puts the reader&#8217;s intuition to the test (proving common beliefs and exprets&#8217; opinions wrong). The book is an extremely interesting and a fascinating read.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

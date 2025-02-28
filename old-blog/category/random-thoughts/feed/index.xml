@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Random Thoughts &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/category/random-thoughts/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 09:32:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>First Upgrade For My Computer After Nearly 4 Years</title>
+		<link>/old-blog/2590</link>
+					<comments>/old-blog/2590#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2011 14:08:22 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2590</guid>
+
+					<description><![CDATA[After nearly 4 years since I bought my desktop computer and after complaining about constant thrashing I finally decided it&#8217;s time to give it a little upgrade. It now sports 8GB of memory instead of just 2, and the improvement is noticeable. The big culprits for the thrashing turned out to be Eclipse and Unity. &#8230; <p class="link-more"><a href="/old-blog/2590" class="more-link">Continue reading<span class="screen-reader-text"> "First Upgrade For My Computer After Nearly 4 Years"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>After nearly <a title="I Bought A New Computer And I'm Switching To Linux" href="/old-blog/634">4 years since I bought my desktop computer</a> and after <a title="Goodbye Unity, Welcome Back Gnome (Classic)" href="/old-blog/2538">complaining about constant thrashing</a> I finally decided it&#8217;s time to give it a little upgrade. It now sports 8GB of memory instead of just 2, and the improvement is noticeable.</p>
+<p>The big culprits for the thrashing turned out to be Eclipse and Unity. We have pretty large projects by now, and having the main ones open together requires no less than 2GB of virtual memory and nearly 1GB of actual memory. That&#8217;s a lot, and it doesn&#8217;t include at least one running Android emulator! Unity added quite a bit to that (I don&#8217;t remember the number) but switching to Gnome helped.</p>
+<p>I&#8217;m still happy with this Core Duo, now very old, computer. It does its job well and I expect it to last a year or two more.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2590/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google+ Following Violates Privacy (In Its Current State)</title>
+		<link>/old-blog/2559</link>
+					<comments>/old-blog/2559#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2011 12:08:42 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2559</guid>
+
+					<description><![CDATA[I&#8217;ve been using Google+ for a couple of days and have been very happy with it. It&#8217;s really a great social network, but I&#8217;ll refrain from rehashing the same things everyone has been saying. You can Google it yourself. One of the things Google+ has been slated to be is a Twitter replacement, in which &#8230; <p class="link-more"><a href="/old-blog/2559" class="more-link">Continue reading<span class="screen-reader-text"> "Google+ Following Violates Privacy (In Its Current State)"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve been using Google+ for a couple of days and have been very happy with it. It&#8217;s really a great social network, but I&#8217;ll refrain from rehashing the same things everyone has been saying. You can Google it yourself.</p>
+<p>One of the things Google+ has been slated to be is a Twitter replacement, in which you can follow others without them following you by adding them to a circle.</p>
+<p>However, if you previously shared something with all your circles (or intend to do so in the future) now the people you&#8217;re following can see these things too, something you may have not intended to happen. After all, they&#8217;re not your friends. Not even acquaintances.</p>
+<p>For me this is a flaw in the current circles implementation. At the least I would like to be able to share things with all my circles except for some of them (e.g. &#8220;my circles minus the Follow circle&#8221;.) However, this does not fix things for historical posts, which I already shared with all my circles as you can&#8217;t change the sharing settings of a post after it&#8217;s been posted. With the current implementation I&#8217;m left with the only option of specifying each and every circle I intend to share with for every post, and if in the future I&#8217;ll have new circles &#8211; they won&#8217;t be able to see these posts.</p>
+<p>Another way to fix this is to allow defining &#8220;following circles&#8221;, so that stuff you share with your circles (or even your extended circles), still won&#8217;t be shared with them.</p>
+<p>Maybe I&#8217;m wrong. Let me know if I jumped the gun here.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2559/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trying Google&#8217;s Voice Search</title>
+		<link>/old-blog/2548</link>
+					<comments>/old-blog/2548#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Fri, 01 Jul 2011 09:58:38 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2548</guid>
+
+					<description><![CDATA[Here&#8217;s what I got trying to say &#8220;Amit Schreiber&#8221; into Google&#8217;s Voice Search using my netbook and Google Chrome: sperm tribe sure I burn ami schreiber what the f*** chile I&#8217;m yours driver tommy shaw rugs how many shriver short send me to a boot striper Oh, well&#8230; I guess it goes through a relevance &#8230; <p class="link-more"><a href="/old-blog/2548" class="more-link">Continue reading<span class="screen-reader-text"> "Trying Google&#8217;s Voice Search"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Here&#8217;s what I got trying to say &#8220;Amit Schreiber&#8221; into Google&#8217;s Voice Search using my netbook and Google Chrome:</p>
+<ol>
+<li>sperm tribe</li>
+<li>sure I burn</li>
+<li>ami schreiber what the f***</li>
+<li>chile</li>
+<li>I&#8217;m yours driver</li>
+<li>tommy shaw rugs</li>
+<li>how many shriver</li>
+<li>short</li>
+<li>send me to a boot</li>
+<li>striper</li>
+</ol>
+<p>Oh, well&#8230; I guess it goes through a relevance engine and I&#8217;m just not that famous enough. Yet! :)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2548/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Forgotten Experiences</title>
+		<link>/old-blog/2545</link>
+					<comments>/old-blog/2545#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Fri, 27 May 2011 06:14:20 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2545</guid>
+
+					<description><![CDATA[Yesterday I called a friend of mine who is visiting from the US and is staying at her parents&#8217; place. My mind struggled for 2 seconds before I remembered how to say &#8220;may I speak with&#8230;&#8221; It&#8217;s been years since I&#8217;ve uttered this request. And today my father called to tell me about an interesting &#8230; <p class="link-more"><a href="/old-blog/2545" class="more-link">Continue reading<span class="screen-reader-text"> "Forgotten Experiences"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Yesterday I called a friend of mine who is visiting from the US and is staying at her parents&#8217; place. My mind struggled for 2 seconds before I remembered how to say &#8220;may I speak with&#8230;&#8221; It&#8217;s been years since I&#8217;ve uttered this request.</p>
+<p>And today my father called to tell me about an interesting article he saw and thought I would like to read. I immediately said &#8220;email me the link&#8221; and he replied &#8220;I&#8217;m reading it on the hard copy.&#8221; Again&#8230; took me a few seconds to realize what he was referring to.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2545/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google Probably Knows Everything About Me&#8230;</title>
+		<link>/old-blog/2541</link>
+					<comments>/old-blog/2541#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 25 May 2011 04:30:51 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2541</guid>
+
+					<description><![CDATA[&#8230; but then why do I get Venus women&#8217;s razor ads on YouTube? Maybe it&#8217;s a &#8220;knowing the future&#8221; kind of thing. EDIT: OK, this is not funny. Now I got an Always pads ad. What the hell, Google?]]></description>
+										<content:encoded><![CDATA[<p>&#8230; but then why do I get Venus women&#8217;s razor ads on YouTube?</p>
+<p>Maybe it&#8217;s a &#8220;knowing the future&#8221; kind of thing.</p>
+<p>EDIT: OK, this is not funny. Now I got an Always pads ad. What the hell, Google?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2541/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goodbye Unity, Welcome Back Gnome (Classic)</title>
+		<link>/old-blog/2538</link>
+					<comments>/old-blog/2538#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sun, 22 May 2011 05:20:16 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2538</guid>
+
+					<description><![CDATA[I gave Unity a good chance, but it was simply torture. Maybe it&#8217;s the over 3 years old hardware I&#8217;m running Ubuntu on, or maybe it&#8217;s the servers I&#8217;m running on my machine for the project I&#8217;m working on, but the hard drive kept thrashing to a point where it was unbearable. Sometimes just clicking &#8230; <p class="link-more"><a href="/old-blog/2538" class="more-link">Continue reading<span class="screen-reader-text"> "Goodbye Unity, Welcome Back Gnome (Classic)"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I gave Unity a good chance, but it was simply torture. Maybe it&#8217;s the <a href="/old-blog/634">over 3 years old hardware I&#8217;m running Ubuntu on</a>, or maybe it&#8217;s the servers I&#8217;m running on my machine for the project I&#8217;m working on, but the hard drive kept <a href="http://en.wikipedia.org/wiki/Thrashing_(computer_science)">thrashing</a> to a point where it was unbearable. Sometimes just clicking a top menu or switching to a different window would take over a minute while the hard drive was grinding as if it was being benchmarked.</p>
+<p>So I decided to go back to Gnome classic. The computer is way more responsive now and works considerably faster. My guess is that either Unity&#8217;s memory requirements are so high that I ran out (of 2 GB) and the memory had to be constantly swapped or it&#8217;s my relatively old 3D accelerated nVidia video card or Unity is doing too much disk access. Whatever it is, Unity does not work well on my machine.</p>
+<p>I&#8217;m not so happy about reverting back to Gnome because I don&#8217;t like to be the kind of person who doesn&#8217;t accept change. But for the sake of productivity &#8211; I have to forget about Unity for now.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2538/feed</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ubuntu 11.04 Launcher Doesn&#8217;t Auto Hide</title>
+		<link>/old-blog/2533</link>
+					<comments>/old-blog/2533#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 04 May 2011 11:04:04 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2533</guid>
+
+					<description><![CDATA[If you installed Ubuntu 11.04 and after a while the launcher stops auto hiding as it should, it may be because you did some dragging and dropping in an application. For example, if you use Konsole (like I do) and you drag one of Konsole&#8217;s tabs to reorganize their order, the launcher will suddenly pop &#8230; <p class="link-more"><a href="/old-blog/2533" class="more-link">Continue reading<span class="screen-reader-text"> "Ubuntu 11.04 Launcher Doesn&#8217;t Auto Hide"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>If you installed Ubuntu 11.04 and after a while the launcher stops auto hiding as it should, it may be because you did some dragging and dropping in an application. For example, if you use Konsole (like I do) and you drag one of Konsole&#8217;s tabs to reorganize their order, the launcher will suddenly pop up and will not hide itself automatically.</p>
+<p>The easiest workaround I found is: right click the tab in Konsole and choose &#8220;Detach tab&#8221;, then drag the tab in the newly detached window back to where you intended to put the tab in the original window. When you&#8217;re done &#8211; the launcher will hide itself.</p>
+<p>Excluding (some really annoying) bugs, is anyone else having difficulties with the new Unity interface? Or am I just too old for these kind of conceptual changes?</p>
+<p>EDIT: This is a <a href="https://bugs.launchpad.net/ubuntu/+source/unity/+bug/769703?comments=all">known and confirmed bug in Unity</a>. I dutifully added my two cents.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2533/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Programmers Who Care About The Environment&#8230;</title>
+		<link>/old-blog/2529</link>
+					<comments>/old-blog/2529#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2011 11:12:13 +0000</pubDate>
+				<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2529</guid>
+
+					<description><![CDATA[&#8230; don&#8217;t use interpreted languages. You know&#8230; because of the extra CPU cycles. I had to get it out. Sorry.]]></description>
+										<content:encoded><![CDATA[<p>&#8230; don&#8217;t use <a href="http://en.wikipedia.org/wiki/Interpreted_language">interpreted languages</a>.</p>
+<p>You know&#8230; because of the extra CPU cycles.</p>
+<p>I had to get it out.</p>
+<p>Sorry.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2529/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>When Text-To-Speech-To-Text Is Perfected</title>
+		<link>/old-blog/2511</link>
+					<comments>/old-blog/2511#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 09 Feb 2011 19:27:45 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2511</guid>
+
+					<description><![CDATA[What&#8217;s going to happen when text-to-speech-to-text is perfected? Phones can already read text messages well enough and soon you&#8217;ll be able to input text messages to your phone just by talking to it. Then, instead of texting, you&#8217;ll be: Talking to your phone (entering a message.) Waiting for a reply, entered by your friend by &#8230; <p class="link-more"><a href="/old-blog/2511" class="more-link">Continue reading<span class="screen-reader-text"> "When Text-To-Speech-To-Text Is Perfected"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>What&#8217;s going to happen when text-to-speech-to-text is perfected? Phones can already read text messages well enough and soon you&#8217;ll be able to input text messages to your phone just by talking to it.</p>
+<p>Then, instead of texting, you&#8217;ll be:</p>
+<ol>
+<li>Talking to your phone (entering a message.)</li>
+<li>Waiting for a reply, entered by your friend by talking to his/her phone.</li>
+<li>Having the reply read to you by a text-to-speech engine.</li>
+</ol>
+<p>Essentially, you&#8217;ll be having a <a href="http://en.wikipedia.org/wiki/Push_to_talk">push-to-talk (PTT)</a> conversation with the robotic voice of your phone. All to avoid a simple call.</p>
+<p>Just a thought.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2511/feed</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Taking Back Our Privacy: Someone Is (Sort Of) Going For It</title>
+		<link>/old-blog/2465</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Mon, 17 Jan 2011 14:51:25 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Random Thoughts]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2465</guid>
+
+					<description><![CDATA[Not too long ago I wrote in a post (How can we take back our privacy?) about the option of expiring our online data, and now some Germans decided to provide software called &#8220;X-pire!&#8221;, which expires images after a period of time. Still not solving the problem of saving the image and re-posting it, but &#8230; <p class="link-more"><a href="/old-blog/2465" class="more-link">Continue reading<span class="screen-reader-text"> "Taking Back Our Privacy: Someone Is (Sort Of) Going For It"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Not too long ago I wrote in a post (<a href="/old-blog/2434">How can we take back our privacy?</a>) about the option of expiring our online data, and now some Germans decided to provide software called &#8220;X-pire!&#8221;, which <a href="http://www.engadget.com/2011/01/16/x-pire-software-will-add-digital-expiration-dates-to-your-photo/?c">expires images after a period of time</a>. Still not solving the problem of saving the image and re-posting it, but &#8220;a journey of a thousand miles&#8221; and so on and so forth :)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

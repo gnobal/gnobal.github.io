@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Hamachi	</title>
+	<atom:link href="/old-blog/204/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/204</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 30 Jan 2006 16:24:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: arielcohen		</title>
+		<link>/old-blog/204/comment-page-1#comment-122</link>
+
+		<dc:creator><![CDATA[arielcohen]]></dc:creator>
+		<pubDate>Mon, 30 Jan 2006 16:24:06 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=204#comment-122</guid>
+
+					<description><![CDATA[This is the only Hamachi I know....
+
+http://nederland.lunchdinner.com/menu1/vermelding/images/shushi/sushi_9.gif]]></description>
+			<content:encoded><![CDATA[<p>This is the only Hamachi I know&#8230;.</p>
+<p><a href="http://nederland.lunchdinner.com/menu1/vermelding/images/shushi/sushi_9.gif" rel="nofollow ugc">http://nederland.lunchdinner.com/menu1/vermelding/images/shushi/sushi_9.gif</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

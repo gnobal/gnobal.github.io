@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Me 1	</title>
+	<atom:link href="/old-blog/3/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/3</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sun, 11 Sep 2005 12:44:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: arielcohen		</title>
+		<link>/old-blog/3/comment-page-1#comment-3</link>
+
+		<dc:creator><![CDATA[arielcohen]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2005 12:44:28 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3#comment-3</guid>
+
+					<description><![CDATA[Hi there...
+It took me some time to figure out that &#039;send to email&#039; is not my password, but it is not my fault that it was never sent to me. So now that I can comment I can tell you how pissed I am that there is not link to my site (http://homepages.nyu.edu/~ac1058/) under Friends and Family (btw, nice site Revital). 
+Anyway congradulations! It&#039;s a cool site and it&#039;s great that you have something to do with &#039;gnobal&#039; - I just hope you are not going to write too much about programming, since besides providing us with a profession, it sucks! 
+OK I&#039;ll see you in two seconds on the MSN...]]></description>
+			<content:encoded><![CDATA[<p>Hi there&#8230;<br />
+It took me some time to figure out that &#8216;send to email&#8217; is not my password, but it is not my fault that it was never sent to me. So now that I can comment I can tell you how pissed I am that there is not link to my site (<a href="http://homepages.nyu.edu/~ac1058/" rel="nofollow ugc">http://homepages.nyu.edu/~ac1058/</a>) under Friends and Family (btw, nice site Revital).<br />
+Anyway congradulations! It&#8217;s a cool site and it&#8217;s great that you have something to do with &#8216;gnobal&#8217; &#8211; I just hope you are not going to write too much about programming, since besides providing us with a profession, it sucks!<br />
+OK I&#8217;ll see you in two seconds on the MSN&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: joe shmoe		</title>
+		<link>/old-blog/3/comment-page-1#comment-2</link>
+
+		<dc:creator><![CDATA[joe shmoe]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2005 15:52:50 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3#comment-2</guid>
+
+					<description><![CDATA[amit this is very nice - i know your very talented but i didnt know you are playing drums.hope to read more what you are doing without the word motorola becouse its a secret...
+bye for now from your mad hatter,joe shmoe!!]]></description>
+			<content:encoded><![CDATA[<p>amit this is very nice &#8211; i know your very talented but i didnt know you are playing drums.hope to read more what you are doing without the word motorola becouse its a secret&#8230;<br />
+bye for now from your mad hatter,joe shmoe!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: xtreeq		</title>
+		<link>/old-blog/3/comment-page-1#comment-1</link>
+
+		<dc:creator><![CDATA[xtreeq]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2005 10:46:48 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3#comment-1</guid>
+
+					<description><![CDATA[Nice to meet you Amit, I read your stuff and hope you continue to write. You should read &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;, I&#039;m shure you&#039;ll love it.
+Bye for now.
+Shaul.]]></description>
+			<content:encoded><![CDATA[<p>Nice to meet you Amit, I read your stuff and hope you continue to write. You should read &#8220;The Hitchhiker&#8217;s Guide to the Galaxy&#8221;, I&#8217;m shure you&#8217;ll love it.<br />
+Bye for now.<br />
+Shaul.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

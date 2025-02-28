@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Linux Crashes Top 10	</title>
+	<atom:link href="/old-blog/398/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/398</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 18 Mar 2019 14:10:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: sveta the great		</title>
+		<link>/old-blog/398/comment-page-1#comment-793</link>
+
+		<dc:creator><![CDATA[sveta the great]]></dc:creator>
+		<pubDate>Tue, 17 Oct 2006 12:47:28 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=398#comment-793</guid>
+
+					<description><![CDATA[p.s.
+
+Linux does not crash - it just panics]]></description>
+			<content:encoded><![CDATA[<p>p.s.</p>
+<p>Linux does not crash &#8211; it just panics</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/398/comment-page-1#comment-787</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2006 13:55:02 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=398#comment-787</guid>
+
+					<description><![CDATA[Cool! Thanks.]]></description>
+			<content:encoded><![CDATA[<p>Cool! Thanks.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: sveta the great		</title>
+		<link>/old-blog/398/comment-page-1#comment-785</link>
+
+		<dc:creator><![CDATA[sveta the great]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2006 11:31:41 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=398#comment-785</guid>
+
+					<description><![CDATA[check out this list of linux devices:
+
+http://linuxdevices.com/articles/AT4936596231.html]]></description>
+			<content:encoded><![CDATA[<p>check out this list of linux devices:</p>
+<p><a href="http://linuxdevices.com/articles/AT4936596231.html" rel="nofollow ugc">http://linuxdevices.com/articles/AT4936596231.html</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

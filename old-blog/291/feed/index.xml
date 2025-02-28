@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Future of This Blog	</title>
+	<atom:link href="/old-blog/291/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/291</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sun, 23 Nov 2008 12:28:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/291/comment-page-1#comment-175</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sun, 14 May 2006 12:46:49 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=291#comment-175</guid>
+
+					<description><![CDATA[I did a lot on the first year.
+The second year was indeed mostly surfing ;)
+(any future employers of mine should disregard this message)]]></description>
+			<content:encoded><![CDATA[<p>I did a lot on the first year.<br />
+The second year was indeed mostly surfing ;)<br />
+(any future employers of mine should disregard this message)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: sveta the great		</title>
+		<link>/old-blog/291/comment-page-1#comment-174</link>
+
+		<dc:creator><![CDATA[sveta the great]]></dc:creator>
+		<pubDate>Sun, 14 May 2006 05:56:16 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=291#comment-174</guid>
+
+					<description><![CDATA[Kredi told me he was upset when he read this post. 
+&quot;This means the guy did nothing but surfing the &#039;net instead of working...&quot;]]></description>
+			<content:encoded><![CDATA[<p>Kredi told me he was upset when he read this post.<br />
+&#8220;This means the guy did nothing but surfing the &#8216;net instead of working&#8230;&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

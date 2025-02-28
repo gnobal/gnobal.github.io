@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Trip &#8211; Day 37 &#8211; Hong Kong	</title>
+	<atom:link href="/old-blog/1049/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/1049</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Wed, 04 Mar 2009 20:14:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/1049/comment-page-1#comment-151272</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2009 23:44:53 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1049#comment-151272</guid>
+
+					<description><![CDATA[Me too :) Thanks]]></description>
+			<content:encoded><![CDATA[<p>Me too :) Thanks</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: 725176		</title>
+		<link>/old-blog/1049/comment-page-1#comment-151241</link>
+
+		<dc:creator><![CDATA[725176]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2009 19:08:35 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=1049#comment-151241</guid>
+
+					<description><![CDATA[I love the birds!!!]]></description>
+			<content:encoded><![CDATA[<p>I love the birds!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

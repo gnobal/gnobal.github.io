@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Enabling Shared Folders In VMWare Player Manually	</title>
+	<atom:link href="/old-blog/646/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/646</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 18 Mar 2019 14:01:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/646/comment-page-1#comment-158594</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 19 Jul 2010 18:22:31 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=646#comment-158594</guid>
+
+					<description><![CDATA[Hi yafu.... sorry, but this is out of my league :) I have Linux as a host and Windows as a guest. I did learn that things got simpler with newer version of VMWare player, so I suggest you try that.
+
+Sorry I can&#039;t help more.]]></description>
+			<content:encoded><![CDATA[<p>Hi yafu&#8230;. sorry, but this is out of my league :) I have Linux as a host and Windows as a guest. I did learn that things got simpler with newer version of VMWare player, so I suggest you try that.</p>
+<p>Sorry I can&#8217;t help more.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: yafu		</title>
+		<link>/old-blog/646/comment-page-1#comment-158554</link>
+
+		<dc:creator><![CDATA[yafu]]></dc:creator>
+		<pubDate>Sun, 18 Jul 2010 21:26:39 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=646#comment-158554</guid>
+
+					<description><![CDATA[It is very useful info.  My question is how to access the shared folder from Guest(Ubuntu).  I tried /mnt/hgfs and could not find my shared folder.  Thanks in advance.]]></description>
+			<content:encoded><![CDATA[<p>It is very useful info.  My question is how to access the shared folder from Guest(Ubuntu).  I tried /mnt/hgfs and could not find my shared folder.  Thanks in advance.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/646/comment-page-1#comment-124294</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sat, 12 Apr 2008 07:19:26 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=646#comment-124294</guid>
+
+					<description><![CDATA[My pleasure :)]]></description>
+			<content:encoded><![CDATA[<p>My pleasure :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: chrisman		</title>
+		<link>/old-blog/646/comment-page-1#comment-124048</link>
+
+		<dc:creator><![CDATA[chrisman]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2008 20:41:47 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=646#comment-124048</guid>
+
+					<description><![CDATA[Just like to say a massive thank you.
+
+I was struggling to get shared folders working, but this coupled with the link to getting VMWare tools installed saved the day!
+
+Many many thanks]]></description>
+			<content:encoded><![CDATA[<p>Just like to say a massive thank you.</p>
+<p>I was struggling to get shared folders working, but this coupled with the link to getting VMWare tools installed saved the day!</p>
+<p>Many many thanks</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

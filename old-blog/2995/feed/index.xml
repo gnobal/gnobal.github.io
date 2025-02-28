@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Happy Birthday To Me. I&#8217;m 36	</title>
+	<atom:link href="/old-blog/2995/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/2995</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 09:26:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit Schreiber		</title>
+		<link>/old-blog/2995/comment-page-1#comment-188126</link>
+
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2013 07:54:23 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2995#comment-188126</guid>
+
+					<description><![CDATA[Thanks a lot, for everything :)]]></description>
+			<content:encoded><![CDATA[<p>Thanks a lot, for everything :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Rom		</title>
+		<link>/old-blog/2995/comment-page-1#comment-188125</link>
+
+		<dc:creator><![CDATA[Rom]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2013 07:49:11 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2995#comment-188125</guid>
+
+					<description><![CDATA[Happy BD man, Good luck with everything!]]></description>
+			<content:encoded><![CDATA[<p>Happy BD man, Good luck with everything!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

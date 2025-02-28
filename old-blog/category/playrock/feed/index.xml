@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Playrock &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/category/playrock/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Tue, 12 Mar 2019 09:28:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Happy Birthday To Me. I&#8217;m 37</title>
+		<link>/old-blog/3086</link>
+					<comments>/old-blog/3086#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2014 05:31:09 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Unvelope]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3086</guid>
+
+					<description><![CDATA[This birthday comes when I&#8217;m relatively happy, but it follows a few not-so-great months. The past year had its ups and downs. We closed Playrock. Following that I started looking for a job outside of Israel, but instead opted to take a job at an Isareli startup. That may have been my biggest mistake of &#8230; <p class="link-more"><a href="/old-blog/3086" class="more-link">Continue reading<span class="screen-reader-text"> "Happy Birthday To Me. I&#8217;m 37"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>This birthday comes when I&#8217;m relatively happy, but it follows a few not-so-great months. The past year had its ups and downs.</p>
+<p>We <a title="Playrock Is No More" href="/old-blog/3015">closed Playrock</a>. Following that I started looking for a job outside of Israel, but instead opted to take a job at an Isareli startup. That may have been my biggest mistake of the year. My experience in that company wasn&#8217;t good and I switched jobs again. I&#8217;m sorry that I didn&#8217;t follow through with moving abroad, mainly because it would have saved me a lot of grief, both professional and personal. I take comfort in the fact that I&#8217;m enjoying my current place of work (<a title="Stratoscale" href="http://www.stratoscale.com/">Stratoscale</a>) a lot.</p>
+<p>Other than that, I became involved in a side project, <a title="אנ-וולופ - משתלם בשמחות" href="/old-blog/3061">Unvelope</a> (Hebrew link), which I hope will do well.</p>
+<p>I also had a short relationship that didn&#8217;t turn out well at all.</p>
+<p>I saw The Prodigy twice &#8211; in <a title="My 14th Prodigy Show - Kiev, Ukraine" href="/old-blog/3032">June</a> and very recently <a title="My 15th Prodigy Show - New Year's Eve, O2 Arena, London" href="/old-blog/3078">on New Year&#8217;s eve</a>. That&#8217;s always a good thing :)</p>
+<p>I&#8217;m still running (outside) twice a week. I feel healthy and in that sense things are fine.</p>
+<p>To sum up, quite a lot happened this year. I hope I&#8217;ll be mostly happy this year and maybe to accomplish something meaningful.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/3086/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Playrock Is No More</title>
+		<link>/old-blog/3015</link>
+					<comments>/old-blog/3015#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 04 May 2013 17:20:48 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=3015</guid>
+
+					<description><![CDATA[My two partners and I decided to close down Blenure, the company we set up to create Playrock, our mobile, social and local gaming network and infrastructure. Our failure to execute taught me a lot, so while it&#8217;s a shame it didn&#8217;t work out for us, I&#8217;m happy that we gave it a shot, and &#8230; <p class="link-more"><a href="/old-blog/3015" class="more-link">Continue reading<span class="screen-reader-text"> "Playrock Is No More"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>My two partners and I decided to close down Blenure, the company we set up to create Playrock, our mobile, social and local gaming network and infrastructure. Our failure to execute taught me a lot, so while it&#8217;s a shame it didn&#8217;t work out for us, I&#8217;m happy that we gave it a shot, and I enjoyed working with quite a lot of people like contractors and developers that saw the potential in our idea and invested time in integrating Playrock&#8217;s SDK into their games.</p>
+<p>We all still think it&#8217;s a good idea. Seems like some other people think so too, as <a href="Our failure to execute taught me a lot, so while it's a shame it didn't work, I'm happy that we gave it a shot." title="Google Games, Anyone? Play Services Is Getting Real-Time And Turn-Based Multiplayer, Invitations, In-Game Chat, Lobbies, Leaderboards, And Achievements!">Google is rumored to start its own Playrock clone</a> :)</p>
+<p>In the meantime I found a new job here in Israel, for a promising startup that I can&#8217;t say much about. The people there are great and the work is challenging and therefore a lot of fun.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/3015/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Happy Birthday To Me. I&#8217;m 36</title>
+		<link>/old-blog/2995</link>
+					<comments>/old-blog/2995#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2013 07:01:52 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Fitness]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2995</guid>
+
+					<description><![CDATA[When I look at last year&#8217;s birthday post I realize how quickly time has passed. It&#8217;s like I wrote it yesterday. Compared to last year, 36 doesn&#8217;t come with thoughts about choices, but with a look to the future. It&#8217;s been two years now working on Playrock. We released as beta without advertising and are &#8230; <p class="link-more"><a href="/old-blog/2995" class="more-link">Continue reading<span class="screen-reader-text"> "Happy Birthday To Me. I&#8217;m 36"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>When I look at <a title="Happy Birthday To Me. I'm 35" href="/old-blog/2641">last year&#8217;s birthday post</a> I realize how quickly time has passed. It&#8217;s like I wrote it yesterday. Compared to last year, 36 doesn&#8217;t come with thoughts about choices, but with a look to the future.</p>
+<p>It&#8217;s been two years now working on <a title="Playrock" href="/old-blog/category/playrock">Playrock</a>. We released as beta without advertising and are improving it all the time to make it better and more appealing to our users. I think Playrock is a great idea and we get very good responses from people that hear about it.</p>
+<p>However, if Playrock doesn&#8217;t do well enough, I will be forced to look for a job. It&#8217;s not optimal, but not bad either &#8211; it will be a good time for me to explore overseas job opportunities, as I previously wanted to but never had the chance.</p>
+<p>I traveled to see <a title="My 13th Prodigy Show - Warriors Dance Festival, Belgrade, Serbia" href="/old-blog/2885">The Prodigy for the 13th time in September</a> and had an amazing time thanks to some new friends in Belgrade, Serbia.</p>
+<p>As for side projects: I haven&#8217;t had much time to work on those. My ideas list is growing and I might start working on one of them soon. As always, it will probably be a niche project that won&#8217;t appeal to many people, but it&#8217;ll be fun to code. I didn&#8217;t manage to find a designer for the website I built for my <a title="Idea: Online Will" href="/old-blog/1379">online will idea</a> that I already implemented, which is a shame because I was hoping to progress with that.</p>
+<p>My workouts are <a title="8 Years Of Working Out" href="/old-blog/2924">still the same</a> and I&#8217;m relatively happy with my fitness and health.</p>
+<p>So for the upcoming year I hope that either Playrock will be successful or for a different kind of adventure outside of Israel. Other than that&#8230; life is pretty good as is :)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2995/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Playrock Movie</title>
+		<link>/old-blog/2981</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 11 Dec 2012 16:00:15 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2981</guid>
+
+					<description><![CDATA[We created another movie for Playrock. This one is aimed more at investors and developers, not users, to better understand what we do.]]></description>
+										<content:encoded><![CDATA[<p>We created another movie for Playrock. This one is aimed more at investors and developers, not users, to better understand what we do.</p>
+<p><iframe title="Playrock Movie" width="525" height="295" src="https://www.youtube.com/embed/vZxtwHV-sgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>We Released Playrock</title>
+		<link>/old-blog/2901</link>
+					<comments>/old-blog/2901#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Mon, 01 Oct 2012 10:57:08 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2901</guid>
+
+					<description><![CDATA[To those of you who have been wondering what I&#8217;ve been doing over the past 18 months, I finally have something to show for all this time. We released Playrock, which is &#8220;a social gaming network where you can play with people who are next to you. Players can instantly create their own virtual spaces, &#8230; <p class="link-more"><a href="/old-blog/2901" class="more-link">Continue reading<span class="screen-reader-text"> "We Released Playrock"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignleft  wp-image-2902" title="Playrock" src="https://www.dropbox.com/s/j6k3bwc20znbj8h/app_icon_512.png?raw=1" alt="Playrock icon" width="180" height="180" srcset="/old-blog/wp-content/uploads/app_icon_512.png 512w, /old-blog/wp-content/uploads/app_icon_512-150x150.png 150w, /old-blog/wp-content/uploads/app_icon_512-300x300.png 300w" sizes="(max-width: 180px) 100vw, 180px" /> To those of you who have been wondering what I&#8217;ve been doing over the past 18 months, I finally have something to show for all this time. We released <a title="Playrock" href="http://playrock.me/">Playrock</a>, which is &#8220;a social gaming network where you can play with people who are next to you. Players can instantly create their own virtual spaces, select games that they like to their spaces, and start playing and sharing with other people.&#8221;</p>
+<p>If you have an Android phone and consider yourself a friend of mine :), please take the time to download Playrock from the Google Play Store by clicking this image below:</p>
+<div>
+<p style="text-align: center;"><a href="http://play.google.com/store/apps/details?id=com.blenture.playrock"><img decoding="async" src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" alt="Android app on Google Play" /><br />
+</a></p>
+</div>
+<p>Since this is a social app, contact me by email and I&#8217;ll add you to one of my &#8220;virtual spaces&#8221; so I can show you what it does. There is a small learning curve needed to use the app, but I believe it will be worth it. Also, any feedback would be appreciated. Write me to <a title="Email me" href="mailto:amit@blenture.com">amit@blenture.com</a> (or any address you have of mine) with your thoughts.</p>
+<p><iframe title="Playrock" width="525" height="295" src="https://www.youtube.com/embed/AHaIT0VXM6E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2901/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Happy Birthday To Me. I&#8217;m 35</title>
+		<link>/old-blog/2641</link>
+					<comments>/old-blog/2641#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Mon, 23 Jan 2012 05:48:47 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Fitness]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Personal]]></category>
+		<category><![CDATA[Playrock]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=2641</guid>
+
+					<description><![CDATA[Wow. 35. This age comes with some serious what-am-I-doing-with-my-life kind of thoughts. Being unemployed, single and living with a cat at that age is hardly normative (at least in Israel) and despite being very content with the current situation it&#8217;s hard not to ponder other life choices. In any case, it&#8217;s time for the yearly &#8230; <p class="link-more"><a href="/old-blog/2641" class="more-link">Continue reading<span class="screen-reader-text"> "Happy Birthday To Me. I&#8217;m 35"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>Wow. 35. This age comes with some serious what-am-I-doing-with-my-life kind of thoughts. Being unemployed, single and living with a cat at that age is hardly normative (at least in Israel) and despite being very content with the current situation it&#8217;s hard not to ponder other life choices.</p>
+<p>In any case, it&#8217;s time for the yearly look back:</p>
+<p>A year ago I left my job to start a new venture with a friend. We since grew to a 3-person team and by now we have a very early version of our product, while we&#8217;re still tweaking the requirements for the first release. Hopefully in a few months we&#8217;ll have something to show for. This is probably the year in which we&#8217;ll know for sure whether this project is destined to take off or not.</p>
+<p>Being unemployed (and having no income) for so long is my biggest worry for the upcoming year. I was very willing to spend some of my savings on this project, but I was hoping it will be in a better place by now. Other than that, I don&#8217;t think there&#8217;s a lot to say about entrepreneurship that hasn&#8217;t been said before. The joys and sorrows of this road are well documented in countless articles. I&#8217;m otherwise happy with my life, something I wished myself <a title="Happy Birthday To Me. I'm 34" href="/old-blog/2490">a year ago on my birthday post</a>.</p>
+<p>Travelling: I was abroad twice &#8211; France/Germany and Switzerland. Both trips were great. Having already booked one trip for this year &#8211; to The Prodigy&#8217;s 3rd Warrior&#8217;s Dance Festival &#8211; I already made sure that I&#8217;ll keep &#8220;exploring the world&#8221; this year as well. Travelling has become one of my favorite things.</p>
+<p>Side projects: I updated Dindy a few times in the past couple of weeks, hoping to address issues users have been experiencing for a while. I don&#8217;t plan to add any new features to Dindy &#8211; this was just to prevent it from rotting in the Android market. Unfortunately it hadn&#8217;t gained any new users for a long time now, yet it remains with a relatively high user score (4.2 out of 5.)</p>
+<p>Another side project is my <a title="Idea: Online Will" href="/old-blog/1379">online will idea</a> from nearly 3 years ago. I already have an almost fully functional version of it running on Google App Engine, but there&#8217;s still a long way to go as it lacks visual design (if you&#8217;d like to help me with that &#8211; let me know) and there&#8217;s still quite a lot of code to write.</p>
+<p>Workouts: Having suffered some injuries I&#8217;m working out (running) only twice a week now. I&#8217;m not happy about it, but I&#8217;m still in pretty good shape so it&#8217;s not that bad. I hope my injuries will subside and that I&#8217;ll be able to get back to my 3-workouts-a-week routine at some point.</p>
+<p>That&#8217;s about it, I guess. I hope you&#8217;re happy too.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/2641/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

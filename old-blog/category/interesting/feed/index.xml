@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Interesting &#8211; Syntactically Correct</title>
+	<atom:link href="/old-blog/category/interesting/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 18 Mar 2019 14:01:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Don&#8217;t Shout At Your Hard Drive</title>
+		<link>/old-blog/724</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sat, 03 Jan 2009 07:53:58 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<guid isPermaLink="false">/old-blog/?p=724</guid>
+
+					<description><![CDATA[Really, your hard drive is a sensitive creature. If you shout at it it&#8217;ll just work slower and behave badly in protest. Need proof? Check out this video: (via Digg)]]></description>
+										<content:encoded><![CDATA[<p>Really, your hard drive is a sensitive creature. If you shout at it it&#8217;ll just work slower and behave badly in protest. Need proof? Check out this video:<br />
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/tDacjrSCeq4&#038;hl=en&#038;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/tDacjrSCeq4&#038;hl=en&#038;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p>(via <a href="http://digg.com/">Digg</a>)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cold Boot Attacks On Encryption Keys</title>
+		<link>/old-blog/644</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 26 Feb 2008 04:38:05 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=644</guid>
+
+					<description><![CDATA[When I first heard about cold boot attacks I thought this was another disconnected-from-reality-cannot-be-used-in-real-life kind of research, but after watching the video on the Princeton University website I realized that this is a real problem. Namely, unlike common perception, computer memory takes time to fade out after you turn the computer off. So much time, &#8230; <p class="link-more"><a href="/old-blog/644" class="more-link">Continue reading<span class="screen-reader-text"> "Cold Boot Attacks On Encryption Keys"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>When I first heard about cold boot attacks I thought this was another disconnected-from-reality-cannot-be-used-in-real-life kind of research, but after watching <a href="http://citp.princeton.edu/memory/">the video on the Princeton University website</a> I realized that this is a real problem. Namely, unlike common perception, computer memory takes time to fade out after you turn the computer off. So much time, in fact, that you can read it and extract encryption keys from it to later unlock encrypted data. A very interesting research.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>User Experience Of The Future</title>
+		<link>/old-blog/628</link>
+					<comments>/old-blog/628#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 28 Nov 2007 06:45:40 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=628</guid>
+
+					<description><![CDATA[Yesterday I complained that the modern desktop hasn&#8217;t advanced very much. Today I kind of got my answer. Smashing Magazine posted a list named &#8220;User Experience Of The Future&#8221; which is a pretty cool collection of current advances in display and user interaction with computers. (via Digg)]]></description>
+										<content:encoded><![CDATA[<p>Yesterday <a href="/old-blog/626">I complained</a> that the modern desktop hasn&#8217;t advanced very much. Today I kind of got my answer. Smashing Magazine posted a list named <a href="http://www.smashingmagazine.com/2007/11/26/monday-inspiration-user-experience-of-the-future/">&#8220;User Experience Of The Future&#8221;</a> which is a pretty cool collection of current advances in display and user interaction with computers. (via <a href="http://digg.com/">Digg</a>)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/628/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google Announces Open Handset Alliance</title>
+		<link>/old-blog/622</link>
+					<comments>/old-blog/622#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2007 06:55:40 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">/old-blog/?p=622</guid>
+
+					<description><![CDATA[There has always been speculation that Google is developing a mobile phone (a gPhone, as most articles called it), but Google always does things differently. This time announcing the Open Handset Alliance, which is a bunch of companies that develop an open, Linux-based hardware and software platform with an open API. The platform is called &#8230; <p class="link-more"><a href="/old-blog/622" class="more-link">Continue reading<span class="screen-reader-text"> "Google Announces Open Handset Alliance"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>There has always been speculation that Google is developing a mobile phone (a gPhone, as most articles called it), but Google always does things differently. This time announcing the <a href="http://www.openhandsetalliance.com/">Open Handset Alliance</a>, which is a bunch of companies that develop an open, Linux-based hardware and software platform with an open API. The platform is called Android.</p>
+<p>There&#8217;s not much to see yet (specifically, there isn&#8217;t any phone based on Android yet) but there are two nice short videos. One is <a href="http://www.youtube.com/watch?v=6rYozIZOgDk">Introducing Android</a>, which shows the team that developed it (including Andy Rubin, who you can read about in this <a href="http://www.nytimes.com/2007/11/04/technology/04google.html">New York Times article</a>). The second video is called <a href="http://www.youtube.com/watch?v=jWtFeIw8MVM">If I had a magic phone</a> where you can see cute kids telling us what they expect from a magic phone.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/622/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Today&#8217;s link-a-palooza</title>
+		<link>/old-blog/620</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2007 13:34:53 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=620</guid>
+
+					<description><![CDATA[Paper art by Peter Callesen &#8211; very cool BitTorrent to be pimped by Nobel prize winning economical theory Which companies own the car industry &#8211; apparently you need a map to know who really makes your car]]></description>
+										<content:encoded><![CDATA[<ul>
+<li><a href="http://www.iamboredr.com/media/455/Beautiful_Paper_Art/">Paper art</a> by Peter Callesen &#8211; very cool</li>
+<li><a href="http://torrentfreak.com/bittorrent-to-be-pimped-by-nobel-prize-071019/">BitTorrent to be pimped by Nobel prize winning economical theory</a></li>
+<li><a href="http://tides.ws/wp-content/uploads/images/WhoOwnsWho/Who%20Owns%20Who.jpg">Which companies own the car industry</a> &#8211; apparently you need a map to know who really makes your car</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Today&#8217;s link-a-palooza</title>
+		<link>/old-blog/619</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2007 06:18:33 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=619</guid>
+
+					<description><![CDATA[Only two links today: 13 fantastics free high-res desktop wallpapers and another 17 Trends in the Chinese computing market (video), including Blin.cn which is a 50-times-faster-than-BitTorrent P2P network Found one more: How to make a beatbox puppet video (if you&#8217;re into that kind of stuff. The beats are pretty cool though :)]]></description>
+										<content:encoded><![CDATA[<p>Only two links today:</p>
+<ul>
+<li><a href="http://www.crestock.com/blog/photography/13-fantastic-free-wallpaper-images-80.aspx">13 fantastics free high-res desktop wallpapers</a> and <a href="http://www.crestock.com/blog/photography/another-17-fantastic-free-wallpaper-images-96.aspx">another 17</a></li>
+<li><a href="http://www.techcrunch.com/2007/10/16/50x-faster-than-bittorrent-i-want/">Trends in the Chinese computing market</a> (video), including Blin.cn which is a 50-times-faster-than-BitTorrent P2P network</li>
+</ul>
+<p>Found one more: <a href="http://www.youtube.com/watch?v=SKOwCjqwamo">How to make a beatbox puppet video</a> (if you&#8217;re into that kind of stuff. The beats are pretty cool though :)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Today&#8217;s link-a-palooza</title>
+		<link>/old-blog/618</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 16 Oct 2007 04:55:12 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=618</guid>
+
+					<description><![CDATA[It&#8217;s been so long since we had a link-a-palooza, but here it is: How to get hit by a shovel in the head and survive (by using a new and interesting material by a company called d3o) &#8211; videos Very nice optical illusion, displayed at the MIT museum Tokyo Motor Show preview &#8211; strange cars &#8230; <p class="link-more"><a href="/old-blog/618" class="more-link">Continue reading<span class="screen-reader-text"> "Today&#8217;s link-a-palooza"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s been so long since we had a link-a-palooza, but here it is:</p>
+<ul>
+<li><a href="http://brainstuff.howstuffworks.com/2007/10/04/you-can-be-whacked-with-a-sovel-if-you-are-wearing-d3o/">How to get hit by a shovel in the head and survive</a> (by using a new and interesting material by a company called <a href="http://www.d3o.com/">d3o</a>) &#8211; videos</li>
+<li>Very nice <a href="http://www.web-strategist.com/blog/web-strategy-vault/illusion/">optical illusion</a>, displayed at the MIT museum</li>
+<li>Tokyo Motor Show preview &#8211; <a href="http://www.fun-on.com/technology_cars_from_the_future_are_here.php">strange cars &#8220;of the future&#8221;</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Upside-Down House (and Message)</title>
+		<link>/old-blog/609</link>
+					<comments>/old-blog/609#comments</comments>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sun, 09 Sep 2007 05:09:23 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=609</guid>
+
+					<description><![CDATA[A Polish businessman wanted to warn the world about the path it&#8217;s taking. He decided to do it by building what is now one of Poland&#8217;s most popular tourist attractions &#8211; an upside-down house. The house is so realistic that people get disoriented the the point of sea-sickness when they&#8217;re inside. (via Digg)]]></description>
+										<content:encoded><![CDATA[<p>A Polish businessman wanted to warn the world about the path it&#8217;s taking. He decided to do it by building what is now one of Poland&#8217;s most popular tourist attractions &#8211; an <a href="http://freshome.com/2007/09/08/amazing-upside-down-house/">upside-down house</a>. The house is so realistic that people get disoriented the the point of sea-sickness when they&#8217;re inside. (via <a href="http://digg.com/">Digg</a>)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/old-blog/609/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Data Visualization Examples</title>
+		<link>/old-blog/598</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Sun, 05 Aug 2007 06:36:29 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<guid isPermaLink="false">/old-blog/?p=598</guid>
+
+					<description><![CDATA[Displaying data on graphs, pie charts and such is very common yet limited. The Internet has exposed us to many new, creative and interesting ways of displaying data. Smashing Magazine compiled some examples of data visualization in a very nice, categorized list.]]></description>
+										<content:encoded><![CDATA[<p>Displaying data on graphs, pie charts and such is very common yet limited. The Internet has exposed us to many new, creative and interesting ways of displaying data. Smashing Magazine compiled some <a href="http://www.smashingmagazine.com/2007/08/02/data-visualization-modern-approaches/">examples of data visualization in a very nice, categorized list</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Inbox Zero &#8211; Merlin Mann&#8217;s Video</title>
+		<link>/old-blog/596</link>
+		
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Mon, 30 Jul 2007 06:12:43 +0000</pubDate>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Interesting]]></category>
+		<category><![CDATA[Random Links]]></category>
+		<guid isPermaLink="false">/old-blog/?p=596</guid>
+
+					<description><![CDATA[My email Inbox folder at work currently holds 181 items. Most of them are there because they need some kind of a follow-up, but I can&#8217;t deal with them right now or the action to be taken is in the future. Merlin Mann is a well known figure in the productivity and GTD (Getting Things &#8230; <p class="link-more"><a href="/old-blog/596" class="more-link">Continue reading<span class="screen-reader-text"> "Inbox Zero &#8211; Merlin Mann&#8217;s Video"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>My email Inbox folder at work currently holds 181 items. Most of them are there because they need some kind of a follow-up, but I can&#8217;t deal with them right now or the action to be taken is in the future. Merlin Mann is a well known figure in the productivity and GTD (Getting Things Done) world (<a href="http://www.merlinmann.com/">Merlin Mann&#8217;s website</a>). Recently he gave a great talk at Google, called <a href="http://video.google.com/videoplay?docid=973149761529535925">Inbox Zero</a>, which is the name of his system for handling very large amounts of email.</p>
+<p>After watching the video and taking action I now have 21 items in my Inbox folder. Soon to be zero.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

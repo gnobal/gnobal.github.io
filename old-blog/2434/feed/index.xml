@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: How Can We Take Back Our Privacy?	</title>
+	<atom:link href="/old-blog/2434/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/2434</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Wed, 29 Dec 2010 14:12:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2434/comment-page-1#comment-169196</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Wed, 29 Dec 2010 14:12:48 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2434#comment-169196</guid>
+
+					<description><![CDATA[A sad conclusion, but I can&#039;t say I&#039;m optimistic myself.]]></description>
+			<content:encoded><![CDATA[<p>A sad conclusion, but I can&#8217;t say I&#8217;m optimistic myself.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Itai		</title>
+		<link>/old-blog/2434/comment-page-1#comment-169194</link>
+
+		<dc:creator><![CDATA[Itai]]></dc:creator>
+		<pubDate>Wed, 29 Dec 2010 14:02:37 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2434#comment-169194</guid>
+
+					<description><![CDATA[I had the chance to work on a couple of machine-learning systems (mostly classification, which is a bit different than what you suggest, but still quite similar) and I can say that these things are devilishly powerful, and I&#039;m pretty sure that once they are in wide-scale deployment they will just serve to limit your privacy much further. It&#039;s just too easy. They can indeed be used to improve privacy, but I doubt this will be their main use.
+
+The most obvious example of how these technologies can be used to limit privacy is that a simple network of cheap cameras can even today give full information of any person&#039;s exact location at any given time he is present in the covered area. Add the ability to see through walls (e.g. http://www.poc.com/emerging_products/lexid/default.asp ) and the whole concept of &quot;privacy&quot; goes more or less down the toilet.
+
+Personally I think there is no escape. Society will simply have to re-adjust to this somehow...]]></description>
+			<content:encoded><![CDATA[<p>I had the chance to work on a couple of machine-learning systems (mostly classification, which is a bit different than what you suggest, but still quite similar) and I can say that these things are devilishly powerful, and I&#8217;m pretty sure that once they are in wide-scale deployment they will just serve to limit your privacy much further. It&#8217;s just too easy. They can indeed be used to improve privacy, but I doubt this will be their main use.</p>
+<p>The most obvious example of how these technologies can be used to limit privacy is that a simple network of cheap cameras can even today give full information of any person&#8217;s exact location at any given time he is present in the covered area. Add the ability to see through walls (e.g. <a href="http://www.poc.com/emerging_products/lexid/default.asp" rel="nofollow ugc">http://www.poc.com/emerging_products/lexid/default.asp</a> ) and the whole concept of &#8220;privacy&#8221; goes more or less down the toilet.</p>
+<p>Personally I think there is no escape. Society will simply have to re-adjust to this somehow&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2434/comment-page-1#comment-169107</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2010 10:40:29 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2434#comment-169107</guid>
+
+					<description><![CDATA[Very interesting. Thanks!
+
+I thought about this further and I realized that Google, for example, has a content detection mechanism that identifies content even if it&#039;s just playing in the background of a video (by creating a type of signature of the original and comparing to signatures in the video.)
+
+Maybe someday you could be able to have specific content erased even if there are pirated copies of it (e.g. copies that are screen captures). Or at least prevent it from appearing in searches.]]></description>
+			<content:encoded><![CDATA[<p>Very interesting. Thanks!</p>
+<p>I thought about this further and I realized that Google, for example, has a content detection mechanism that identifies content even if it&#8217;s just playing in the background of a video (by creating a type of signature of the original and comparing to signatures in the video.)</p>
+<p>Maybe someday you could be able to have specific content erased even if there are pirated copies of it (e.g. copies that are screen captures). Or at least prevent it from appearing in searches.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Itai		</title>
+		<link>/old-blog/2434/comment-page-1#comment-169103</link>
+
+		<dc:creator><![CDATA[Itai]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2010 10:15:59 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2434#comment-169103</guid>
+
+					<description><![CDATA[http://www.cbsnews.com/8301-501465_162-20015384-501465.html
+
+Six Ohio state senators have introduced a bill that would compel media organizations to erase stories from the Internet about former convicts whose case records are sealed by the courts.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.cbsnews.com/8301-501465_162-20015384-501465.html" rel="nofollow ugc">http://www.cbsnews.com/8301-501465_162-20015384-501465.html</a></p>
+<p>Six Ohio state senators have introduced a bill that would compel media organizations to erase stories from the Internet about former convicts whose case records are sealed by the courts.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2434/comment-page-1#comment-169033</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 27 Dec 2010 14:06:36 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2434#comment-169033</guid>
+
+					<description><![CDATA[It&#039;s not complicated for us, maybe :)
+
+And I do enjoy the cloud services I&#039;m getting for free, but anyway my intention was that I don&#039;t mind giving up my privacy as long as I know I can have it back sometime in the future, when I feel the price of losing my privacy is too much for what I&#039;m getting in return.
+
+hubbub.at looks interesting, but I stopped participating on Facebook a long time ago, and I don&#039;t intend to go on another social network for now (I do have a blog :)]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s not complicated for us, maybe :)</p>
+<p>And I do enjoy the cloud services I&#8217;m getting for free, but anyway my intention was that I don&#8217;t mind giving up my privacy as long as I know I can have it back sometime in the future, when I feel the price of losing my privacy is too much for what I&#8217;m getting in return.</p>
+<p>hubbub.at looks interesting, but I stopped participating on Facebook a long time ago, and I don&#8217;t intend to go on another social network for now (I do have a blog :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Itai		</title>
+		<link>/old-blog/2434/comment-page-1#comment-169026</link>
+
+		<dc:creator><![CDATA[Itai]]></dc:creator>
+		<pubDate>Mon, 27 Dec 2010 12:45:58 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2434#comment-169026</guid>
+
+					<description><![CDATA[It&#039;s not that complicated:
+
+a. Stop using any central (i.e. &quot;cloud&quot;) services. e.g. Instead of Gmail - run your own MTA.
+
+b. Stop exposing your identity while browsing. You will need to completely disable cookies and such, and use an anonymising network such as Tor.
+
+c. For social networking: Use something like http://hubbub.at/ . This will, of course, not really work, because everyone else is on FB, but if enough people make the switch, maybe someday...]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s not that complicated:</p>
+<p>a. Stop using any central (i.e. &#8220;cloud&#8221;) services. e.g. Instead of Gmail &#8211; run your own MTA.</p>
+<p>b. Stop exposing your identity while browsing. You will need to completely disable cookies and such, and use an anonymising network such as Tor.</p>
+<p>c. For social networking: Use something like <a href="http://hubbub.at/" rel="nofollow ugc">http://hubbub.at/</a> . This will, of course, not really work, because everyone else is on FB, but if enough people make the switch, maybe someday&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

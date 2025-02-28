@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: My Home WiFi Is No Longer Free	</title>
+	<atom:link href="/old-blog/2391/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/2391</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sat, 18 Dec 2010 10:09:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Itai		</title>
+		<link>/old-blog/2391/comment-page-1#comment-168308</link>
+
+		<dc:creator><![CDATA[Itai]]></dc:creator>
+		<pubDate>Sat, 18 Dec 2010 10:09:29 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2391#comment-168308</guid>
+
+					<description><![CDATA[Your suggestion should have been more or less straight forward to implement, but if you look at the history of WiFi encryption, and how easy it was to crack some of the earlier protocols, you&#039;ll be quite amazed at how clueless even some of the professionals in this field sometimes are, so this oversight is not really that surprising.]]></description>
+			<content:encoded><![CDATA[<p>Your suggestion should have been more or less straight forward to implement, but if you look at the history of WiFi encryption, and how easy it was to crack some of the earlier protocols, you&#8217;ll be quite amazed at how clueless even some of the professionals in this field sometimes are, so this oversight is not really that surprising.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2391/comment-page-1#comment-168290</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sat, 18 Dec 2010 06:16:00 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2391#comment-168290</guid>
+
+					<description><![CDATA[Your idea is a good one and was actually offered by a security researcher ( http://it.slashdot.org/story/10/11/10/0355231/Sophos-Researcher-Suggests-Password-Free-to-Spur-Wi-Fi-Encryption ) - he offered that all publicly-available networks should be encrypted and with the password &quot;free.&quot;
+
+Unfortunately, though, I think I&#039;ll leave my network encrypted (with a secret password) because of my new venture after quitting IBM - it&#039;s just safer not to let anyone in instead of trying to enforce security with firewall rules like I used to.
+
+One thing I don&#039;t understand is why WiFi network encryption is related to the network password. I mean - it should have been possible to enable encryption without requiring a password. Or am I missing something? 
+
+Thanks!]]></description>
+			<content:encoded><![CDATA[<p>Your idea is a good one and was actually offered by a security researcher ( <a href="http://it.slashdot.org/story/10/11/10/0355231/Sophos-Researcher-Suggests-Password-Free-to-Spur-Wi-Fi-Encryption" rel="nofollow ugc">http://it.slashdot.org/story/10/11/10/0355231/Sophos-Researcher-Suggests-Password-Free-to-Spur-Wi-Fi-Encryption</a> ) &#8211; he offered that all publicly-available networks should be encrypted and with the password &#8220;free.&#8221;</p>
+<p>Unfortunately, though, I think I&#8217;ll leave my network encrypted (with a secret password) because of my new venture after quitting IBM &#8211; it&#8217;s just safer not to let anyone in instead of trying to enforce security with firewall rules like I used to.</p>
+<p>One thing I don&#8217;t understand is why WiFi network encryption is related to the network password. I mean &#8211; it should have been possible to enable encryption without requiring a password. Or am I missing something? </p>
+<p>Thanks!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Itai		</title>
+		<link>/old-blog/2391/comment-page-1#comment-168247</link>
+
+		<dc:creator><![CDATA[Itai]]></dc:creator>
+		<pubDate>Fri, 17 Dec 2010 19:15:14 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2391#comment-168247</guid>
+
+					<description><![CDATA[I&#039;m not an expert on WiFi security, but I&#039;m pretty certain that if you use WPA or WPA2, set your password to something like X, and your SSID to something like FREE-ACCESS-Password-is-X, you get the best of both world: Nobody can sniff your packets and your WiFi is still effectively free for all.
+
+I do have two warnings though: 1. I&#039;m not at all sure about this. Somebody will have to actually read the WPA specs to make sure it&#039;s true, and I&#039;m certainly not going to do this now. 2. One of the most common security best practices is not to open anything you don&#039;t need, so you did make the right choice in this regard anyway (unless you want to use public-access as a defense for some illegal on-line activities. The &quot;Somebody else did it&quot; excuse seems to work well in some countries).]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m not an expert on WiFi security, but I&#8217;m pretty certain that if you use WPA or WPA2, set your password to something like X, and your SSID to something like FREE-ACCESS-Password-is-X, you get the best of both world: Nobody can sniff your packets and your WiFi is still effectively free for all.</p>
+<p>I do have two warnings though: 1. I&#8217;m not at all sure about this. Somebody will have to actually read the WPA specs to make sure it&#8217;s true, and I&#8217;m certainly not going to do this now. 2. One of the most common security best practices is not to open anything you don&#8217;t need, so you did make the right choice in this regard anyway (unless you want to use public-access as a defense for some illegal on-line activities. The &#8220;Somebody else did it&#8221; excuse seems to work well in some countries).</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

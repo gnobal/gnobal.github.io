@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Diet Coke Rehab	</title>
+	<atom:link href="/old-blog/3254/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/3254</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Thu, 28 Jan 2016 13:38:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit Schreiber		</title>
+		<link>/old-blog/3254/comment-page-1#comment-2013621</link>
+
+		<dc:creator><![CDATA[Amit Schreiber]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2015 04:23:19 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3254#comment-2013621</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/old-blog/3254/comment-page-1#comment-2013620&quot;&gt;Sonin&lt;/a&gt;.
+
+Ha, that&#039;s great! Also, I had no idea you follow the blog :-)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/old-blog/3254/comment-page-1#comment-2013620">Sonin</a>.</p>
+<p>Ha, that&#8217;s great! Also, I had no idea you follow the blog :-)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sonin		</title>
+		<link>/old-blog/3254/comment-page-1#comment-2013620</link>
+
+		<dc:creator><![CDATA[Sonin]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2015 17:51:40 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=3254#comment-2013620</guid>
+
+					<description><![CDATA[Congrats, welcome to the club!]]></description>
+			<content:encoded><![CDATA[<p>Congrats, welcome to the club!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

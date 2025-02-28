@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: My New Arduino Reminded Me I&#8217;m A &#8220;High Level&#8221; Type	</title>
+	<atom:link href="/old-blog/2178/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/2178</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sun, 05 Sep 2010 05:46:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2178/comment-page-1#comment-161329</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sun, 05 Sep 2010 05:46:41 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2178#comment-161329</guid>
+
+					<description><![CDATA[The CAN protocols is an interesting possibility. I&#039;ll look into it.
+
+As for a universal remote... I looked into universal IR remote and turns out it&#039;s very complicated because of the different IR protocols by different manufacturers. It&#039;s hard to get right and the signal processing code is more than I can handle (but people have done it already.)
+
+I&#039;m sure I&#039;ll find something to do :)]]></description>
+			<content:encoded><![CDATA[<p>The CAN protocols is an interesting possibility. I&#8217;ll look into it.</p>
+<p>As for a universal remote&#8230; I looked into universal IR remote and turns out it&#8217;s very complicated because of the different IR protocols by different manufacturers. It&#8217;s hard to get right and the signal processing code is more than I can handle (but people have done it already.)</p>
+<p>I&#8217;m sure I&#8217;ll find something to do :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Itai		</title>
+		<link>/old-blog/2178/comment-page-1#comment-161327</link>
+
+		<dc:creator><![CDATA[Itai]]></dc:creator>
+		<pubDate>Sun, 05 Sep 2010 05:30:59 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2178#comment-161327</guid>
+
+					<description><![CDATA[If you can get it to speak your car&#039;s CAN protocols you can probably do some neat and semi-useful tricks (a remote that turns on the engine and air-conditioning from the office would be nice, although perhaps more than most cars can currently do via their CAN implementations without further hacking which would definitely void your warranty).
+
+Also, the world of home audio-video is full of things that although others have indeed already done, are ridiculously easy and outrageously expensive. e.g. If you can get a decent RF universal remote without donating a kidney - let me know.]]></description>
+			<content:encoded><![CDATA[<p>If you can get it to speak your car&#8217;s CAN protocols you can probably do some neat and semi-useful tricks (a remote that turns on the engine and air-conditioning from the office would be nice, although perhaps more than most cars can currently do via their CAN implementations without further hacking which would definitely void your warranty).</p>
+<p>Also, the world of home audio-video is full of things that although others have indeed already done, are ridiculously easy and outrageously expensive. e.g. If you can get a decent RF universal remote without donating a kidney &#8211; let me know.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

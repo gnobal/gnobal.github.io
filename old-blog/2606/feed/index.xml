@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Idea: Online Identity Score	</title>
+	<atom:link href="/old-blog/2606/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/2606</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Thu, 13 Oct 2011 11:51:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2606/comment-page-1#comment-178664</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2011 11:51:44 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2606#comment-178664</guid>
+
+					<description><![CDATA[Hard evidence is indeed a good way to do it, but my friend&#039;s story was that her authorized PayPal account wasn&#039;t enough for eBay (and by the way, they take around 2$ now for verification)
+
+That&#039;s why I started thinking about additional ways to validate an identity.]]></description>
+			<content:encoded><![CDATA[<p>Hard evidence is indeed a good way to do it, but my friend&#8217;s story was that her authorized PayPal account wasn&#8217;t enough for eBay (and by the way, they take around 2$ now for verification)</p>
+<p>That&#8217;s why I started thinking about additional ways to validate an identity.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: DoronH		</title>
+		<link>/old-blog/2606/comment-page-1#comment-178663</link>
+
+		<dc:creator><![CDATA[DoronH]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2011 11:09:37 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2606#comment-178663</guid>
+
+					<description><![CDATA[They have a few ways to verify that you are real here. 
+Some are based on your bank account. They might ask you to transfer one cent to a pay-pal account or something similar.
+Another way might be by verifying your address via snail mail. FYI: in Germany you have to register with the local authorities within 3 weeks of moving to a new residence.
+
+OK, you get the idea: hard evidence is needed.]]></description>
+			<content:encoded><![CDATA[<p>They have a few ways to verify that you are real here.<br />
+Some are based on your bank account. They might ask you to transfer one cent to a pay-pal account or something similar.<br />
+Another way might be by verifying your address via snail mail. FYI: in Germany you have to register with the local authorities within 3 weeks of moving to a new residence.</p>
+<p>OK, you get the idea: hard evidence is needed.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/2606/comment-page-1#comment-178614</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sun, 09 Oct 2011 20:48:21 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2606#comment-178614</guid>
+
+					<description><![CDATA[Sponsorship is a great idea!
+
+How about using your 20% for that? :)
+
+(also, feel free to choose any idea from the &quot;Ideas&quot; category)]]></description>
+			<content:encoded><![CDATA[<p>Sponsorship is a great idea!</p>
+<p>How about using your 20% for that? :)</p>
+<p>(also, feel free to choose any idea from the &#8220;Ideas&#8221; category)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: udim		</title>
+		<link>/old-blog/2606/comment-page-1#comment-178613</link>
+
+		<dc:creator><![CDATA[udim]]></dc:creator>
+		<pubDate>Sun, 09 Oct 2011 20:07:52 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=2606#comment-178613</guid>
+
+					<description><![CDATA[How about a sponsor?
+I may be wrong, but I think you can&#039;t open a bank account without a letter of employment or a related account (such as a family member).
+So you might ask someone to bootstrap your online identity by vouching for you.]]></description>
+			<content:encoded><![CDATA[<p>How about a sponsor?<br />
+I may be wrong, but I think you can&#8217;t open a bank account without a letter of employment or a related account (such as a family member).<br />
+So you might ask someone to bootstrap your online identity by vouching for you.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Daily WTF	</title>
+	<atom:link href="/old-blog/15/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/15</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Fri, 16 Sep 2005 19:36:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: arielcohen		</title>
+		<link>/old-blog/15/comment-page-1#comment-7</link>
+
+		<dc:creator><![CDATA[arielcohen]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2005 19:36:48 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=15#comment-7</guid>
+
+					<description><![CDATA[I got to admit that now I log regularly to WTF, and the shit going there is really funny... Have you seen the pop-ups from Sep 2nd? I can&#039;t stop laughing.]]></description>
+			<content:encoded><![CDATA[<p>I got to admit that now I log regularly to WTF, and the shit going there is really funny&#8230; Have you seen the pop-ups from Sep 2nd? I can&#8217;t stop laughing.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: arielcohen		</title>
+		<link>/old-blog/15/comment-page-1#comment-5</link>
+
+		<dc:creator><![CDATA[arielcohen]]></dc:creator>
+		<pubDate>Wed, 14 Sep 2005 00:02:31 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=15#comment-5</guid>
+
+					<description><![CDATA[hmmm, so I guess you are not in jail.... next time I will look at the date before I write a reply...
+Man, I had no intension to piss you off when I wrote few days ago that I hope you will not talk about programming all the time. You shouldn&#039;t completely ignore programming in your blog...]]></description>
+			<content:encoded><![CDATA[<p>hmmm, so I guess you are not in jail&#8230;. next time I will look at the date before I write a reply&#8230;<br />
+Man, I had no intension to piss you off when I wrote few days ago that I hope you will not talk about programming all the time. You shouldn&#8217;t completely ignore programming in your blog&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

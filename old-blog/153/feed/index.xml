@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: הבעיות בעברית &#8211; תמונת מצב	</title>
+	<atom:link href="/old-blog/153/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/153</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Thu, 15 Dec 2005 04:39:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: arielcohen		</title>
+		<link>/old-blog/153/comment-page-1#comment-101</link>
+
+		<dc:creator><![CDATA[arielcohen]]></dc:creator>
+		<pubDate>Thu, 15 Dec 2005 04:39:29 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=153#comment-101</guid>
+
+					<description><![CDATA[hmmm, it is realy tempting...]]></description>
+			<content:encoded><![CDATA[<p>hmmm, it is realy tempting&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: xtreeq		</title>
+		<link>/old-blog/153/comment-page-1#comment-99</link>
+
+		<dc:creator><![CDATA[xtreeq]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2005 12:23:03 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=153#comment-99</guid>
+
+					<description><![CDATA[Ok.]]></description>
+			<content:encoded><![CDATA[<p>Ok.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

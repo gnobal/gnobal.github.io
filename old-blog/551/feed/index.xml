@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: My Programming Lessons &#8211; #2 &#8211; Be Paranoid About Your Code	</title>
+	<atom:link href="/old-blog/551/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/551</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 30 Apr 2007 06:28:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/551/comment-page-1#comment-7298</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 06:28:48 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=551#comment-7298</guid>
+
+					<description><![CDATA[No, I wasn&#039;t aware of it :) Nice touch by the Wordpress people (I also fixed up your comment).
+
+Luckily, I also have the Akismet plugin which filters spam, so you don&#039;t see any crap here.
+
+Static analysis can only go so far, I believe. Imagine a program that is supposed to run for a week non-stop and there&#039;s a bug found 3 days after the place in the program where it originated. It is not related to static correctness, but to a logical mistake.
+
+Dynamic analysis is great. I love Insure++ (http://www.parasoft.com/jsp/products/home.jsp?product=Insure) and Purify (http://www-306.ibm.com/software/awdtools/purify/) but these tools change your program&#039;s behavior in the sense that they change program timing so you might not encounter the bugs if they are related to race conditions.
+
+Another things is that these tools emit so many &quot;possible bugs&quot; it&#039;s sometimes hard to distinguish real problems from non-issues. I usually use them when I see some kind of corruption (e.g. memory overrun), which is a classis case where these tools help.]]></description>
+			<content:encoded><![CDATA[<p>No, I wasn&#8217;t aware of it :) Nice touch by the WordPress people (I also fixed up your comment).</p>
+<p>Luckily, I also have the Akismet plugin which filters spam, so you don&#8217;t see any crap here.</p>
+<p>Static analysis can only go so far, I believe. Imagine a program that is supposed to run for a week non-stop and there&#8217;s a bug found 3 days after the place in the program where it originated. It is not related to static correctness, but to a logical mistake.</p>
+<p>Dynamic analysis is great. I love Insure++ (<a href="http://www.parasoft.com/jsp/products/home.jsp?product=Insure" rel="nofollow ugc">http://www.parasoft.com/jsp/products/home.jsp?product=Insure</a>) and Purify (<a href="http://www-306.ibm.com/software/awdtools/purify/" rel="nofollow ugc">http://www-306.ibm.com/software/awdtools/purify/</a>) but these tools change your program&#8217;s behavior in the sense that they change program timing so you might not encounter the bugs if they are related to race conditions.</p>
+<p>Another things is that these tools emit so many &#8220;possible bugs&#8221; it&#8217;s sometimes hard to distinguish real problems from non-issues. I usually use them when I see some kind of corruption (e.g. memory overrun), which is a classis case where these tools help.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/551/comment-page-1#comment-7227</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 02:04:07 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=551#comment-7227</guid>
+
+					<description><![CDATA[Are you aware of this: &quot;Sorry, you can only post a new comment once every 15 seconds. Slow down cowboy.&quot;?]]></description>
+			<content:encoded><![CDATA[<p>Are you aware of this: &#8220;Sorry, you can only post a new comment once every 15 seconds. Slow down cowboy.&#8221;?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/551/comment-page-1#comment-7226</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2007 02:03:18 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=551#comment-7226</guid>
+
+					<description><![CDATA[What about static/dynamic analyzers?]]></description>
+			<content:encoded><![CDATA[<p>What about static/dynamic analyzers?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rom		</title>
+		<link>/old-blog/551/comment-page-1#comment-6939</link>
+
+		<dc:creator><![CDATA[rom]]></dc:creator>
+		<pubDate>Sun, 29 Apr 2007 06:59:45 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=551#comment-6939</guid>
+
+					<description><![CDATA[Great post. I&#039;d also add that usually these sanity checks cost nothing, i mean NOTHING with regard to performance. Do not save those nanoseconds unless you REALLY REALLY REALLY have too. In other words &quot;We should forget about small efficiencies, say about 97% of the time: &lt;b&gt;premature optimization is the root of all evil.&lt;/b&gt;&quot; (from http://en.wikipedia.org/wiki/Code_Complete)]]></description>
+			<content:encoded><![CDATA[<p>Great post. I&#8217;d also add that usually these sanity checks cost nothing, i mean NOTHING with regard to performance. Do not save those nanoseconds unless you REALLY REALLY REALLY have too. In other words &#8220;We should forget about small efficiencies, say about 97% of the time: <b>premature optimization is the root of all evil.</b>&#8221; (from <a href="http://en.wikipedia.org/wiki/Code_Complete" rel="nofollow ugc">http://en.wikipedia.org/wiki/Code_Complete</a>)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

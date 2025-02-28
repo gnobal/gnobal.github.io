@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Prison vs. Work Comparison	</title>
+	<atom:link href="/old-blog/541/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/541</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Wed, 11 Apr 2007 18:28:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/541/comment-page-1#comment-4869</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Wed, 11 Apr 2007 18:28:05 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=541#comment-4869</guid>
+
+					<description><![CDATA[You should know, right? :)
+
+I hope you get to really enjoy this weekend.]]></description>
+			<content:encoded><![CDATA[<p>You should know, right? :)</p>
+<p>I hope you get to really enjoy this weekend.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rom		</title>
+		<link>/old-blog/541/comment-page-1#comment-4744</link>
+
+		<dc:creator><![CDATA[rom]]></dc:creator>
+		<pubDate>Tue, 10 Apr 2007 05:24:02 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=541#comment-4744</guid>
+
+					<description><![CDATA[Now that you mention it...]]></description>
+			<content:encoded><![CDATA[<p>Now that you mention it&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

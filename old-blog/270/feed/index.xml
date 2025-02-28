@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Videos	</title>
+	<atom:link href="/old-blog/270/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/270</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 20 Mar 2006 13:05:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/270/comment-page-1#comment-161</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2006 13:05:50 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=270#comment-161</guid>
+
+					<description><![CDATA[Cool. Thanks]]></description>
+			<content:encoded><![CDATA[<p>Cool. Thanks</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: sveta the great		</title>
+		<link>/old-blog/270/comment-page-1#comment-160</link>
+
+		<dc:creator><![CDATA[sveta the great]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2006 07:31:12 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=270#comment-160</guid>
+
+					<description><![CDATA[A parody of that juggling routine with 5 balls
+
+http://video.google.com/videoplay?docid=-6283096511750618839&#038;q=Chris+Bliss]]></description>
+			<content:encoded><![CDATA[<p>A parody of that juggling routine with 5 balls</p>
+<p><a href="http://video.google.com/videoplay?docid=-6283096511750618839&#038;q=Chris+Bliss" rel="nofollow ugc">http://video.google.com/videoplay?docid=-6283096511750618839&#038;q=Chris+Bliss</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

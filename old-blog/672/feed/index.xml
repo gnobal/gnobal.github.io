@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Google Now Translates To Hebrew	</title>
+	<atom:link href="/old-blog/672/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/672</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Wed, 22 Oct 2008 06:41:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/672/comment-page-1#comment-126051</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2008 06:41:15 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=672#comment-126051</guid>
+
+					<description><![CDATA[Yep, Google is an OK big-bad-wolf company :)
+They also have the correction feature where you can offer your own translated version of sentences translated by the system. It&#039;s a nice touch.]]></description>
+			<content:encoded><![CDATA[<p>Yep, Google is an OK big-bad-wolf company :)<br />
+They also have the correction feature where you can offer your own translated version of sentences translated by the system. It&#8217;s a nice touch.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: udim		</title>
+		<link>/old-blog/672/comment-page-1#comment-126050</link>
+
+		<dc:creator><![CDATA[udim]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2008 17:31:21 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=672#comment-126050</guid>
+
+					<description><![CDATA[&quot;מה קורה&quot; is translated to &quot;what happens&quot;]]></description>
+			<content:encoded><![CDATA[<p>&#8220;מה קורה&#8221; is translated to &#8220;what happens&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: udim		</title>
+		<link>/old-blog/672/comment-page-1#comment-126049</link>
+
+		<dc:creator><![CDATA[udim]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2008 17:30:07 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=672#comment-126049</guid>
+
+					<description><![CDATA[The cool thing is that they feed the system translated and original versions of documents to learn from.
+
+http://googlesystem.blogspot.com/2008/09/more-languages-
+in-google-translate.html]]></description>
+			<content:encoded><![CDATA[<p>The cool thing is that they feed the system translated and original versions of documents to learn from.</p>
+<p><a href="http://googlesystem.blogspot.com/2008/09/more-languages-" rel="nofollow ugc">http://googlesystem.blogspot.com/2008/09/more-languages-</a><br />
+in-google-translate.html</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

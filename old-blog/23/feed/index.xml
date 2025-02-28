@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: השירות הצבאי שלי &#8211; חלק שלישי	</title>
+	<atom:link href="/old-blog/23/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/23</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Fri, 02 Dec 2005 23:03:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: arielcohen		</title>
+		<link>/old-blog/23/comment-page-1#comment-10</link>
+
+		<dc:creator><![CDATA[arielcohen]]></dc:creator>
+		<pubDate>Tue, 20 Sep 2005 15:28:44 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=23#comment-10</guid>
+
+					<description><![CDATA[Common, hurry up! I cann&#039;t wait for you telling about Swartz.]]></description>
+			<content:encoded><![CDATA[<p>Common, hurry up! I cann&#8217;t wait for you telling about Swartz.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

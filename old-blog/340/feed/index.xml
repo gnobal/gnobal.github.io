@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Writing Software &#8211; Part 1	</title>
+	<atom:link href="/old-blog/340/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/340</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Mon, 04 Sep 2006 06:01:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/340/comment-page-1#comment-741</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Mon, 04 Sep 2006 06:01:00 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=340#comment-741</guid>
+
+					<description><![CDATA[Hehe... now you&#039;re just trying to drag me into an argument ;-)]]></description>
+			<content:encoded><![CDATA[<p>Hehe&#8230; now you&#8217;re just trying to drag me into an argument ;-)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/340/comment-page-1#comment-738</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Mon, 04 Sep 2006 00:08:20 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=340#comment-738</guid>
+
+					<description><![CDATA[&quot;pretty much&quot;??? Just to give you an analogy with something that you are familiar with: saying that Dijkstra *was pretty much right about* something in CS, is like saying that Stroustrup pretty much knows how to program... (no offence to my friends at Bell Labs)]]></description>
+			<content:encoded><![CDATA[<p>&#8220;pretty much&#8221;??? Just to give you an analogy with something that you are familiar with: saying that Dijkstra *was pretty much right about* something in CS, is like saying that Stroustrup pretty much knows how to program&#8230; (no offence to my friends at Bell Labs)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/340/comment-page-1#comment-711</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Thu, 31 Aug 2006 06:28:36 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=340#comment-711</guid>
+
+					<description><![CDATA[1. I didn&#039;t know that. Anyway, her was pretty much right about goto as well.
+2. It&#039;s funny that you mentioned recursions because that&#039;s abother thing that is not allowed in production code in many companies (again, this is true for every company I worked for)
+3. The fact that you wrote Exception with a capital E exposes you ;)]]></description>
+			<content:encoded><![CDATA[<p>1. I didn&#8217;t know that. Anyway, her was pretty much right about goto as well.<br />
+2. It&#8217;s funny that you mentioned recursions because that&#8217;s abother thing that is not allowed in production code in many companies (again, this is true for every company I worked for)<br />
+3. The fact that you wrote Exception with a capital E exposes you ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/340/comment-page-1#comment-710</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Thu, 31 Aug 2006 02:35:25 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=340#comment-710</guid>
+
+					<description><![CDATA[1. As a side remark, Dijkstra had many important papers, and he was a pioneer in concurrent systems (not only algorithms for shortest path...).
+2. Your thumb rule works only when there are no recursions, from any kind.
+3. What is an Exception? :)]]></description>
+			<content:encoded><![CDATA[<p>1. As a side remark, Dijkstra had many important papers, and he was a pioneer in concurrent systems (not only algorithms for shortest path&#8230;).<br />
+2. Your thumb rule works only when there are no recursions, from any kind.<br />
+3. What is an Exception? :)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

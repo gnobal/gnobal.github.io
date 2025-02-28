@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Ubuntu Linux &#8211; First Impressions	</title>
+	<atom:link href="/old-blog/635/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/635</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Sun, 20 Jan 2008 06:35:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/635/comment-page-1#comment-103628</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Sun, 20 Jan 2008 06:35:46 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=635#comment-103628</guid>
+
+					<description><![CDATA[You&#039;re right. Unfortunately, the ISPs don&#039;t support the &quot;always online&quot; mode of the router (without the dialer) so if you use this you can&#039;t get support for it later.
+
+In the US, who configures the router dialup? The user or the ISP? What happens if the user changes password?]]></description>
+			<content:encoded><![CDATA[<p>You&#8217;re right. Unfortunately, the ISPs don&#8217;t support the &#8220;always online&#8221; mode of the router (without the dialer) so if you use this you can&#8217;t get support for it later.</p>
+<p>In the US, who configures the router dialup? The user or the ISP? What happens if the user changes password?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/635/comment-page-1#comment-103531</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Sat, 19 Jan 2008 22:04:00 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=635#comment-103531</guid>
+
+					<description><![CDATA[I disagree with your comment &quot;expecting a home user to be constantly connected &quot;. In the US it is very obvious that this is the case. When I came here I was very surprised that I had to log in every time when using ADSL. But I found out that there is a way to hack the modem and turn it to be a router thus it always on. I think that bezeq don&#039;t give it as a default in order to make it harder for users to set a wireless connection at home, unless buying the router from bezeq.]]></description>
+			<content:encoded><![CDATA[<p>I disagree with your comment &#8220;expecting a home user to be constantly connected &#8220;. In the US it is very obvious that this is the case. When I came here I was very surprised that I had to log in every time when using ADSL. But I found out that there is a way to hack the modem and turn it to be a router thus it always on. I think that bezeq don&#8217;t give it as a default in order to make it harder for users to set a wireless connection at home, unless buying the router from bezeq.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

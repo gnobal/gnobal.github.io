@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: DeskPins &#8211; keep any window on top	</title>
+	<atom:link href="/old-blog/253/feed" rel="self" type="application/rss+xml" />
+	<link>/old-blog/253</link>
+	<description>Amit Schreiber&#039;s Blog &#124; הבלוג של עמית שרייבר</description>
+	<lastBuildDate>Wed, 29 Mar 2006 21:27:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/253/comment-page-1#comment-165</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2006 21:27:17 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=253#comment-165</guid>
+
+					<description><![CDATA[or just dumb]]></description>
+			<content:encoded><![CDATA[<p>or just dumb</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Amit		</title>
+		<link>/old-blog/253/comment-page-1#comment-164</link>
+
+		<dc:creator><![CDATA[Amit]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2006 07:33:00 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=253#comment-164</guid>
+
+					<description><![CDATA[:) It is a funny requirement... I guess the authors couldn&#039;t find a place to put it.]]></description>
+			<content:encoded><![CDATA[<p>:) It is a funny requirement&#8230; I guess the authors couldn&#8217;t find a place to put it.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ariel Cohen		</title>
+		<link>/old-blog/253/comment-page-1#comment-163</link>
+
+		<dc:creator><![CDATA[Ariel Cohen]]></dc:creator>
+		<pubDate>Tue, 28 Mar 2006 15:24:10 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=253#comment-163</guid>
+
+					<description><![CDATA[Cool!
+
+Btw, I never saw such a system requirement:
+&quot;less than 100 KB of free disk space&quot; - I assume then that no disk space will be optimal...]]></description>
+			<content:encoded><![CDATA[<p>Cool!</p>
+<p>Btw, I never saw such a system requirement:<br />
+&#8220;less than 100 KB of free disk space&#8221; &#8211; I assume then that no disk space will be optimal&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: sveta the great		</title>
+		<link>/old-blog/253/comment-page-1#comment-162</link>
+
+		<dc:creator><![CDATA[sveta the great]]></dc:creator>
+		<pubDate>Mon, 27 Mar 2006 08:05:32 +0000</pubDate>
+		<guid isPermaLink="false">/old-blog/?p=253#comment-162</guid>
+
+					<description><![CDATA[a nice &#038; useful tool.
+
+KDE has it built into it.]]></description>
+			<content:encoded><![CDATA[<p>a nice &amp; useful tool.</p>
+<p>KDE has it built into it.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
